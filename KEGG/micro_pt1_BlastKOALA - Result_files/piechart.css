@@ -1,0 +1,38 @@
+.piechart {
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.tooltip {
+  position: absolute;
+  width: auto;
+  height: auto;
+  padding: 8px;
+  pointer-events: none;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+}
+
+.hidden {
+  display: none;
+}
+
+.tooltip p {
+  margin: 0px;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.legend {
+  font-size: 12px;
+}
+
+div.piechart {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}

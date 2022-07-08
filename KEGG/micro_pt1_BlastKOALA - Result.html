@@ -1,0 +1,142 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!--
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>BlastKOALA - Result</title>
+<link rel="stylesheet" href="micro_pt1_BlastKOALA%20-%20Result_files/kegg2.css" type="text/css">
+<link rel="stylesheet" href="micro_pt1_BlastKOALA%20-%20Result_files/piechart.css" type="text/css">
+<script type="text/javascript" src="micro_pt1_BlastKOALA%20-%20Result_files/piechart.js" charset="utf-8"></script>
+<script type="text/javascript" src="micro_pt1_BlastKOALA%20-%20Result_files/d3.js" charset="utf-8"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function display(id){
+  var status = document.getElementById(id).style.display;
+  var title = id + "_title";
+  if(status == 'none'){
+    document.getElementById(id).style.display = '';
+    document.getElementById("piechart1").style.display = '';
+    document.getElementById("taxonomy_link").style.display = '';
+    document.getElementById(title).innerHTML = 'Hide detail';
+  }else{
+    document.getElementById(id).style.display = 'none';
+    document.getElementById("piechart1").style.display = 'none';
+    document.getElementById("taxonomy_link").style.display = 'none';
+    document.getElementById(title).innerHTML = 'Show detail';
+  }
+}
+
+function view_graph(data,chart) {
+  var arr_data = parse_data(data);
+  //piechart.draw(chart, data1, onclick);
+  piechart.draw(chart, arr_data[0],arr_data[1], onclick);
+}
+
+function parse_data(elem) {
+  var tmp1 = document.forms[0].elements[elem].value.split(/\|/);
+
+	if( tmp1 == '')
+	{
+		return;
+	}
+
+  var i=0;
+  var data = new Array();
+  var data2 = new Array();
+  tmp1.forEach(function(s){
+    var tmp2 = s.split(/,/);
+    var d = {
+      "label" : tmp2[0],
+      "value" : tmp2[1],
+      "color" : tmp2[2]
+    };
+    data.push(d);
+    if(i<11)
+    {
+    data2.push(d);
+    }
+    i++;
+  });
+
+  return [data,data2];
+}
+
+//-->
+</script>
+</head>
+
+
+<body onload="view_graph('chart_data2','piechart2');">
+
+<table width="700">
+<tbody><tr>
+  <td width="140" align="center">
+    <a href="https://blastkoala//"><img src="micro_pt1_BlastKOALA%20-%20Result_files/koala_logo.gif" alt="KOALA logo" border="0"></a>
+  </td>
+  <td>
+    <h2 class="title10">BlastKOALA</h2>
+    <h3 class="title10">Result</h3>
+  </td>
+</tr>
+</tbody></table>
+
+<br>
+<form method="get" action="https://www.kegg.jp/kegg-bin/blastkoala_result_taxonomy" target="_blank">
+<table class="frame1" width="700" cellpadding="2"><tbody><tr><td>
+<div id="main">
+<br>
+<div style="float:left">
+<b>Your BlastKOALA job</b>
+<div class="indent">
+Query dataset: 3456 entries<br>
+Taxonomy group: Eukaryotes,Plants,Green (Taxonomy ID: 296587)<br>
+KEGG database searched: family_eukaryotes.pep,genus_prokaryotes.pep<br>
+Job submitted: Wed May 18 05:35:06 JST 2022<br>
+Job completed: Wed May 18 14:20:24 JST 2022
+</div>
+</div>
+<div style="float:right"><input type="button" value="Help" onclick="javascript:void(window.open('/blastkoala/help_blastkoala_result.html','BlastKOALA_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))">
+</div>
+<div style="clear:both;"></div>
+<br>
+<table cellpadding="2" border="0">
+<tbody><tr><td valign="top"><b>Annotation data</b></td><td><a href="https://www.kegg.jp/kegg-bin/blastkoala_result_list?id=8e3e3bea7a564b25ec2799512c1a942b11149484&amp;passwd=UM6Eis&amp;type=blastkoala&amp;code=user" target="_list">View</a> | <a href="https://www.kegg.jp/kegg-bin/download?file=/tmp/8e3e3bea7a564b25ec2799512c1a942b11149484/user_ko.txt">Download</a></td></tr>
+<tr valign="top"><td><div class="indent">Summary</div></td><td>
+1259 entries (36.4%) annotated
+</td></tr>
+
+<tr valign="top"><td><div class="indent"><br>Functional<br>category</div></td><td>
+<div id="piechart2" class="piechart"><div id="piechart2-tooltip" class="tooltip hidden" style="left: 133.571px; top: 62.9459px;"><p><strong><span class="label">Protein families: genetic information processing</span></strong></p><p><span class="value">295</span></p></div><svg id="piechart2-piechart" width="460" height="200"><g class="arc" transform="translate(100,100)"><path fill="#ffcccc" stroke="gray" stroke-width="0.5px" d="M6.123233995736766e-15,-100A100,100 0 0,1 99.51464349461484,-9.840514729408865L0,0Z"></path><text transform="translate(33.57072483403344,-37.05410144798563)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ffcccc" stroke="gray" stroke-width="0.5px" d="M99.51464349461484,-9.840514729408865A100,100 0 0,1 41.8404785149898,90.82606650976732L0,0Z"></path><text transform="translate(43.38420730572205,24.855795228761714)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#99cc66" stroke="gray" stroke-width="0.5px" d="M41.8404785149898,90.82606650976732A100,100 0 0,1 -23.484028143647688,97.20339717390726L0,0Z"></path><text transform="translate(4.858173632107826,49.76342179714225)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#0000ee" stroke="gray" stroke-width="0.5px" d="M-23.484028143647688,97.20339717390726A100,100 0 0,1 -57.80533394425002,81.59989808568228L0,0Z"></path><text transform="translate(-20.693340674679593,45.516872165403136)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ccffff" stroke="gray" stroke-width="0.5px" d="M-57.80533394425002,81.59989808568228A100,100 0 0,1 -78.38277684292136,62.09782841929976L0,0Z"></path><text transform="translate(-34.394342050193465,36.29089741153136)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#9933cc" stroke="gray" stroke-width="0.5px" d="M-78.38277684292136,62.09782841929976A100,100 0 0,1 -91.89101901178994,39.446680785268384L0,0Z"></path><text transform="translate(-42.943451220697334,25.609763709483712)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#99cc66" stroke="gray" stroke-width="0.5px" d="M-91.89101901178994,39.446680785268384A100,100 0 0,1 -98.78633763515072,15.53253027146595L0,0Z"></path><text transform="translate(-48.042781021620065,13.85247962310946)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ffff00" stroke="gray" stroke-width="0.5px" d="M-98.78633763515072,15.53253027146595A100,100 0 0,1 -99.6079052893007,-8.84676233871469L0,0Z"></path><text transform="translate(-49.97163291166991,1.6840142936772642)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ff6699" stroke="gray" stroke-width="0.5px" d="M-99.6079052893007,-8.84676233871469A100,100 0 0,1 -95.8754745093458,-28.42346543980489L0,0Z"></path><text transform="translate(-49.115297439933435,-9.364163464339352)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ff9933" stroke="gray" stroke-width="0.5px" d="M-95.8754745093458,-28.42346543980489A100,100 0 0,1 -88.56789289669254,-46.42982175111162L0,0Z"></path><text transform="translate(-46.33005547676947,-18.802286018446356)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#99cc66" stroke="gray" stroke-width="0.5px" d="M-88.56789289669254,-46.42982175111162A100,100 0 0,1 -78.2275797740633,-62.293224051196475L0,0Z"></path><text transform="translate(-41.88703352172007,-27.30341412260194)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#009999" stroke="gray" stroke-width="0.5px" d="M-78.2275797740633,-62.293224051196475A100,100 0 0,1 -66.58480523288203,-74.60873750506147L0,0Z"></path><text transform="translate(-36.33378139128249,-34.34903681052053)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#3399ff" stroke="gray" stroke-width="0.5px" d="M-66.58480523288203,-74.60873750506147A100,100 0 0,1 -53.02954149450305,-84.78129350795952L0,0Z"></path><text transform="translate(-30.011531990481586,-39.99134840917846)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ccffff" stroke="gray" stroke-width="0.5px" d="M-53.02954149450305,-84.78129350795952A100,100 0 0,1 -37.95113107294509,-92.51870973097355L0,0Z"></path><text transform="translate(-22.827273148902076,-44.48500422148361)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#99cc66" stroke="gray" stroke-width="0.5px" d="M-37.95113107294509,-92.51870973097355A100,100 0 0,1 -25.660894446515982,-96.65153126673557L0,0Z"></path><text transform="translate(-15.936534293359973,-47.39226597997359)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ff0000" stroke="gray" stroke-width="0.5px" d="M-25.660894446515982,-96.65153126673557A100,100 0 0,1 -14.422313878631272,-98.95451916100771L0,0Z"></path><text transform="translate(-10.037328276483484,-48.98216043693974)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ffffff" stroke="gray" stroke-width="0.5px" d="M-14.422313878631272,-98.95451916100771A100,100 0 0,1 -9.964666876461436,-99.50228848645217L0,0Z"></path><text transform="translate(-6.098282963174757,-49.626716039861556)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ff6600" stroke="gray" stroke-width="0.5px" d="M-9.964666876461436,-99.50228848645217A100,100 0 0,1 -6.483250152895556,-99.78961603020116L0,0Z"></path><text transform="translate(-4.112606622645224,-49.83057762827333)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#99cc66" stroke="gray" stroke-width="0.5px" d="M-6.483250152895556,-99.78961603020116A100,100 0 0,1 -4.490044168338716,-99.89914665985074L0,0Z"></path><text transform="translate(-2.7434602377661435,-49.924677524484785)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#00cc33" stroke="gray" stroke-width="0.5px" d="M-4.490044168338716,-99.89914665985074A100,100 0 0,1 -2.495048960873366,-99.96886880765854L0,0Z"></path><text transform="translate(-1.7463602721385627,-49.969492951198696)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ffcccc" stroke="gray" stroke-width="0.5px" d="M-2.495048960873366,-99.96886880765854A100,100 0 0,1 -0.9981065894614092,-99.9950187921182L0,0Z"></path><text transform="translate(-0.8733133572965766,-49.99237265603592)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#ccaa99" stroke="gray" stroke-width="0.5px" d="M-0.9981065894614092,-99.9950187921182A100,100 0 0,1 -0.49905950956736156,-99.99875469027558L0,0Z"></path><text transform="translate(-0.3742926900348455,-49.998599030194704)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="arc" transform="translate(100,100)"><path fill="#cc3366" stroke="gray" stroke-width="0.5px" d="M-0.49905950956736156,-99.99875469027558A100,100 0 0,1 -1.0718754395722282e-13,-100L0,0Z"></path><text transform="translate(-0.12476526582094663,-49.99984433604213)" text-anchor="middle" fill="black" stroke-width="1"></text></g><g class="legend" transform="translate(210,10)"><rect width="13" height="13" style="fill: rgb(255, 204, 204); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Protein families: genetic information processing</text></g><g class="legend" transform="translate(210,27)"><rect width="13" height="13" style="fill: rgb(255, 204, 204); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Genetic Information Processing</text></g><g class="legend" transform="translate(210,44)"><rect width="13" height="13" style="fill: rgb(153, 204, 102); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Protein families: signaling and cellular processes</text></g><g class="legend" transform="translate(210,61)"><rect width="13" height="13" style="fill: rgb(0, 0, 238); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Carbohydrate metabolism</text></g><g class="legend" transform="translate(210,78)"><rect width="13" height="13" style="fill: rgb(204, 255, 255); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Protein families: metabolism</text></g><g class="legend" transform="translate(210,95)"><rect width="13" height="13" style="fill: rgb(153, 51, 204); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Energy metabolism</text></g><g class="legend" transform="translate(210,112)"><rect width="13" height="13" style="fill: rgb(153, 204, 102); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Cellular Processes</text></g><g class="legend" transform="translate(210,129)"><rect width="13" height="13" style="fill: rgb(255, 255, 0); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Environmental Information Processing</text></g><g class="legend" transform="translate(210,146)"><rect width="13" height="13" style="fill: rgb(255, 102, 153); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Metabolism of cofactors and vitamins</text></g><g class="legend" transform="translate(210,163)"><rect width="13" height="13" style="fill: rgb(255, 153, 51); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Amino acid metabolism</text></g><g class="legend" transform="translate(210,180)"><rect width="13" height="13" style="fill: rgb(153, 204, 102); stroke-width: 0.5px; stroke: gray;"></rect><text x="17" y="9">Organismal Systems</text></g></svg></div>
+<input type="hidden" name="chart_data2" value="Protein families: genetic information processing,295,#ffcccc|Genetic Information Processing,248,#ffcccc|Protein families: signaling and cellular processes,134,#99cc66|Carbohydrate metabolism,76,#0000ee|Protein families: metabolism,57,#ccffff|Energy metabolism,53,#9933cc|Cellular Processes,50,#99cc66|Environmental Information Processing,49,#ffff00|Metabolism of cofactors and vitamins,40,#ff6699|Amino acid metabolism,39,#ff9933|Organismal Systems,38,#99cc66|Lipid metabolism,34,#009999|Glycan biosynthesis and metabolism,34,#3399ff|Unclassified: metabolism,34,#ccffff|Human Diseases,26,#99cc66|Nucleotide metabolism,23,#ff0000|Unclassified,9,#ffffff|Metabolism of other amino acids,7,#ff6600|Unclassified: signaling and cellular processes,4,#99cc66|Metabolism of terpenoids and polyketides,4,#00cc33|Unclassified: genetic information processing,3,#ffcccc|Xenobiotics biodegradation and metabolism,1,#ccaa99|Biosynthesis of other secondary metabolites,1,#cc3366">
+<div align="right"><br><a href="https://www.kegg.jp/kegg/kegg1c.html#functional" target="_blank">See color codes</a></div>
+</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td valign="top"><b>KEGG Mapper</b></td><td>
+<a href="https://www.kegg.jp/kegg-bin/find_pathway_object?query_pathwayfile=8e3e3bea7a564b25ec2799512c1a942b11149484/user_ko.txt" target="_pathway">Reconstruct Pathway</a><br>
+<!--
+<a href='https://www.kegg.jp/kegg-bin/find_brite_object?query_pathwayfile=8e3e3bea7a564b25ec2799512c1a942b11149484/user_ko.txt' target='_brite'>Reconstruct Brite</a><br />
+<a href='https://www.kegg.jp/kegg-bin/find_module_object?query_pathwayfile=8e3e3bea7a564b25ec2799512c1a942b11149484/user_ko.txt&amp;mode=complete+ng1+ng2' target='_module'>Reconstruct Module</a><br />
+-->
+</td></tr>
+ <!-- IF ghostkoala -->
+ <!-- ELSE not pathogen -->
+</tbody></table>
+<input type="hidden" name="id" value="8e3e3bea7a564b25ec2799512c1a942b11149484">
+<input type="hidden" name="passwd" value="UM6Eis">
+<input type="hidden" name="code" value="user">
+<input type="hidden" name="type" value="blastkoala">
+<input type="hidden" name="taxonomy_mode" value="">
+<br>
+</div></td></tr></tbody></table>
+</form>
+
+<div style="margin-left:10px; margin-top:10px;">
+[ <a href="https://www.kegg.jp/blastkoala/">BlastKOALA</a> | <a href="https://www.kegg.jp/">KEGG</a> | <a href="http://www.kanehisa.jp/">Kanehisa Labs</a> ]
+</div>
+
+
+</body></html>

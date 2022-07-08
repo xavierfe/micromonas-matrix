@@ -1,0 +1,3463 @@
+jgi|MicpuN3v2|6885|wlab.236682.1
+jgi|MicpuN3v2|6886|wlab.236683.1	K15535
+jgi|MicpuN3v2|6887|wlab.236680.1
+jgi|MicpuN3v2|6888|wlab.236679.1
+jgi|MicpuN3v2|6889|wlab.236678.1	K20523
+jgi|MicpuN3v2|688|wlab.10076.1	K02146
+jgi|MicpuN3v2|6890|wlab.236677.1
+jgi|MicpuN3v2|6891|wlab.24780.1
+jgi|MicpuN3v2|6892|wlab.236676.1
+jgi|MicpuN3v2|6893|wlab.236675.1
+jgi|MicpuN3v2|6894|wlab.236674.1
+jgi|MicpuN3v2|6895|wlab.236673.1
+jgi|MicpuN3v2|6896|wlab.24782.1
+jgi|MicpuN3v2|6897|wlab.237561.1
+jgi|MicpuN3v2|6898|wlab.6437.1
+jgi|MicpuN3v2|6899|wlab.237560.1	K00602
+jgi|MicpuN3v2|689|wlab.247194.1	K18624
+jgi|MicpuN3v2|68|wlab.232486.1
+jgi|MicpuN3v2|6900|wlab.6438.1	K01845
+jgi|MicpuN3v2|6901|wlab.246903.1	K22614
+jgi|MicpuN3v2|6902|wlab.237558.1
+jgi|MicpuN3v2|6903|wlab.246800.1
+jgi|MicpuN3v2|6904|wlab.246905.1
+jgi|MicpuN3v2|6905|wlab.246906.1
+jgi|MicpuN3v2|6906|wlab.246907.1
+jgi|MicpuN3v2|6907|wlab.237557.1
+jgi|MicpuN3v2|6908|wlab.237555.1
+jgi|MicpuN3v2|6909|wlab.237556.1
+jgi|MicpuN3v2|690|wlab.232170.1	K17508
+jgi|MicpuN3v2|6910|wlab.237554.1	K25656
+jgi|MicpuN3v2|6911|wlab.237553.1	K15276
+jgi|MicpuN3v2|6912|wlab.246908.1
+jgi|MicpuN3v2|6913|wlab.246909.1
+jgi|MicpuN3v2|6914|wlab.237551.1
+jgi|MicpuN3v2|6915|wlab.6447.1
+jgi|MicpuN3v2|6916|wlab.6448.1
+jgi|MicpuN3v2|6917|wlab.6449.1
+jgi|MicpuN3v2|6918|wlab.237548.1
+jgi|MicpuN3v2|6919|wlab.237547.1	K23966
+jgi|MicpuN3v2|691|wlab.247195.1
+jgi|MicpuN3v2|6920|wlab.237546.1	K19269
+jgi|MicpuN3v2|6921|wlab.237545.1
+jgi|MicpuN3v2|6922|wlab.6452.1	K11426
+jgi|MicpuN3v2|6923|wlab.248631.1
+jgi|MicpuN3v2|6924|wlab.246910.1	K21777
+jgi|MicpuN3v2|6925|wlab.237543.1	K14304
+jgi|MicpuN3v2|6926|wlab.2245.1	K00134
+jgi|MicpuN3v2|6927|wlab.246911.1	K14301
+jgi|MicpuN3v2|6928|wlab.237541.1	K21806
+jgi|MicpuN3v2|6929|wlab.2651.1	K00939
+jgi|MicpuN3v2|692|wlab.247197.1	K08065
+jgi|MicpuN3v2|6930|wlab.237540.1	K23490
+jgi|MicpuN3v2|6931|wlab.16550.1
+jgi|MicpuN3v2|6932|wlab.237539.1
+jgi|MicpuN3v2|6933|wlab.237538.1
+jgi|MicpuN3v2|6934|wlab.246912.1	K01883
+jgi|MicpuN3v2|6935|wlab.237536.1
+jgi|MicpuN3v2|6936|wlab.6456.1	K14640
+jgi|MicpuN3v2|6937|wlab.237535.1
+jgi|MicpuN3v2|6938|wlab.237534.1	K20784
+jgi|MicpuN3v2|6939|wlab.246913.1
+jgi|MicpuN3v2|693|wlab.247196.1	K02433
+jgi|MicpuN3v2|6940|wlab.9919.1
+jgi|MicpuN3v2|6941|wlab.231737.1
+jgi|MicpuN3v2|6942|wlab.237532.1
+jgi|MicpuN3v2|6943|wlab.237531.1	K19828
+jgi|MicpuN3v2|6944|wlab.237530.1
+jgi|MicpuN3v2|6945|wlab.237529.1	K22748
+jgi|MicpuN3v2|6946|wlab.237528.1
+jgi|MicpuN3v2|6947|wlab.237527.1
+jgi|MicpuN3v2|6948|wlab.237526.1
+jgi|MicpuN3v2|6949|wlab.237524.1	K01537
+jgi|MicpuN3v2|694|wlab.232582.1
+jgi|MicpuN3v2|6950|wlab.237525.1	K01519
+jgi|MicpuN3v2|6951|wlab.24806.1	K05850
+jgi|MicpuN3v2|6952|wlab.237523.1
+jgi|MicpuN3v2|6953|wlab.237522.1	K18213
+jgi|MicpuN3v2|6954|wlab.237521.1	K00472
+jgi|MicpuN3v2|6955|wlab.237520.1	K15377
+jgi|MicpuN3v2|6956|wlab.237519.1	K03544
+jgi|MicpuN3v2|6957|wlab.6464.1
+jgi|MicpuN3v2|6958|wlab.237518.1
+jgi|MicpuN3v2|6959|wlab.24809.1
+jgi|MicpuN3v2|695|wlab.247198.1	K17795
+jgi|MicpuN3v2|6960|wlab.237517.1
+jgi|MicpuN3v2|6961|wlab.28692.1
+jgi|MicpuN3v2|6962|wlab.237516.1	K08679
+jgi|MicpuN3v2|6963|wlab.237515.1
+jgi|MicpuN3v2|6964|wlab.237514.1	K25112
+jgi|MicpuN3v2|6965|wlab.237511.1
+jgi|MicpuN3v2|6966|wlab.237512.1	K03136
+jgi|MicpuN3v2|6967|wlab.237513.1
+jgi|MicpuN3v2|6968|wlab.237510.1	K14768
+jgi|MicpuN3v2|6969|wlab.237509.1	K24680
+jgi|MicpuN3v2|696|wlab.247199.1	K01647
+jgi|MicpuN3v2|6970|wlab.8659.1
+jgi|MicpuN3v2|6971|wlab.237508.1
+jgi|MicpuN3v2|6972|wlab.237507.1
+jgi|MicpuN3v2|6973|wlab.24814.1
+jgi|MicpuN3v2|6974|wlab.237505.1
+jgi|MicpuN3v2|6975|wlab.237504.1	K04569
+jgi|MicpuN3v2|6976|wlab.245800.1	K04565
+jgi|MicpuN3v2|6977|wlab.237503.1	K15153
+jgi|MicpuN3v2|6978|wlab.237502.1	K14011
+jgi|MicpuN3v2|6979|wlab.28698.1
+jgi|MicpuN3v2|697|wlab.247200.1
+jgi|MicpuN3v2|6980|wlab.231731.1
+jgi|MicpuN3v2|6981|wlab.237474.1	K02906
+jgi|MicpuN3v2|6982|wlab.6476.1
+jgi|MicpuN3v2|6983|wlab.237501.1
+jgi|MicpuN3v2|6984|wlab.237500.1
+jgi|MicpuN3v2|6985|wlab.246914.1	K19680
+jgi|MicpuN3v2|6986|wlab.237498.1	K14782
+jgi|MicpuN3v2|6987|wlab.6479.1
+jgi|MicpuN3v2|6988|wlab.8661.1
+jgi|MicpuN3v2|6989|wlab.231734.1
+jgi|MicpuN3v2|698|wlab.232166.1	K03372
+jgi|MicpuN3v2|6990|wlab.9883.1
+jgi|MicpuN3v2|6991|wlab.237496.1	K12524
+jgi|MicpuN3v2|6992|wlab.246915.1
+jgi|MicpuN3v2|6993|wlab.237494.1	K15296
+jgi|MicpuN3v2|6994|wlab.8663.1
+jgi|MicpuN3v2|6995|wlab.237493.1
+jgi|MicpuN3v2|6996|wlab.6481.1
+jgi|MicpuN3v2|6997|wlab.6482.1
+jgi|MicpuN3v2|6998|wlab.24826.1
+jgi|MicpuN3v2|6999|wlab.1829.1
+jgi|MicpuN3v2|699|wlab.232165.1
+jgi|MicpuN3v2|69|wlab.232484.1
+jgi|MicpuN3v2|6|wlab.232540.1
+jgi|MicpuN3v2|7000|wlab.237491.1
+jgi|MicpuN3v2|7001|wlab.6483.1
+jgi|MicpuN3v2|7002|wlab.237490.1	K03320
+jgi|MicpuN3v2|7003|wlab.237489.1
+jgi|MicpuN3v2|7004|wlab.237488.1
+jgi|MicpuN3v2|7005|wlab.245796.1
+jgi|MicpuN3v2|7006|wlab.237486.1
+jgi|MicpuN3v2|7007|wlab.237485.1
+jgi|MicpuN3v2|7008|wlab.237484.1
+jgi|MicpuN3v2|7009|wlab.237483.1	K01412
+jgi|MicpuN3v2|700|wlab.247201.1
+jgi|MicpuN3v2|7010|wlab.237482.1	K23313
+jgi|MicpuN3v2|7011|wlab.246917.1
+jgi|MicpuN3v2|7012|wlab.96.1	K15196
+jgi|MicpuN3v2|7013|wlab.1831.1
+jgi|MicpuN3v2|7014|wlab.24832.1
+jgi|MicpuN3v2|7015|wlab.237480.1
+jgi|MicpuN3v2|7016|wlab.24833.1	K00645
+jgi|MicpuN3v2|7017|wlab.237479.1
+jgi|MicpuN3v2|7018|wlab.237562.1
+jgi|MicpuN3v2|7019|wlab.237478.1
+jgi|MicpuN3v2|701|wlab.247202.1	K20823
+jgi|MicpuN3v2|7020|wlab.237477.1	K03260
+jgi|MicpuN3v2|7021|wlab.237476.1
+jgi|MicpuN3v2|7022|wlab.246918.1	K07152
+jgi|MicpuN3v2|7023|wlab.246919.1
+jgi|MicpuN3v2|7024|wlab.237471.1
+jgi|MicpuN3v2|7025|wlab.237470.1
+jgi|MicpuN3v2|7026|wlab.8666.1
+jgi|MicpuN3v2|7027|wlab.20949.1	K13617
+jgi|MicpuN3v2|7028|wlab.245791.1	K09419
+jgi|MicpuN3v2|7029|wlab.1835.1	K00213
+jgi|MicpuN3v2|702|wlab.247203.1
+jgi|MicpuN3v2|7030|wlab.20951.1
+jgi|MicpuN3v2|7031|wlab.237465.1
+jgi|MicpuN3v2|7032|wlab.248545.1	K15443
+jgi|MicpuN3v2|7033|wlab.246920.1
+jgi|MicpuN3v2|7034|wlab.237463.1
+jgi|MicpuN3v2|7035|wlab.237462.1
+jgi|MicpuN3v2|7036|wlab.237460.1
+jgi|MicpuN3v2|7037|wlab.237461.1
+jgi|MicpuN3v2|7038|wlab.237459.1
+jgi|MicpuN3v2|7039|wlab.245790.1
+jgi|MicpuN3v2|703|wlab.247204.1	K14944
+jgi|MicpuN3v2|7040|wlab.6501.1
+jgi|MicpuN3v2|7041|wlab.237457.1
+jgi|MicpuN3v2|7042|wlab.237568.1
+jgi|MicpuN3v2|7043|wlab.246923.1
+jgi|MicpuN3v2|7044|wlab.237455.1
+jgi|MicpuN3v2|7045|wlab.246922.1	K09571
+jgi|MicpuN3v2|7046|wlab.237452.1
+jgi|MicpuN3v2|7047|wlab.237453.1
+jgi|MicpuN3v2|7048|wlab.237454.1
+jgi|MicpuN3v2|7049|wlab.237449.1	K15177
+jgi|MicpuN3v2|704|wlab.10096.1	K14810
+jgi|MicpuN3v2|7050|wlab.246924.1
+jgi|MicpuN3v2|7051|wlab.237448.1
+jgi|MicpuN3v2|7052|wlab.237447.1	K14977
+jgi|MicpuN3v2|7053|wlab.246925.1
+jgi|MicpuN3v2|7054|wlab.237445.1
+jgi|MicpuN3v2|7055|wlab.237442.1
+jgi|MicpuN3v2|7056|wlab.237444.1
+jgi|MicpuN3v2|7057|wlab.237563.1	K03943
+jgi|MicpuN3v2|7058|wlab.1840.1
+jgi|MicpuN3v2|7059|wlab.246926.1
+jgi|MicpuN3v2|705|wlab.38983.1	K12271
+jgi|MicpuN3v2|7060|wlab.24853.1
+jgi|MicpuN3v2|7061|wlab.246927.1
+jgi|MicpuN3v2|7062|wlab.24854.1
+jgi|MicpuN3v2|7063|wlab.6509.1
+jgi|MicpuN3v2|7064|wlab.237437.1
+jgi|MicpuN3v2|7065|wlab.237438.1	K02990
+jgi|MicpuN3v2|7066|wlab.24858.1	K02735
+jgi|MicpuN3v2|7067|wlab.24859.1
+jgi|MicpuN3v2|7068|wlab.237434.1
+jgi|MicpuN3v2|7069|wlab.8671.1
+jgi|MicpuN3v2|706|wlab.232585.1
+jgi|MicpuN3v2|7070|wlab.237433.1
+jgi|MicpuN3v2|7071|wlab.237432.1	K01792
+jgi|MicpuN3v2|7072|wlab.237431.1
+jgi|MicpuN3v2|7073|wlab.237430.1	K15542
+jgi|MicpuN3v2|7074|wlab.245777.1	K01649
+jgi|MicpuN3v2|7075|wlab.237428.1
+jgi|MicpuN3v2|7076|wlab.16571.1
+jgi|MicpuN3v2|7077|wlab.246928.1	K01427
+jgi|MicpuN3v2|7078|wlab.6510.1	K03188
+jgi|MicpuN3v2|7079|wlab.24869.1	K03190
+jgi|MicpuN3v2|707|wlab.247205.1
+jgi|MicpuN3v2|7080|wlab.237425.1
+jgi|MicpuN3v2|7081|wlab.237424.1	K03189
+jgi|MicpuN3v2|7082|wlab.237423.1	K00486
+jgi|MicpuN3v2|7083|wlab.237421.1
+jgi|MicpuN3v2|7084|wlab.237422.1	K18423
+jgi|MicpuN3v2|7085|wlab.8673.1
+jgi|MicpuN3v2|7086|wlab.8674.1
+jgi|MicpuN3v2|7087|wlab.237420.1	K03021
+jgi|MicpuN3v2|7088|wlab.24873.1
+jgi|MicpuN3v2|7089|wlab.237419.1
+jgi|MicpuN3v2|708|wlab.232160.1
+jgi|MicpuN3v2|7090|wlab.1845.1	K20295
+jgi|MicpuN3v2|7091|wlab.8675.1
+jgi|MicpuN3v2|7092|wlab.237417.1
+jgi|MicpuN3v2|7093|wlab.237416.1
+jgi|MicpuN3v2|7094|wlab.237415.1
+jgi|MicpuN3v2|7095|wlab.237414.1
+jgi|MicpuN3v2|7096|wlab.237413.1
+jgi|MicpuN3v2|7097|wlab.237412.1
+jgi|MicpuN3v2|7098|wlab.237411.1	K13110
+jgi|MicpuN3v2|7099|wlab.237410.1
+jgi|MicpuN3v2|709|wlab.22229.1	K03637
+jgi|MicpuN3v2|70|wlab.232485.1
+jgi|MicpuN3v2|7100|wlab.237409.1
+jgi|MicpuN3v2|7101|wlab.246929.1
+jgi|MicpuN3v2|7102|wlab.248597.1
+jgi|MicpuN3v2|7103|wlab.237406.1
+jgi|MicpuN3v2|7104|wlab.237407.1
+jgi|MicpuN3v2|7105|wlab.237405.1	K20884
+jgi|MicpuN3v2|7106|wlab.237404.1	K20792
+jgi|MicpuN3v2|7107|wlab.237403.1	K12197
+jgi|MicpuN3v2|7108|wlab.237402.1
+jgi|MicpuN3v2|7109|wlab.237401.1	K11168
+jgi|MicpuN3v2|710|wlab.10099.1	K24104
+jgi|MicpuN3v2|7110|wlab.237400.1	K13124
+jgi|MicpuN3v2|7111|wlab.237399.1
+jgi|MicpuN3v2|7112|wlab.237397.1	K22746
+jgi|MicpuN3v2|7113|wlab.237398.1	K15745
+jgi|MicpuN3v2|7114|wlab.237396.1	K02879
+jgi|MicpuN3v2|7115|wlab.231720.1	K14843
+jgi|MicpuN3v2|7116|wlab.237395.1
+jgi|MicpuN3v2|7117|wlab.6522.1	K18810
+jgi|MicpuN3v2|7118|wlab.237394.1
+jgi|MicpuN3v2|7119|wlab.237564.1
+jgi|MicpuN3v2|711|wlab.247206.1	K12392
+jgi|MicpuN3v2|7120|wlab.6523.1
+jgi|MicpuN3v2|7121|wlab.6525.1
+jgi|MicpuN3v2|7122|wlab.246930.1
+jgi|MicpuN3v2|7123|wlab.237393.1	K00784
+jgi|MicpuN3v2|7124|wlab.237392.1	K12877
+jgi|MicpuN3v2|7125|wlab.24889.1	K00949
+jgi|MicpuN3v2|7126|wlab.6527.1
+jgi|MicpuN3v2|7127|wlab.237391.1
+jgi|MicpuN3v2|7128|wlab.237389.1
+jgi|MicpuN3v2|7129|wlab.237388.1
+jgi|MicpuN3v2|712|wlab.230209.1	K14807
+jgi|MicpuN3v2|7130|wlab.237565.1	K09595
+jgi|MicpuN3v2|7131|wlab.237387.1
+jgi|MicpuN3v2|7132|wlab.246931.1
+jgi|MicpuN3v2|7133|wlab.237386.1
+jgi|MicpuN3v2|7134|wlab.237385.1	K09561
+jgi|MicpuN3v2|7135|wlab.6533.1
+jgi|MicpuN3v2|7136|wlab.237384.1	K22803
+jgi|MicpuN3v2|7137|wlab.246805.1
+jgi|MicpuN3v2|7138|wlab.6535.1
+jgi|MicpuN3v2|7139|wlab.237383.1
+jgi|MicpuN3v2|713|wlab.232157.1
+jgi|MicpuN3v2|7140|wlab.248697.1	K11254
+jgi|MicpuN3v2|7141|wlab.248698.1	K11254
+jgi|MicpuN3v2|7142|wlab.237382.1	K24030
+jgi|MicpuN3v2|7143|wlab.237381.1	K18764
+jgi|MicpuN3v2|7144|wlab.237379.1	K13343
+jgi|MicpuN3v2|7145|wlab.237380.1
+jgi|MicpuN3v2|7146|wlab.237378.1
+jgi|MicpuN3v2|7147|wlab.237377.1
+jgi|MicpuN3v2|7148|wlab.237376.1
+jgi|MicpuN3v2|7149|wlab.237375.1
+jgi|MicpuN3v2|714|wlab.247207.1
+jgi|MicpuN3v2|7150|wlab.246932.1
+jgi|MicpuN3v2|7151|wlab.237374.1	K12818
+jgi|MicpuN3v2|7152|wlab.237373.1	K08818
+jgi|MicpuN3v2|7153|wlab.246806.1
+jgi|MicpuN3v2|7154|wlab.237371.1
+jgi|MicpuN3v2|7155|wlab.237372.1	K06676
+jgi|MicpuN3v2|7156|wlab.6541.1
+jgi|MicpuN3v2|7157|wlab.237370.1
+jgi|MicpuN3v2|7158|wlab.6542.1
+jgi|MicpuN3v2|7159|wlab.24902.1
+jgi|MicpuN3v2|715|wlab.247208.1	K02864
+jgi|MicpuN3v2|7160|wlab.231718.1	K09486
+jgi|MicpuN3v2|7161|wlab.237368.1	K07750
+jgi|MicpuN3v2|7162|wlab.237369.1	K05681
+jgi|MicpuN3v2|7163|wlab.248699.1
+jgi|MicpuN3v2|7164|wlab.13633.1	K06981
+jgi|MicpuN3v2|7165|wlab.245770.1
+jgi|MicpuN3v2|7166|wlab.245768.1
+jgi|MicpuN3v2|7167|wlab.24908.1
+jgi|MicpuN3v2|7168|wlab.237363.1	K23289
+jgi|MicpuN3v2|7169|wlab.237364.1
+jgi|MicpuN3v2|716|wlab.247209.1
+jgi|MicpuN3v2|7170|wlab.237362.1
+jgi|MicpuN3v2|7171|wlab.237361.1
+jgi|MicpuN3v2|7172|wlab.1857.1
+jgi|MicpuN3v2|7173|wlab.237360.1	K08869
+jgi|MicpuN3v2|7174|wlab.6547.1	K19720
+jgi|MicpuN3v2|7175|wlab.24912.1
+jgi|MicpuN3v2|7176|wlab.248596.1
+jgi|MicpuN3v2|7177|wlab.237357.1	K08506
+jgi|MicpuN3v2|7178|wlab.245766.1
+jgi|MicpuN3v2|7179|wlab.237356.1
+jgi|MicpuN3v2|717|wlab.247210.1
+jgi|MicpuN3v2|7180|wlab.237355.1
+jgi|MicpuN3v2|7181|wlab.20993.1
+jgi|MicpuN3v2|7182|wlab.237353.1
+jgi|MicpuN3v2|7183|wlab.237352.1	K07112
+jgi|MicpuN3v2|7184|wlab.237351.1
+jgi|MicpuN3v2|7185|wlab.246933.1
+jgi|MicpuN3v2|7186|wlab.246934.1
+jgi|MicpuN3v2|7187|wlab.237349.1
+jgi|MicpuN3v2|7188|wlab.6553.1	K03541
+jgi|MicpuN3v2|7189|wlab.237348.1	K11721
+jgi|MicpuN3v2|718|wlab.232155.1	K10143
+jgi|MicpuN3v2|7190|wlab.231703.1
+jgi|MicpuN3v2|7191|wlab.1860.1
+jgi|MicpuN3v2|7192|wlab.6556.1
+jgi|MicpuN3v2|7193|wlab.24920.1
+jgi|MicpuN3v2|7194|wlab.24921.1	K02183
+jgi|MicpuN3v2|7195|wlab.237347.1	K00036
+jgi|MicpuN3v2|7196|wlab.237346.1	K00344
+jgi|MicpuN3v2|7197|wlab.237344.1
+jgi|MicpuN3v2|7198|wlab.237343.1
+jgi|MicpuN3v2|7199|wlab.237342.1
+jgi|MicpuN3v2|719|wlab.232154.1	K14292
+jgi|MicpuN3v2|71|wlab.232483.1
+jgi|MicpuN3v2|7200|wlab.17979.1	K23735
+jgi|MicpuN3v2|7201|wlab.24926.1	K08825
+jgi|MicpuN3v2|7202|wlab.246935.1
+jgi|MicpuN3v2|7203|wlab.237340.1
+jgi|MicpuN3v2|7204|wlab.245754.1	K14521
+jgi|MicpuN3v2|7205|wlab.237339.1	K14864
+jgi|MicpuN3v2|7206|wlab.237338.1	K04097
+jgi|MicpuN3v2|7207|wlab.248564.1
+jgi|MicpuN3v2|7208|wlab.237336.1	K02295
+jgi|MicpuN3v2|7209|wlab.237335.1
+jgi|MicpuN3v2|720|wlab.239760.1	K05535
+jgi|MicpuN3v2|7210|wlab.21000.1	K19761
+jgi|MicpuN3v2|7211|wlab.237334.1
+jgi|MicpuN3v2|7212|wlab.246936.1
+jgi|MicpuN3v2|7213|wlab.13555.1	K12891
+jgi|MicpuN3v2|7214|wlab.245752.1
+jgi|MicpuN3v2|7215|wlab.231701.1
+jgi|MicpuN3v2|7216|wlab.237330.1	K20221
+jgi|MicpuN3v2|7217|wlab.237329.1
+jgi|MicpuN3v2|7218|wlab.1864.1
+jgi|MicpuN3v2|7219|wlab.246937.1	K11886
+jgi|MicpuN3v2|721|wlab.3535.1
+jgi|MicpuN3v2|7220|wlab.246938.1	K02291
+jgi|MicpuN3v2|7221|wlab.245751.1
+jgi|MicpuN3v2|7222|wlab.24941.1	K00627
+jgi|MicpuN3v2|7223|wlab.237327.1
+jgi|MicpuN3v2|7224|wlab.237326.1	K22047
+jgi|MicpuN3v2|7225|wlab.8689.1
+jgi|MicpuN3v2|7226|wlab.237325.1	K15042
+jgi|MicpuN3v2|7227|wlab.237324.1	K00545
+jgi|MicpuN3v2|7228|wlab.237323.1	K14692
+jgi|MicpuN3v2|7229|wlab.6562.1
+jgi|MicpuN3v2|722|wlab.247211.1
+jgi|MicpuN3v2|7230|wlab.237322.1	K02516
+jgi|MicpuN3v2|7231|wlab.246939.1
+jgi|MicpuN3v2|7232|wlab.246940.1
+jgi|MicpuN3v2|7233|wlab.237320.1
+jgi|MicpuN3v2|7234|wlab.237319.1
+jgi|MicpuN3v2|7235|wlab.237318.1
+jgi|MicpuN3v2|7236|wlab.237317.1
+jgi|MicpuN3v2|7237|wlab.245750.1	K02993
+jgi|MicpuN3v2|7238|wlab.237316.1
+jgi|MicpuN3v2|7239|wlab.237315.1	K17541
+jgi|MicpuN3v2|723|wlab.247212.1
+jgi|MicpuN3v2|7240|wlab.237571.1	K09595
+jgi|MicpuN3v2|7241|wlab.237314.1
+jgi|MicpuN3v2|7242|wlab.2830.1	K17338
+jgi|MicpuN3v2|7243|wlab.237313.1	K10399
+jgi|MicpuN3v2|7244|wlab.237312.1	K14403
+jgi|MicpuN3v2|7245|wlab.237311.1	K00681
+jgi|MicpuN3v2|7246|wlab.237310.1
+jgi|MicpuN3v2|7247|wlab.237309.1
+jgi|MicpuN3v2|7248|wlab.237308.1
+jgi|MicpuN3v2|7249|wlab.237307.1
+jgi|MicpuN3v2|724|wlab.247213.1	K18151
+jgi|MicpuN3v2|7250|wlab.246942.1
+jgi|MicpuN3v2|7251|wlab.237306.1	K00428
+jgi|MicpuN3v2|7252|wlab.246941.1
+jgi|MicpuN3v2|7253|wlab.231697.1	K03037
+jgi|MicpuN3v2|7254|wlab.237304.1	K11412
+jgi|MicpuN3v2|7255|wlab.246943.1
+jgi|MicpuN3v2|7256|wlab.245747.1	K14683
+jgi|MicpuN3v2|7257|wlab.237303.1	K06669
+jgi|MicpuN3v2|7258|wlab.24964.1
+jgi|MicpuN3v2|7259|wlab.237302.1
+jgi|MicpuN3v2|725|wlab.19267.1	K02725
+jgi|MicpuN3v2|7260|wlab.237301.1
+jgi|MicpuN3v2|7261|wlab.6568.1
+jgi|MicpuN3v2|7262|wlab.237300.1	K15710
+jgi|MicpuN3v2|7263|wlab.24966.1
+jgi|MicpuN3v2|7264|wlab.237299.1	K08073
+jgi|MicpuN3v2|7265|wlab.245745.1
+jgi|MicpuN3v2|7266|wlab.237298.1	K03348
+jgi|MicpuN3v2|7267|wlab.237297.1
+jgi|MicpuN3v2|7268|wlab.237296.1	K03768
+jgi|MicpuN3v2|7269|wlab.1869.1
+jgi|MicpuN3v2|726|wlab.239739.1	K14565
+jgi|MicpuN3v2|7270|wlab.237572.1
+jgi|MicpuN3v2|7271|wlab.237295.1
+jgi|MicpuN3v2|7272|wlab.237566.1
+jgi|MicpuN3v2|7273|wlab.6572.1
+jgi|MicpuN3v2|7274|wlab.237294.1	K10534
+jgi|MicpuN3v2|7275|wlab.237293.1	K16478
+jgi|MicpuN3v2|7276|wlab.237291.1	K08737
+jgi|MicpuN3v2|7277|wlab.237292.1
+jgi|MicpuN3v2|7278|wlab.237290.1
+jgi|MicpuN3v2|7279|wlab.246944.1	K00162
+jgi|MicpuN3v2|727|wlab.247214.1
+jgi|MicpuN3v2|7280|wlab.237288.1
+jgi|MicpuN3v2|7281|wlab.237287.1	K11599
+jgi|MicpuN3v2|7282|wlab.237286.1
+jgi|MicpuN3v2|7283|wlab.237285.1	K12345
+jgi|MicpuN3v2|7284|wlab.16584.1
+jgi|MicpuN3v2|7285|wlab.237283.1
+jgi|MicpuN3v2|7286|wlab.237282.1
+jgi|MicpuN3v2|7287|wlab.6580.1
+jgi|MicpuN3v2|7288|wlab.24980.1
+jgi|MicpuN3v2|7289|wlab.231693.1
+jgi|MicpuN3v2|728|wlab.247215.1
+jgi|MicpuN3v2|7290|wlab.246945.1
+jgi|MicpuN3v2|7291|wlab.6581.1
+jgi|MicpuN3v2|7292|wlab.6582.1	K17888
+jgi|MicpuN3v2|7293|wlab.237278.1
+jgi|MicpuN3v2|7294|wlab.6584.1
+jgi|MicpuN3v2|7295|wlab.237277.1
+jgi|MicpuN3v2|7296|wlab.13401.1	K18914
+jgi|MicpuN3v2|7297|wlab.237276.1
+jgi|MicpuN3v2|7298|wlab.6585.1
+jgi|MicpuN3v2|7299|wlab.245742.1	K03404
+jgi|MicpuN3v2|729|wlab.247216.1
+jgi|MicpuN3v2|72|wlab.3319.1
+jgi|MicpuN3v2|7300|wlab.237272.1	K00472
+jgi|MicpuN3v2|7301|wlab.6587.1	K09288
+jgi|MicpuN3v2|7302|wlab.237271.1
+jgi|MicpuN3v2|7303|wlab.237270.1
+jgi|MicpuN3v2|7304|wlab.237269.1
+jgi|MicpuN3v2|7305|wlab.237268.1
+jgi|MicpuN3v2|7306|wlab.237267.1
+jgi|MicpuN3v2|7307|wlab.237266.1	K20185
+jgi|MicpuN3v2|7308|wlab.8696.1
+jgi|MicpuN3v2|7309|wlab.237265.1	K14775
+jgi|MicpuN3v2|730|wlab.247217.1	K10866
+jgi|MicpuN3v2|7310|wlab.237264.1	K00951
+jgi|MicpuN3v2|7311|wlab.237263.1	K25647
+jgi|MicpuN3v2|7312|wlab.6591.1
+jgi|MicpuN3v2|7313|wlab.237262.1
+jgi|MicpuN3v2|7314|wlab.246947.1	K16755
+jgi|MicpuN3v2|7315|wlab.6592.1
+jgi|MicpuN3v2|7316|wlab.18612.1
+jgi|MicpuN3v2|7317|wlab.15644.1
+jgi|MicpuN3v2|7318|wlab.237260.1
+jgi|MicpuN3v2|7319|wlab.237259.1
+jgi|MicpuN3v2|731|wlab.247218.1	K03469
+jgi|MicpuN3v2|7320|wlab.237258.1	K04688
+jgi|MicpuN3v2|7321|wlab.237257.1	K15223
+jgi|MicpuN3v2|7322|wlab.24998.1	K13680
+jgi|MicpuN3v2|7323|wlab.246948.1
+jgi|MicpuN3v2|7324|wlab.237256.1
+jgi|MicpuN3v2|7325|wlab.237255.1
+jgi|MicpuN3v2|7326|wlab.237254.1
+jgi|MicpuN3v2|7327|wlab.237253.1	K17427
+jgi|MicpuN3v2|7328|wlab.237252.1	K16746
+jgi|MicpuN3v2|7329|wlab.246949.1	K02929
+jgi|MicpuN3v2|732|wlab.232147.1
+jgi|MicpuN3v2|7330|wlab.1813.1
+jgi|MicpuN3v2|7331|wlab.246950.1	K13993
+jgi|MicpuN3v2|7332|wlab.237251.1
+jgi|MicpuN3v2|7333|wlab.6599.1
+jgi|MicpuN3v2|7334|wlab.237250.1
+jgi|MicpuN3v2|7335|wlab.25003.1
+jgi|MicpuN3v2|7336|wlab.237249.1
+jgi|MicpuN3v2|7337|wlab.6602.1	K11274
+jgi|MicpuN3v2|7338|wlab.237247.1
+jgi|MicpuN3v2|7339|wlab.237246.1
+jgi|MicpuN3v2|733|wlab.8018.1
+jgi|MicpuN3v2|7340|wlab.6604.1
+jgi|MicpuN3v2|7341|wlab.237245.1
+jgi|MicpuN3v2|7342|wlab.245716.1
+jgi|MicpuN3v2|7343|wlab.245715.1	K04712
+jgi|MicpuN3v2|7344|wlab.9922.1
+jgi|MicpuN3v2|7345|wlab.237244.1	K18749
+jgi|MicpuN3v2|7346|wlab.25008.1
+jgi|MicpuN3v2|7347|wlab.237243.1
+jgi|MicpuN3v2|7348|wlab.18001.1	K03941
+jgi|MicpuN3v2|7349|wlab.246951.1	K07052
+jgi|MicpuN3v2|734|wlab.248612.1
+jgi|MicpuN3v2|7350|wlab.237241.1
+jgi|MicpuN3v2|7351|wlab.237240.1
+jgi|MicpuN3v2|7352|wlab.237239.1	K13606
+jgi|MicpuN3v2|7353|wlab.6609.1	K10341
+jgi|MicpuN3v2|7354|wlab.237238.1
+jgi|MicpuN3v2|7355|wlab.237237.1
+jgi|MicpuN3v2|7356|wlab.7982.1	K01649
+jgi|MicpuN3v2|7357|wlab.237236.1	K24755
+jgi|MicpuN3v2|7358|wlab.6611.1	K09377
+jgi|MicpuN3v2|7359|wlab.1816.1
+jgi|MicpuN3v2|735|wlab.3542.1
+jgi|MicpuN3v2|7360|wlab.2248.1	K08906
+jgi|MicpuN3v2|7361|wlab.237232.1	K01764
+jgi|MicpuN3v2|7362|wlab.237231.1	K02267
+jgi|MicpuN3v2|7363|wlab.9882.1	K12399
+jgi|MicpuN3v2|7364|wlab.248595.1
+jgi|MicpuN3v2|7365|wlab.237230.1
+jgi|MicpuN3v2|7366|wlab.237228.1
+jgi|MicpuN3v2|7367|wlab.237227.1
+jgi|MicpuN3v2|7368|wlab.237226.1
+jgi|MicpuN3v2|7369|wlab.25019.1
+jgi|MicpuN3v2|736|wlab.232146.1	K06180
+jgi|MicpuN3v2|7370|wlab.237225.1	K14815
+jgi|MicpuN3v2|7371|wlab.237224.1
+jgi|MicpuN3v2|7372|wlab.6615.1
+jgi|MicpuN3v2|7373|wlab.245710.1	K02698
+jgi|MicpuN3v2|7374|wlab.245707.1
+jgi|MicpuN3v2|7375|wlab.1818.1	K10134
+jgi|MicpuN3v2|7376|wlab.6618.1
+jgi|MicpuN3v2|7377|wlab.237222.1
+jgi|MicpuN3v2|7378|wlab.237221.1
+jgi|MicpuN3v2|7379|wlab.237220.1
+jgi|MicpuN3v2|737|wlab.3543.1
+jgi|MicpuN3v2|7380|wlab.6619.1	K11462
+jgi|MicpuN3v2|7381|wlab.237219.1	K10412
+jgi|MicpuN3v2|7382|wlab.237218.1
+jgi|MicpuN3v2|7383|wlab.237217.1	K01974
+jgi|MicpuN3v2|7384|wlab.6621.1
+jgi|MicpuN3v2|7385|wlab.10106.1	K01493
+jgi|MicpuN3v2|7386|wlab.245704.1
+jgi|MicpuN3v2|7387|wlab.25028.1
+jgi|MicpuN3v2|7388|wlab.237214.1
+jgi|MicpuN3v2|7389|wlab.6623.1
+jgi|MicpuN3v2|738|wlab.230806.1
+jgi|MicpuN3v2|7390|wlab.237213.1
+jgi|MicpuN3v2|7391|wlab.6625.1
+jgi|MicpuN3v2|7392|wlab.237212.1	K15277
+jgi|MicpuN3v2|7393|wlab.237211.1
+jgi|MicpuN3v2|7394|wlab.237210.1
+jgi|MicpuN3v2|7395|wlab.237209.1
+jgi|MicpuN3v2|7396|wlab.237208.1
+jgi|MicpuN3v2|7397|wlab.237207.1
+jgi|MicpuN3v2|7398|wlab.246952.1
+jgi|MicpuN3v2|7399|wlab.237206.1
+jgi|MicpuN3v2|739|wlab.1210.1	K13448
+jgi|MicpuN3v2|73|wlab.232481.1
+jgi|MicpuN3v2|7400|wlab.237205.1
+jgi|MicpuN3v2|7401|wlab.237204.1	K18442
+jgi|MicpuN3v2|7402|wlab.237203.1
+jgi|MicpuN3v2|7403|wlab.7983.1	K02639
+jgi|MicpuN3v2|7404|wlab.8709.1	K07512
+jgi|MicpuN3v2|7405|wlab.237202.1	K07240
+jgi|MicpuN3v2|7406|wlab.237201.1	K18342
+jgi|MicpuN3v2|7407|wlab.237200.1
+jgi|MicpuN3v2|7408|wlab.237199.1
+jgi|MicpuN3v2|7409|wlab.237198.1	K00565
+jgi|MicpuN3v2|740|wlab.232145.1
+jgi|MicpuN3v2|7410|wlab.231674.1
+jgi|MicpuN3v2|7411|wlab.231675.1
+jgi|MicpuN3v2|7412|wlab.237196.1
+jgi|MicpuN3v2|7413|wlab.237195.1	K11273
+jgi|MicpuN3v2|7414|wlab.237194.1
+jgi|MicpuN3v2|7415|wlab.237192.1
+jgi|MicpuN3v2|7416|wlab.237191.1
+jgi|MicpuN3v2|7417|wlab.237190.1
+jgi|MicpuN3v2|7418|wlab.28845.1	K14554
+jgi|MicpuN3v2|7419|wlab.21067.1
+jgi|MicpuN3v2|741|wlab.232144.1
+jgi|MicpuN3v2|7420|wlab.237187.1
+jgi|MicpuN3v2|7421|wlab.237186.1
+jgi|MicpuN3v2|7422|wlab.237183.1	K03635
+jgi|MicpuN3v2|7423|wlab.237184.1
+jgi|MicpuN3v2|7424|wlab.237185.1	K02116
+jgi|MicpuN3v2|7425|wlab.237182.1
+jgi|MicpuN3v2|7426|wlab.237181.1	K08857
+jgi|MicpuN3v2|7427|wlab.237180.1	K01803
+jgi|MicpuN3v2|7428|wlab.246953.1
+jgi|MicpuN3v2|7429|wlab.25042.1
+jgi|MicpuN3v2|742|wlab.3546.1
+jgi|MicpuN3v2|7430|wlab.237178.1
+jgi|MicpuN3v2|7431|wlab.246954.1
+jgi|MicpuN3v2|7432|wlab.237176.1
+jgi|MicpuN3v2|7433|wlab.245560.1
+jgi|MicpuN3v2|7434|wlab.2249.1	K01599
+jgi|MicpuN3v2|7435|wlab.237174.1
+jgi|MicpuN3v2|7436|wlab.237173.1
+jgi|MicpuN3v2|7437|wlab.245559.1	K18156
+jgi|MicpuN3v2|7438|wlab.237172.1
+jgi|MicpuN3v2|7439|wlab.237167.1	K02293
+jgi|MicpuN3v2|743|wlab.22248.1
+jgi|MicpuN3v2|7440|wlab.237165.1	K09578
+jgi|MicpuN3v2|7441|wlab.237170.1	K03133
+jgi|MicpuN3v2|7442|wlab.8715.1	K01179
+jgi|MicpuN3v2|7443|wlab.237166.1	K06997
+jgi|MicpuN3v2|7444|wlab.237171.1	K08955
+jgi|MicpuN3v2|7445|wlab.237169.1
+jgi|MicpuN3v2|7446|wlab.237168.1	K05681
+jgi|MicpuN3v2|7447|wlab.246955.1
+jgi|MicpuN3v2|7448|wlab.6648.1	K08486
+jgi|MicpuN3v2|7449|wlab.246956.1	K23539
+jgi|MicpuN3v2|744|wlab.232143.1	K09527
+jgi|MicpuN3v2|7450|wlab.245558.1	K09487
+jgi|MicpuN3v2|7451|wlab.248611.1	K00286
+jgi|MicpuN3v2|7452|wlab.237160.1
+jgi|MicpuN3v2|7453|wlab.237159.1
+jgi|MicpuN3v2|7454|wlab.6651.1
+jgi|MicpuN3v2|7455|wlab.238035.1
+jgi|MicpuN3v2|7456|wlab.248129.1	K13130
+jgi|MicpuN3v2|7457|wlab.248130.1
+jgi|MicpuN3v2|7458|wlab.238032.1
+jgi|MicpuN3v2|7459|wlab.238031.1
+jgi|MicpuN3v2|745|wlab.232142.1
+jgi|MicpuN3v2|7460|wlab.238030.1	K11654
+jgi|MicpuN3v2|7461|wlab.238029.1
+jgi|MicpuN3v2|7462|wlab.238028.1
+jgi|MicpuN3v2|7463|wlab.238027.1
+jgi|MicpuN3v2|7464|wlab.238026.1	K08908
+jgi|MicpuN3v2|7465|wlab.248131.1
+jgi|MicpuN3v2|7466|wlab.238024.1
+jgi|MicpuN3v2|7467|wlab.238025.1
+jgi|MicpuN3v2|7468|wlab.248132.1
+jgi|MicpuN3v2|7469|wlab.238023.1
+jgi|MicpuN3v2|746|wlab.22249.1
+jgi|MicpuN3v2|7470|wlab.238022.1
+jgi|MicpuN3v2|7471|wlab.238021.1
+jgi|MicpuN3v2|7472|wlab.238020.1	K09060
+jgi|MicpuN3v2|7473|wlab.238019.1	K18726
+jgi|MicpuN3v2|7474|wlab.248133.1
+jgi|MicpuN3v2|7475|wlab.238018.1
+jgi|MicpuN3v2|7476|wlab.238017.1	K24353
+jgi|MicpuN3v2|7477|wlab.238016.1
+jgi|MicpuN3v2|7478|wlab.248134.1
+jgi|MicpuN3v2|7479|wlab.238015.1	K03125
+jgi|MicpuN3v2|747|wlab.8020.1
+jgi|MicpuN3v2|7480|wlab.238014.1	K03773
+jgi|MicpuN3v2|7481|wlab.238012.1	K00383
+jgi|MicpuN3v2|7482|wlab.238013.1
+jgi|MicpuN3v2|7483|wlab.8721.1
+jgi|MicpuN3v2|7484|wlab.248632.1
+jgi|MicpuN3v2|7485|wlab.248135.1
+jgi|MicpuN3v2|7486|wlab.238009.1
+jgi|MicpuN3v2|7487|wlab.248136.1
+jgi|MicpuN3v2|7488|wlab.238007.1	K11437
+jgi|MicpuN3v2|7489|wlab.238008.1
+jgi|MicpuN3v2|748|wlab.3548.1
+jgi|MicpuN3v2|7490|wlab.238006.1	K10736
+jgi|MicpuN3v2|7491|wlab.238005.1
+jgi|MicpuN3v2|7492|wlab.248137.1
+jgi|MicpuN3v2|7493|wlab.238003.1
+jgi|MicpuN3v2|7494|wlab.238004.1
+jgi|MicpuN3v2|7495|wlab.6671.1
+jgi|MicpuN3v2|7496|wlab.248138.1
+jgi|MicpuN3v2|7497|wlab.238001.1	K01934
+jgi|MicpuN3v2|7498|wlab.238000.1	K11323
+jgi|MicpuN3v2|7499|wlab.25067.1	K00831
+jgi|MicpuN3v2|749|wlab.22250.1
+jgi|MicpuN3v2|74|wlab.246963.1
+jgi|MicpuN3v2|7500|wlab.237999.1
+jgi|MicpuN3v2|7501|wlab.28870.1	K16075
+jgi|MicpuN3v2|7502|wlab.6676.1	K16581
+jgi|MicpuN3v2|7503|wlab.6677.1
+jgi|MicpuN3v2|7504|wlab.248139.1
+jgi|MicpuN3v2|7505|wlab.25071.1
+jgi|MicpuN3v2|7506|wlab.248140.1
+jgi|MicpuN3v2|7507|wlab.25072.1	K01482
+jgi|MicpuN3v2|7508|wlab.237997.1	K15272
+jgi|MicpuN3v2|7509|wlab.6680.1
+jgi|MicpuN3v2|750|wlab.22251.1
+jgi|MicpuN3v2|7510|wlab.248141.1
+jgi|MicpuN3v2|7511|wlab.237996.1
+jgi|MicpuN3v2|7512|wlab.237995.1
+jgi|MicpuN3v2|7513|wlab.237994.1
+jgi|MicpuN3v2|7514|wlab.237993.1
+jgi|MicpuN3v2|7515|wlab.25074.1
+jgi|MicpuN3v2|7516|wlab.6685.1
+jgi|MicpuN3v2|7517|wlab.237991.1
+jgi|MicpuN3v2|7518|wlab.237990.1
+jgi|MicpuN3v2|7519|wlab.237989.1	K20784
+jgi|MicpuN3v2|751|wlab.232141.1
+jgi|MicpuN3v2|7520|wlab.248700.1
+jgi|MicpuN3v2|7521|wlab.237987.1	K23167
+jgi|MicpuN3v2|7522|wlab.237988.1
+jgi|MicpuN3v2|7523|wlab.6689.1
+jgi|MicpuN3v2|7524|wlab.237986.1	K13754
+jgi|MicpuN3v2|7525|wlab.237985.1
+jgi|MicpuN3v2|7526|wlab.6692.1
+jgi|MicpuN3v2|7527|wlab.237984.1
+jgi|MicpuN3v2|7528|wlab.237983.1	K20301
+jgi|MicpuN3v2|7529|wlab.237982.1	K18442
+jgi|MicpuN3v2|752|wlab.8022.1
+jgi|MicpuN3v2|7530|wlab.25080.1
+jgi|MicpuN3v2|7531|wlab.237981.1	K02902
+jgi|MicpuN3v2|7532|wlab.237980.1
+jgi|MicpuN3v2|7533|wlab.237979.1	K23541
+jgi|MicpuN3v2|7534|wlab.237978.1
+jgi|MicpuN3v2|7535|wlab.6694.1
+jgi|MicpuN3v2|7536|wlab.237977.1	K19765
+jgi|MicpuN3v2|7537|wlab.237976.1	K14003
+jgi|MicpuN3v2|7538|wlab.237975.1	K24741
+jgi|MicpuN3v2|7539|wlab.246053.1	K02915
+jgi|MicpuN3v2|753|wlab.239721.1
+jgi|MicpuN3v2|7540|wlab.237974.1	K11982
+jgi|MicpuN3v2|7541|wlab.237973.1
+jgi|MicpuN3v2|7542|wlab.237972.1
+jgi|MicpuN3v2|7543|wlab.237971.1
+jgi|MicpuN3v2|7544|wlab.248143.1
+jgi|MicpuN3v2|7545|wlab.237970.1
+jgi|MicpuN3v2|7546|wlab.237966.1
+jgi|MicpuN3v2|7547|wlab.237967.1	K14529
+jgi|MicpuN3v2|7548|wlab.237968.1
+jgi|MicpuN3v2|7549|wlab.237964.1
+jgi|MicpuN3v2|754|wlab.2570.1	K02925
+jgi|MicpuN3v2|7550|wlab.237965.1	K03241
+jgi|MicpuN3v2|7551|wlab.238046.1
+jgi|MicpuN3v2|7552|wlab.237963.1
+jgi|MicpuN3v2|7553|wlab.18022.1	K00428
+jgi|MicpuN3v2|7554|wlab.237962.1
+jgi|MicpuN3v2|7555|wlab.237960.1	K12391
+jgi|MicpuN3v2|7556|wlab.1894.1
+jgi|MicpuN3v2|7557|wlab.237958.1
+jgi|MicpuN3v2|7558|wlab.246049.1
+jgi|MicpuN3v2|7559|wlab.237956.1
+jgi|MicpuN3v2|755|wlab.232138.1
+jgi|MicpuN3v2|7560|wlab.237955.1
+jgi|MicpuN3v2|7561|wlab.237952.1
+jgi|MicpuN3v2|7562|wlab.237953.1
+jgi|MicpuN3v2|7563|wlab.237951.1
+jgi|MicpuN3v2|7564|wlab.237950.1
+jgi|MicpuN3v2|7565|wlab.8727.1
+jgi|MicpuN3v2|7566|wlab.237949.1	K22765
+jgi|MicpuN3v2|7567|wlab.237948.1
+jgi|MicpuN3v2|7568|wlab.237947.1
+jgi|MicpuN3v2|7569|wlab.238047.1
+jgi|MicpuN3v2|756|wlab.232139.1
+jgi|MicpuN3v2|7570|wlab.25097.1	K00700
+jgi|MicpuN3v2|7571|wlab.237945.1	K00006
+jgi|MicpuN3v2|7572|wlab.248144.1	K06628
+jgi|MicpuN3v2|7573|wlab.237944.1
+jgi|MicpuN3v2|7574|wlab.237943.1	K08334
+jgi|MicpuN3v2|7575|wlab.1899.1
+jgi|MicpuN3v2|7576|wlab.237942.1
+jgi|MicpuN3v2|7577|wlab.237941.1
+jgi|MicpuN3v2|7578|wlab.237940.1	K16743
+jgi|MicpuN3v2|7579|wlab.237939.1	K08246
+jgi|MicpuN3v2|757|wlab.248621.1
+jgi|MicpuN3v2|7580|wlab.246048.1
+jgi|MicpuN3v2|7581|wlab.246043.1
+jgi|MicpuN3v2|7582|wlab.237938.1	K04499
+jgi|MicpuN3v2|7583|wlab.237936.1	K00826
+jgi|MicpuN3v2|7584|wlab.237937.1	K01872
+jgi|MicpuN3v2|7585|wlab.237935.1
+jgi|MicpuN3v2|7586|wlab.237934.1	K15281
+jgi|MicpuN3v2|7587|wlab.237933.1	K10575
+jgi|MicpuN3v2|7588|wlab.237932.1
+jgi|MicpuN3v2|7589|wlab.237931.1
+jgi|MicpuN3v2|758|wlab.248668.1	K15109
+jgi|MicpuN3v2|7590|wlab.237930.1
+jgi|MicpuN3v2|7591|wlab.238036.1
+jgi|MicpuN3v2|7592|wlab.237929.1
+jgi|MicpuN3v2|7593|wlab.237927.1	K00382
+jgi|MicpuN3v2|7594|wlab.237928.1
+jgi|MicpuN3v2|7595|wlab.6721.1
+jgi|MicpuN3v2|7596|wlab.25111.1	K24006
+jgi|MicpuN3v2|7597|wlab.237925.1	K20813
+jgi|MicpuN3v2|7598|wlab.248145.1
+jgi|MicpuN3v2|7599|wlab.25112.1	K02935
+jgi|MicpuN3v2|759|wlab.1214.1	K03105
+jgi|MicpuN3v2|75|wlab.246962.1
+jgi|MicpuN3v2|7600|wlab.237922.1
+jgi|MicpuN3v2|7601|wlab.6725.1	K15463
+jgi|MicpuN3v2|7602|wlab.237924.1
+jgi|MicpuN3v2|7603|wlab.237921.1	K03013
+jgi|MicpuN3v2|7604|wlab.237920.1
+jgi|MicpuN3v2|7605|wlab.25115.1	K02257
+jgi|MicpuN3v2|7606|wlab.237919.1
+jgi|MicpuN3v2|7607|wlab.237918.1	K00477
+jgi|MicpuN3v2|7608|wlab.237916.1	K11137
+jgi|MicpuN3v2|7609|wlab.237917.1
+jgi|MicpuN3v2|760|wlab.2956.1
+jgi|MicpuN3v2|7610|wlab.237913.1	K13116
+jgi|MicpuN3v2|7611|wlab.237914.1
+jgi|MicpuN3v2|7612|wlab.6729.1
+jgi|MicpuN3v2|7613|wlab.237915.1	K14841
+jgi|MicpuN3v2|7614|wlab.6731.1
+jgi|MicpuN3v2|7615|wlab.248633.1
+jgi|MicpuN3v2|7616|wlab.6733.1
+jgi|MicpuN3v2|7617|wlab.6734.1
+jgi|MicpuN3v2|7618|wlab.237912.1
+jgi|MicpuN3v2|7619|wlab.6736.1
+jgi|MicpuN3v2|761|wlab.29911.1
+jgi|MicpuN3v2|7620|wlab.248146.1
+jgi|MicpuN3v2|7621|wlab.237910.1
+jgi|MicpuN3v2|7622|wlab.237909.1
+jgi|MicpuN3v2|7623|wlab.237908.1
+jgi|MicpuN3v2|7624|wlab.237907.1
+jgi|MicpuN3v2|7625|wlab.237906.1
+jgi|MicpuN3v2|7626|wlab.237905.1
+jgi|MicpuN3v2|7627|wlab.237904.1
+jgi|MicpuN3v2|7628|wlab.25119.1	K02865
+jgi|MicpuN3v2|7629|wlab.238048.1	K07052
+jgi|MicpuN3v2|762|wlab.232135.1
+jgi|MicpuN3v2|7630|wlab.237902.1
+jgi|MicpuN3v2|7631|wlab.237901.1	K11143
+jgi|MicpuN3v2|7632|wlab.237900.1
+jgi|MicpuN3v2|7633|wlab.237899.1
+jgi|MicpuN3v2|7634|wlab.975.1	K10768
+jgi|MicpuN3v2|7635|wlab.8731.1	K13862
+jgi|MicpuN3v2|7636|wlab.248147.1
+jgi|MicpuN3v2|7637|wlab.237896.1	K03644
+jgi|MicpuN3v2|7638|wlab.237894.1
+jgi|MicpuN3v2|7639|wlab.248148.1	K23788
+jgi|MicpuN3v2|763|wlab.232134.1
+jgi|MicpuN3v2|7640|wlab.248149.1
+jgi|MicpuN3v2|7641|wlab.246817.1
+jgi|MicpuN3v2|7642|wlab.237892.1
+jgi|MicpuN3v2|7643|wlab.248150.1
+jgi|MicpuN3v2|7644|wlab.248151.1	K03104
+jgi|MicpuN3v2|7645|wlab.6747.1	K09291
+jgi|MicpuN3v2|7646|wlab.248152.1
+jgi|MicpuN3v2|7647|wlab.25127.1	K10405
+jgi|MicpuN3v2|7648|wlab.248153.1
+jgi|MicpuN3v2|7649|wlab.1903.1
+jgi|MicpuN3v2|764|wlab.239717.1
+jgi|MicpuN3v2|7650|wlab.248154.1	K24173
+jgi|MicpuN3v2|7651|wlab.248701.1
+jgi|MicpuN3v2|7652|wlab.248702.1	K00942
+jgi|MicpuN3v2|7653|wlab.237886.1
+jgi|MicpuN3v2|7654|wlab.237885.1
+jgi|MicpuN3v2|7655|wlab.237884.1
+jgi|MicpuN3v2|7656|wlab.237882.1	K22611
+jgi|MicpuN3v2|7657|wlab.248156.1
+jgi|MicpuN3v2|7658|wlab.8734.1
+jgi|MicpuN3v2|7659|wlab.237880.1
+jgi|MicpuN3v2|765|wlab.232133.1	K00249
+jgi|MicpuN3v2|7660|wlab.237879.1	K12848
+jgi|MicpuN3v2|7661|wlab.237878.1	K08738
+jgi|MicpuN3v2|7662|wlab.237877.1	K23538
+jgi|MicpuN3v2|7663|wlab.237876.1	K11340
+jgi|MicpuN3v2|7664|wlab.237875.1	K12870
+jgi|MicpuN3v2|7665|wlab.231778.1	K14015
+jgi|MicpuN3v2|7666|wlab.237874.1	K22390
+jgi|MicpuN3v2|7667|wlab.6754.1
+jgi|MicpuN3v2|7668|wlab.237873.1	K00029
+jgi|MicpuN3v2|7669|wlab.6756.1
+jgi|MicpuN3v2|766|wlab.232131.1
+jgi|MicpuN3v2|7670|wlab.6757.1
+jgi|MicpuN3v2|7671|wlab.248157.1	K13707
+jgi|MicpuN3v2|7672|wlab.237872.1	K16570
+jgi|MicpuN3v2|7673|wlab.237871.1	K03921
+jgi|MicpuN3v2|7674|wlab.237870.1	K12900
+jgi|MicpuN3v2|7675|wlab.8735.1
+jgi|MicpuN3v2|7676|wlab.6760.1	K11126
+jgi|MicpuN3v2|7677|wlab.8736.1	K17803
+jgi|MicpuN3v2|7678|wlab.237868.1	K00981
+jgi|MicpuN3v2|7679|wlab.237867.1	K04498
+jgi|MicpuN3v2|767|wlab.232130.1
+jgi|MicpuN3v2|7680|wlab.237866.1
+jgi|MicpuN3v2|7681|wlab.6763.1	K15201
+jgi|MicpuN3v2|7682|wlab.6764.1
+jgi|MicpuN3v2|7683|wlab.237863.1	K00703
+jgi|MicpuN3v2|7684|wlab.237862.1
+jgi|MicpuN3v2|7685|wlab.1905.1
+jgi|MicpuN3v2|7686|wlab.237861.1
+jgi|MicpuN3v2|7687|wlab.237860.1
+jgi|MicpuN3v2|7688|wlab.237859.1
+jgi|MicpuN3v2|7689|wlab.6767.1
+jgi|MicpuN3v2|768|wlab.232129.1	K08592
+jgi|MicpuN3v2|7690|wlab.3193.1
+jgi|MicpuN3v2|7691|wlab.237856.1
+jgi|MicpuN3v2|7692|wlab.237855.1	K09529
+jgi|MicpuN3v2|7693|wlab.237854.1
+jgi|MicpuN3v2|7694|wlab.25150.1
+jgi|MicpuN3v2|7695|wlab.25151.1
+jgi|MicpuN3v2|7696|wlab.237851.1	K00036
+jgi|MicpuN3v2|7697|wlab.237852.1
+jgi|MicpuN3v2|7698|wlab.1907.1
+jgi|MicpuN3v2|7699|wlab.248158.1
+jgi|MicpuN3v2|769|wlab.22263.1
+jgi|MicpuN3v2|76|wlab.232479.1
+jgi|MicpuN3v2|7700|wlab.237849.1
+jgi|MicpuN3v2|7701|wlab.237848.1
+jgi|MicpuN3v2|7702|wlab.237847.1
+jgi|MicpuN3v2|7703|wlab.237846.1
+jgi|MicpuN3v2|7704|wlab.6774.1
+jgi|MicpuN3v2|7705|wlab.6775.1
+jgi|MicpuN3v2|7706|wlab.248159.1
+jgi|MicpuN3v2|7707|wlab.237843.1
+jgi|MicpuN3v2|7708|wlab.6778.1
+jgi|MicpuN3v2|7709|wlab.237842.1
+jgi|MicpuN3v2|770|wlab.3554.1
+jgi|MicpuN3v2|7710|wlab.237840.1
+jgi|MicpuN3v2|7711|wlab.237841.1
+jgi|MicpuN3v2|7712|wlab.237839.1
+jgi|MicpuN3v2|7713|wlab.248546.1	K03100
+jgi|MicpuN3v2|7714|wlab.248586.1
+jgi|MicpuN3v2|7715|wlab.237815.1	K07304
+jgi|MicpuN3v2|7716|wlab.237816.1	K23566
+jgi|MicpuN3v2|7717|wlab.8739.1
+jgi|MicpuN3v2|7718|wlab.237817.1	K09489
+jgi|MicpuN3v2|7719|wlab.248161.1	K00392
+jgi|MicpuN3v2|771|wlab.232551.1
+jgi|MicpuN3v2|7720|wlab.248162.1	K13119
+jgi|MicpuN3v2|7721|wlab.30426.1
+jgi|MicpuN3v2|7722|wlab.237821.1
+jgi|MicpuN3v2|7723|wlab.237822.1	K02328
+jgi|MicpuN3v2|7724|wlab.248163.1	K10752
+jgi|MicpuN3v2|7725|wlab.6788.1
+jgi|MicpuN3v2|7726|wlab.6789.1	K22987
+jgi|MicpuN3v2|7727|wlab.237825.1	K02151
+jgi|MicpuN3v2|7728|wlab.248164.1
+jgi|MicpuN3v2|7729|wlab.1912.1
+jgi|MicpuN3v2|772|wlab.232128.1
+jgi|MicpuN3v2|7730|wlab.952.1	K00939
+jgi|MicpuN3v2|7731|wlab.248165.1	K05396
+jgi|MicpuN3v2|7732|wlab.25167.1
+jgi|MicpuN3v2|7733|wlab.231774.1
+jgi|MicpuN3v2|7734|wlab.237837.1
+jgi|MicpuN3v2|7735|wlab.237836.1
+jgi|MicpuN3v2|7736|wlab.237835.1
+jgi|MicpuN3v2|7737|wlab.248166.1
+jgi|MicpuN3v2|7738|wlab.237833.1
+jgi|MicpuN3v2|7739|wlab.248167.1	K24727
+jgi|MicpuN3v2|773|wlab.232127.1
+jgi|MicpuN3v2|7740|wlab.237831.1	K10753
+jgi|MicpuN3v2|7741|wlab.237830.1
+jgi|MicpuN3v2|7742|wlab.237829.1
+jgi|MicpuN3v2|7743|wlab.237828.1
+jgi|MicpuN3v2|7744|wlab.237827.1	K23678
+jgi|MicpuN3v2|7745|wlab.248168.1
+jgi|MicpuN3v2|7746|wlab.237820.1
+jgi|MicpuN3v2|7747|wlab.237819.1
+jgi|MicpuN3v2|7748|wlab.6798.1
+jgi|MicpuN3v2|7749|wlab.246002.1
+jgi|MicpuN3v2|774|wlab.22264.1
+jgi|MicpuN3v2|7750|wlab.238050.1
+jgi|MicpuN3v2|7751|wlab.237812.1	K00472
+jgi|MicpuN3v2|7752|wlab.237810.1	K09519
+jgi|MicpuN3v2|7753|wlab.237811.1
+jgi|MicpuN3v2|7754|wlab.237813.1
+jgi|MicpuN3v2|7755|wlab.25176.1
+jgi|MicpuN3v2|7756|wlab.245995.1
+jgi|MicpuN3v2|7757|wlab.237809.1
+jgi|MicpuN3v2|7758|wlab.237807.1
+jgi|MicpuN3v2|7759|wlab.237806.1
+jgi|MicpuN3v2|775|wlab.3558.1
+jgi|MicpuN3v2|7760|wlab.248169.1
+jgi|MicpuN3v2|7761|wlab.248170.1
+jgi|MicpuN3v2|7762|wlab.248171.1
+jgi|MicpuN3v2|7763|wlab.237803.1	K14797
+jgi|MicpuN3v2|7764|wlab.237804.1	K13095
+jgi|MicpuN3v2|7765|wlab.237802.1
+jgi|MicpuN3v2|7766|wlab.237801.1
+jgi|MicpuN3v2|7767|wlab.237800.1
+jgi|MicpuN3v2|7768|wlab.25181.1
+jgi|MicpuN3v2|7769|wlab.976.1	K11130
+jgi|MicpuN3v2|776|wlab.232124.1	K01265
+jgi|MicpuN3v2|7770|wlab.25182.1
+jgi|MicpuN3v2|7771|wlab.248172.1
+jgi|MicpuN3v2|7772|wlab.2840.1	K02938
+jgi|MicpuN3v2|7773|wlab.237795.1
+jgi|MicpuN3v2|7774|wlab.237794.1
+jgi|MicpuN3v2|7775|wlab.8744.1
+jgi|MicpuN3v2|7776|wlab.6808.1
+jgi|MicpuN3v2|7777|wlab.6809.1
+jgi|MicpuN3v2|7778|wlab.1915.1
+jgi|MicpuN3v2|7779|wlab.237793.1	K11842
+jgi|MicpuN3v2|777|wlab.232123.1	K01802
+jgi|MicpuN3v2|7780|wlab.248173.1
+jgi|MicpuN3v2|7781|wlab.237792.1
+jgi|MicpuN3v2|7782|wlab.248174.1	K16571
+jgi|MicpuN3v2|7783|wlab.237791.1
+jgi|MicpuN3v2|7784|wlab.237790.1	K00688
+jgi|MicpuN3v2|7785|wlab.6813.1	K10766
+jgi|MicpuN3v2|7786|wlab.237789.1
+jgi|MicpuN3v2|7787|wlab.6814.1	K01191
+jgi|MicpuN3v2|7788|wlab.237788.1
+jgi|MicpuN3v2|7789|wlab.237785.1	K13649
+jgi|MicpuN3v2|778|wlab.232122.1	K08504
+jgi|MicpuN3v2|7790|wlab.237786.1	K05541
+jgi|MicpuN3v2|7791|wlab.248175.1
+jgi|MicpuN3v2|7792|wlab.237787.1	K00002
+jgi|MicpuN3v2|7793|wlab.237784.1
+jgi|MicpuN3v2|7794|wlab.237783.1
+jgi|MicpuN3v2|7795|wlab.248176.1
+jgi|MicpuN3v2|7796|wlab.248177.1	K03447
+jgi|MicpuN3v2|7797|wlab.237780.1
+jgi|MicpuN3v2|7798|wlab.237778.1
+jgi|MicpuN3v2|7799|wlab.237779.1	K03267
+jgi|MicpuN3v2|779|wlab.26535.1
+jgi|MicpuN3v2|77|wlab.232478.1	K01934
+jgi|MicpuN3v2|7800|wlab.237777.1	K14842
+jgi|MicpuN3v2|7801|wlab.248605.1	K16547
+jgi|MicpuN3v2|7802|wlab.237776.1
+jgi|MicpuN3v2|7803|wlab.6821.1	K04344
+jgi|MicpuN3v2|7804|wlab.237774.1
+jgi|MicpuN3v2|7805|wlab.237773.1
+jgi|MicpuN3v2|7806|wlab.237772.1	K07213
+jgi|MicpuN3v2|7807|wlab.237769.1	K17906
+jgi|MicpuN3v2|7808|wlab.237770.1
+jgi|MicpuN3v2|7809|wlab.237771.1
+jgi|MicpuN3v2|780|wlab.22267.1
+jgi|MicpuN3v2|7810|wlab.6826.1
+jgi|MicpuN3v2|7811|wlab.248178.1	K15305
+jgi|MicpuN3v2|7812|wlab.25200.1
+jgi|MicpuN3v2|7813|wlab.238051.1
+jgi|MicpuN3v2|7814|wlab.248180.1	K20781
+jgi|MicpuN3v2|7815|wlab.237767.1
+jgi|MicpuN3v2|7816|wlab.248181.1
+jgi|MicpuN3v2|7817|wlab.231763.1
+jgi|MicpuN3v2|7818|wlab.13888.1	K24887
+jgi|MicpuN3v2|7819|wlab.13914.1	K03263
+jgi|MicpuN3v2|781|wlab.232552.1	K00915
+jgi|MicpuN3v2|7820|wlab.245992.1
+jgi|MicpuN3v2|7821|wlab.25206.1
+jgi|MicpuN3v2|7822|wlab.6828.1
+jgi|MicpuN3v2|7823|wlab.248182.1	K02984
+jgi|MicpuN3v2|7824|wlab.237762.1	K00088
+jgi|MicpuN3v2|7825|wlab.248183.1	K11650
+jgi|MicpuN3v2|7826|wlab.237760.1	K14961
+jgi|MicpuN3v2|7827|wlab.237758.1	K14066
+jgi|MicpuN3v2|7828|wlab.6830.1	K12311
+jgi|MicpuN3v2|7829|wlab.237759.1
+jgi|MicpuN3v2|782|wlab.247221.1
+jgi|MicpuN3v2|7830|wlab.237757.1	K03070
+jgi|MicpuN3v2|7831|wlab.237756.1
+jgi|MicpuN3v2|7832|wlab.237755.1
+jgi|MicpuN3v2|7833|wlab.237754.1	K25616
+jgi|MicpuN3v2|7834|wlab.231757.1
+jgi|MicpuN3v2|7835|wlab.248184.1
+jgi|MicpuN3v2|7836|wlab.237752.1
+jgi|MicpuN3v2|7837|wlab.248185.1
+jgi|MicpuN3v2|7838|wlab.237749.1
+jgi|MicpuN3v2|7839|wlab.25215.1
+jgi|MicpuN3v2|783|wlab.232098.1
+jgi|MicpuN3v2|7840|wlab.237750.1
+jgi|MicpuN3v2|7841|wlab.237748.1
+jgi|MicpuN3v2|7842|wlab.237747.1
+jgi|MicpuN3v2|7843|wlab.6841.1	K25058
+jgi|MicpuN3v2|7844|wlab.1921.1
+jgi|MicpuN3v2|7845|wlab.237744.1	K20293
+jgi|MicpuN3v2|7846|wlab.237745.1	K11341
+jgi|MicpuN3v2|7847|wlab.237742.1
+jgi|MicpuN3v2|7848|wlab.237743.1
+jgi|MicpuN3v2|7849|wlab.237741.1
+jgi|MicpuN3v2|784|wlab.232099.1	K09487
+jgi|MicpuN3v2|7850|wlab.237740.1
+jgi|MicpuN3v2|7851|wlab.237738.1	K06184
+jgi|MicpuN3v2|7852|wlab.237739.1	K12235
+jgi|MicpuN3v2|7853|wlab.237736.1
+jgi|MicpuN3v2|7854|wlab.237737.1
+jgi|MicpuN3v2|7855|wlab.237735.1
+jgi|MicpuN3v2|7856|wlab.248186.1
+jgi|MicpuN3v2|7857|wlab.237733.1	K05658
+jgi|MicpuN3v2|7858|wlab.237732.1	K14794
+jgi|MicpuN3v2|7859|wlab.6851.1	K11511
+jgi|MicpuN3v2|785|wlab.232100.1
+jgi|MicpuN3v2|7860|wlab.237731.1	K16605
+jgi|MicpuN3v2|7861|wlab.237730.1
+jgi|MicpuN3v2|7862|wlab.237729.1
+jgi|MicpuN3v2|7863|wlab.245971.1	K02943
+jgi|MicpuN3v2|7864|wlab.238039.1	K20131
+jgi|MicpuN3v2|7865|wlab.248187.1
+jgi|MicpuN3v2|7866|wlab.237727.1
+jgi|MicpuN3v2|7867|wlab.6856.1
+jgi|MicpuN3v2|7868|wlab.237726.1
+jgi|MicpuN3v2|7869|wlab.237725.1
+jgi|MicpuN3v2|786|wlab.3567.1
+jgi|MicpuN3v2|7870|wlab.18067.1
+jgi|MicpuN3v2|7871|wlab.248188.1
+jgi|MicpuN3v2|7872|wlab.25223.1
+jgi|MicpuN3v2|7873|wlab.237723.1	K15109
+jgi|MicpuN3v2|7874|wlab.237721.1
+jgi|MicpuN3v2|7875|wlab.237722.1
+jgi|MicpuN3v2|7876|wlab.237720.1
+jgi|MicpuN3v2|7877|wlab.237719.1	K23338
+jgi|MicpuN3v2|7878|wlab.237718.1
+jgi|MicpuN3v2|7879|wlab.237717.1	K10956
+jgi|MicpuN3v2|787|wlab.8029.1
+jgi|MicpuN3v2|7880|wlab.237716.1	K02974
+jgi|MicpuN3v2|7881|wlab.237715.1	K03946
+jgi|MicpuN3v2|7882|wlab.237714.1	K15152
+jgi|MicpuN3v2|7883|wlab.248189.1
+jgi|MicpuN3v2|7884|wlab.237710.1
+jgi|MicpuN3v2|7885|wlab.237711.1	K19612
+jgi|MicpuN3v2|7886|wlab.237708.1
+jgi|MicpuN3v2|7887|wlab.248190.1
+jgi|MicpuN3v2|7888|wlab.237709.1
+jgi|MicpuN3v2|7889|wlab.237707.1	K12174
+jgi|MicpuN3v2|788|wlab.3568.1
+jgi|MicpuN3v2|7890|wlab.248191.1	K09659
+jgi|MicpuN3v2|7891|wlab.25230.1
+jgi|MicpuN3v2|7892|wlab.237704.1	K16780
+jgi|MicpuN3v2|7893|wlab.237705.1
+jgi|MicpuN3v2|7894|wlab.245962.1	K02933
+jgi|MicpuN3v2|7895|wlab.237701.1	K21625
+jgi|MicpuN3v2|7896|wlab.248192.1
+jgi|MicpuN3v2|7897|wlab.248193.1	K11426
+jgi|MicpuN3v2|7898|wlab.237703.1	K17491
+jgi|MicpuN3v2|7899|wlab.29014.1	K09528
+jgi|MicpuN3v2|789|wlab.232121.1	K08994
+jgi|MicpuN3v2|78|wlab.232477.1
+jgi|MicpuN3v2|7900|wlab.237699.1	K14164
+jgi|MicpuN3v2|7901|wlab.237698.1
+jgi|MicpuN3v2|7902|wlab.237696.1	K19612
+jgi|MicpuN3v2|7903|wlab.237697.1
+jgi|MicpuN3v2|7904|wlab.237695.1
+jgi|MicpuN3v2|7905|wlab.237694.1	K01177
+jgi|MicpuN3v2|7906|wlab.237693.1	K02906
+jgi|MicpuN3v2|7907|wlab.237692.1
+jgi|MicpuN3v2|7908|wlab.237691.1
+jgi|MicpuN3v2|7909|wlab.237690.1	K01809
+jgi|MicpuN3v2|790|wlab.232120.1
+jgi|MicpuN3v2|7910|wlab.237689.1	K22285
+jgi|MicpuN3v2|7911|wlab.248194.1
+jgi|MicpuN3v2|7912|wlab.248195.1
+jgi|MicpuN3v2|7913|wlab.237686.1	K06941
+jgi|MicpuN3v2|7914|wlab.237685.1
+jgi|MicpuN3v2|7915|wlab.25244.1
+jgi|MicpuN3v2|7916|wlab.237683.1
+jgi|MicpuN3v2|7917|wlab.237684.1
+jgi|MicpuN3v2|7918|wlab.237682.1
+jgi|MicpuN3v2|7919|wlab.237680.1
+jgi|MicpuN3v2|791|wlab.232119.1
+jgi|MicpuN3v2|7920|wlab.237681.1
+jgi|MicpuN3v2|7921|wlab.237679.1	K07390
+jgi|MicpuN3v2|7922|wlab.237677.1
+jgi|MicpuN3v2|7923|wlab.1871.1
+jgi|MicpuN3v2|7924|wlab.248196.1
+jgi|MicpuN3v2|7925|wlab.237676.1
+jgi|MicpuN3v2|7926|wlab.248197.1
+jgi|MicpuN3v2|7927|wlab.237674.1
+jgi|MicpuN3v2|7928|wlab.237672.1
+jgi|MicpuN3v2|7929|wlab.237673.1	K08497
+jgi|MicpuN3v2|792|wlab.232118.1	K00799
+jgi|MicpuN3v2|7930|wlab.237671.1	K12616
+jgi|MicpuN3v2|7931|wlab.248198.1	K12456
+jgi|MicpuN3v2|7932|wlab.6883.1
+jgi|MicpuN3v2|7933|wlab.25254.1	K13338
+jgi|MicpuN3v2|7934|wlab.245954.1
+jgi|MicpuN3v2|7935|wlab.237666.1
+jgi|MicpuN3v2|7936|wlab.237665.1
+jgi|MicpuN3v2|7937|wlab.248587.1
+jgi|MicpuN3v2|7938|wlab.25258.1
+jgi|MicpuN3v2|7939|wlab.238041.1	K25203
+jgi|MicpuN3v2|793|wlab.232117.1
+jgi|MicpuN3v2|7940|wlab.237667.1
+jgi|MicpuN3v2|7941|wlab.237668.1	K00876
+jgi|MicpuN3v2|7942|wlab.1875.1
+jgi|MicpuN3v2|7943|wlab.6886.1
+jgi|MicpuN3v2|7944|wlab.237662.1	K02218
+jgi|MicpuN3v2|7945|wlab.238042.1
+jgi|MicpuN3v2|7946|wlab.237663.1
+jgi|MicpuN3v2|7947|wlab.238043.1
+jgi|MicpuN3v2|7948|wlab.237660.1
+jgi|MicpuN3v2|7949|wlab.237659.1	K15507
+jgi|MicpuN3v2|794|wlab.247222.1
+jgi|MicpuN3v2|7950|wlab.237657.1	K13210
+jgi|MicpuN3v2|7951|wlab.237658.1	K16810
+jgi|MicpuN3v2|7952|wlab.248200.1	K12734
+jgi|MicpuN3v2|7953|wlab.248201.1
+jgi|MicpuN3v2|7954|wlab.6895.1	K00472
+jgi|MicpuN3v2|7955|wlab.245832.1	K10436
+jgi|MicpuN3v2|7956|wlab.248202.1
+jgi|MicpuN3v2|7957|wlab.13759.1	K00472
+jgi|MicpuN3v2|7958|wlab.237653.1	K00630
+jgi|MicpuN3v2|7959|wlab.237651.1
+jgi|MicpuN3v2|795|wlab.232116.1	K12571
+jgi|MicpuN3v2|7960|wlab.248203.1
+jgi|MicpuN3v2|7961|wlab.237649.1	K14852
+jgi|MicpuN3v2|7962|wlab.237648.1
+jgi|MicpuN3v2|7963|wlab.248204.1
+jgi|MicpuN3v2|7964|wlab.8765.1
+jgi|MicpuN3v2|7965|wlab.1876.1	K16862
+jgi|MicpuN3v2|7966|wlab.1877.1
+jgi|MicpuN3v2|7967|wlab.248205.1
+jgi|MicpuN3v2|7968|wlab.237646.1	K14376
+jgi|MicpuN3v2|7969|wlab.25268.1	K15979
+jgi|MicpuN3v2|796|wlab.3574.1
+jgi|MicpuN3v2|7970|wlab.237645.1
+jgi|MicpuN3v2|7971|wlab.248206.1	K09458
+jgi|MicpuN3v2|7972|wlab.248207.1
+jgi|MicpuN3v2|7973|wlab.237641.1	K01534
+jgi|MicpuN3v2|7974|wlab.237642.1	K08507
+jgi|MicpuN3v2|7975|wlab.248208.1	K14617
+jgi|MicpuN3v2|7976|wlab.248209.1
+jgi|MicpuN3v2|7977|wlab.2448.1
+jgi|MicpuN3v2|7978|wlab.2449.1	K03787
+jgi|MicpuN3v2|7979|wlab.237636.1	K09458
+jgi|MicpuN3v2|797|wlab.3575.1
+jgi|MicpuN3v2|7980|wlab.237637.1	K02830
+jgi|MicpuN3v2|7981|wlab.237635.1	K08741
+jgi|MicpuN3v2|7982|wlab.25272.1
+jgi|MicpuN3v2|7983|wlab.237633.1	K01490
+jgi|MicpuN3v2|7984|wlab.237632.1
+jgi|MicpuN3v2|7985|wlab.237631.1
+jgi|MicpuN3v2|7986|wlab.237630.1
+jgi|MicpuN3v2|7987|wlab.237629.1
+jgi|MicpuN3v2|7988|wlab.237628.1
+jgi|MicpuN3v2|7989|wlab.237627.1	K00648
+jgi|MicpuN3v2|798|wlab.3576.1
+jgi|MicpuN3v2|7990|wlab.237626.1
+jgi|MicpuN3v2|7991|wlab.237625.1
+jgi|MicpuN3v2|7992|wlab.248210.1
+jgi|MicpuN3v2|7993|wlab.248211.1
+jgi|MicpuN3v2|7994|wlab.245822.1	K02945
+jgi|MicpuN3v2|7995|wlab.6914.1
+jgi|MicpuN3v2|7996|wlab.237623.1
+jgi|MicpuN3v2|7997|wlab.237622.1
+jgi|MicpuN3v2|7998|wlab.237621.1	K13606
+jgi|MicpuN3v2|7999|wlab.237620.1
+jgi|MicpuN3v2|799|wlab.247224.1
+jgi|MicpuN3v2|79|wlab.21860.1
+jgi|MicpuN3v2|7|wlab.232537.1	K01254
+jgi|MicpuN3v2|8000|wlab.6915.1	K12343
+jgi|MicpuN3v2|8001|wlab.237619.1	K12590
+jgi|MicpuN3v2|8002|wlab.25279.1
+jgi|MicpuN3v2|8003|wlab.6916.1	K19073
+jgi|MicpuN3v2|8004|wlab.237617.1
+jgi|MicpuN3v2|8005|wlab.8772.1	K12199
+jgi|MicpuN3v2|8006|wlab.237611.1	K14800
+jgi|MicpuN3v2|8007|wlab.237612.1	K03253
+jgi|MicpuN3v2|8008|wlab.248212.1
+jgi|MicpuN3v2|8009|wlab.237614.1
+jgi|MicpuN3v2|800|wlab.2280.1	K04718
+jgi|MicpuN3v2|8010|wlab.25282.1
+jgi|MicpuN3v2|8011|wlab.237610.1	K22766
+jgi|MicpuN3v2|8012|wlab.237609.1
+jgi|MicpuN3v2|8013|wlab.1882.1
+jgi|MicpuN3v2|8014|wlab.237607.1
+jgi|MicpuN3v2|8015|wlab.245817.1	K01267
+jgi|MicpuN3v2|8016|wlab.237605.1	K15283
+jgi|MicpuN3v2|8017|wlab.237606.1
+jgi|MicpuN3v2|8018|wlab.248213.1
+jgi|MicpuN3v2|8019|wlab.248704.1
+jgi|MicpuN3v2|801|wlab.232115.1	K08794
+jgi|MicpuN3v2|8020|wlab.964.1
+jgi|MicpuN3v2|8021|wlab.237602.1	K09858
+jgi|MicpuN3v2|8022|wlab.237600.1	K17583
+jgi|MicpuN3v2|8023|wlab.6926.1
+jgi|MicpuN3v2|8024|wlab.16649.1	K20102
+jgi|MicpuN3v2|8025|wlab.248215.1
+jgi|MicpuN3v2|8026|wlab.237597.1	K01230
+jgi|MicpuN3v2|8027|wlab.237598.1	K10588
+jgi|MicpuN3v2|8028|wlab.248216.1
+jgi|MicpuN3v2|8029|wlab.237596.1	K03509
+jgi|MicpuN3v2|802|wlab.232114.1
+jgi|MicpuN3v2|8030|wlab.248217.1
+jgi|MicpuN3v2|8031|wlab.237594.1
+jgi|MicpuN3v2|8032|wlab.237595.1	K14950
+jgi|MicpuN3v2|8033|wlab.237593.1
+jgi|MicpuN3v2|8034|wlab.248218.1
+jgi|MicpuN3v2|8035|wlab.237592.1
+jgi|MicpuN3v2|8036|wlab.237591.1	K06185
+jgi|MicpuN3v2|8037|wlab.237590.1
+jgi|MicpuN3v2|8038|wlab.237589.1
+jgi|MicpuN3v2|8039|wlab.237588.1	K15103
+jgi|MicpuN3v2|803|wlab.239714.1	K19757
+jgi|MicpuN3v2|8040|wlab.237587.1	K19219
+jgi|MicpuN3v2|8041|wlab.237586.1	K14829
+jgi|MicpuN3v2|8042|wlab.237585.1
+jgi|MicpuN3v2|8043|wlab.237584.1	K16582
+jgi|MicpuN3v2|8044|wlab.237583.1	K02939
+jgi|MicpuN3v2|8045|wlab.6939.1
+jgi|MicpuN3v2|8046|wlab.8774.1
+jgi|MicpuN3v2|8047|wlab.248219.1	K00951
+jgi|MicpuN3v2|8048|wlab.6940.1	K00799
+jgi|MicpuN3v2|8049|wlab.237580.1
+jgi|MicpuN3v2|804|wlab.232112.1	K12041
+jgi|MicpuN3v2|8050|wlab.237581.1
+jgi|MicpuN3v2|8051|wlab.237579.1
+jgi|MicpuN3v2|8052|wlab.237578.1
+jgi|MicpuN3v2|8053|wlab.237577.1	K17422
+jgi|MicpuN3v2|8054|wlab.237575.1
+jgi|MicpuN3v2|8055|wlab.237576.1
+jgi|MicpuN3v2|8056|wlab.25300.1
+jgi|MicpuN3v2|8057|wlab.237574.1
+jgi|MicpuN3v2|8058|wlab.237573.1	K20827
+jgi|MicpuN3v2|8059|wlab.6946.1
+jgi|MicpuN3v2|805|wlab.239713.1	K07766
+jgi|MicpuN3v2|8060|wlab.238331.1
+jgi|MicpuN3v2|8061|wlab.238330.1	K00972
+jgi|MicpuN3v2|8062|wlab.238329.1	K14004
+jgi|MicpuN3v2|8063|wlab.238328.1
+jgi|MicpuN3v2|8064|wlab.238327.1	K10643
+jgi|MicpuN3v2|8065|wlab.238326.1	K15029
+jgi|MicpuN3v2|8066|wlab.238325.1	K12585
+jgi|MicpuN3v2|8067|wlab.248220.1
+jgi|MicpuN3v2|8068|wlab.238323.1	K00555
+jgi|MicpuN3v2|8069|wlab.238322.1	K01892
+jgi|MicpuN3v2|806|wlab.232110.1	K01103
+jgi|MicpuN3v2|8070|wlab.7165.1
+jgi|MicpuN3v2|8071|wlab.238321.1
+jgi|MicpuN3v2|8072|wlab.7163.1
+jgi|MicpuN3v2|8073|wlab.238319.1	K15110
+jgi|MicpuN3v2|8074|wlab.238320.1	K24194
+jgi|MicpuN3v2|8075|wlab.238318.1	K02903
+jgi|MicpuN3v2|8076|wlab.238317.1	K18633
+jgi|MicpuN3v2|8077|wlab.231852.1
+jgi|MicpuN3v2|8078|wlab.231853.1
+jgi|MicpuN3v2|8079|wlab.29251.1
+jgi|MicpuN3v2|807|wlab.232109.1	K10807
+jgi|MicpuN3v2|8080|wlab.238314.1	K19600
+jgi|MicpuN3v2|8081|wlab.238313.1
+jgi|MicpuN3v2|8082|wlab.238312.1	K05662
+jgi|MicpuN3v2|8083|wlab.248221.1
+jgi|MicpuN3v2|8084|wlab.248222.1	K12589
+jgi|MicpuN3v2|8085|wlab.18130.1	K08490
+jgi|MicpuN3v2|8086|wlab.238311.1
+jgi|MicpuN3v2|8087|wlab.238308.1
+jgi|MicpuN3v2|8088|wlab.7154.1
+jgi|MicpuN3v2|8089|wlab.238309.1	K24736
+jgi|MicpuN3v2|808|wlab.232108.1
+jgi|MicpuN3v2|8090|wlab.238307.1
+jgi|MicpuN3v2|8091|wlab.238306.1	K19589
+jgi|MicpuN3v2|8092|wlab.238305.1
+jgi|MicpuN3v2|8093|wlab.25533.1
+jgi|MicpuN3v2|8094|wlab.238304.1	K08245
+jgi|MicpuN3v2|8095|wlab.238303.1
+jgi|MicpuN3v2|8096|wlab.238302.1	K03358
+jgi|MicpuN3v2|8097|wlab.238301.1
+jgi|MicpuN3v2|8098|wlab.29245.1
+jgi|MicpuN3v2|8099|wlab.238300.1	K04876
+jgi|MicpuN3v2|809|wlab.232107.1
+jgi|MicpuN3v2|80|wlab.232476.1	K17552
+jgi|MicpuN3v2|8100|wlab.248223.1
+jgi|MicpuN3v2|8101|wlab.238298.1	K00940
+jgi|MicpuN3v2|8102|wlab.238297.1	K01817
+jgi|MicpuN3v2|8103|wlab.248224.1
+jgi|MicpuN3v2|8104|wlab.7148.1
+jgi|MicpuN3v2|8105|wlab.248225.1
+jgi|MicpuN3v2|8106|wlab.238295.1	K00382
+jgi|MicpuN3v2|8107|wlab.248226.1
+jgi|MicpuN3v2|8108|wlab.238294.1
+jgi|MicpuN3v2|8109|wlab.238293.1	K18667
+jgi|MicpuN3v2|810|wlab.232106.1	K00227
+jgi|MicpuN3v2|8110|wlab.7146.1
+jgi|MicpuN3v2|8111|wlab.248227.1
+jgi|MicpuN3v2|8112|wlab.238289.1
+jgi|MicpuN3v2|8113|wlab.238290.1
+jgi|MicpuN3v2|8114|wlab.238291.1	K05307
+jgi|MicpuN3v2|8115|wlab.248228.1	K01810
+jgi|MicpuN3v2|8116|wlab.238287.1
+jgi|MicpuN3v2|8117|wlab.238286.1
+jgi|MicpuN3v2|8118|wlab.248705.1
+jgi|MicpuN3v2|8119|wlab.248229.1
+jgi|MicpuN3v2|811|wlab.232105.1
+jgi|MicpuN3v2|8120|wlab.238284.1
+jgi|MicpuN3v2|8121|wlab.238282.1
+jgi|MicpuN3v2|8122|wlab.238283.1
+jgi|MicpuN3v2|8123|wlab.238280.1
+jgi|MicpuN3v2|8124|wlab.248230.1	K08869
+jgi|MicpuN3v2|8125|wlab.248231.1
+jgi|MicpuN3v2|8126|wlab.248232.1	K14007
+jgi|MicpuN3v2|8127|wlab.248233.1
+jgi|MicpuN3v2|8128|wlab.248234.1
+jgi|MicpuN3v2|8129|wlab.1972.1
+jgi|MicpuN3v2|812|wlab.232104.1
+jgi|MicpuN3v2|8130|wlab.7141.1
+jgi|MicpuN3v2|8131|wlab.248235.1
+jgi|MicpuN3v2|8132|wlab.1971.1
+jgi|MicpuN3v2|8133|wlab.7140.1
+jgi|MicpuN3v2|8134|wlab.238275.1
+jgi|MicpuN3v2|8135|wlab.238274.1
+jgi|MicpuN3v2|8136|wlab.29233.1
+jgi|MicpuN3v2|8137|wlab.238273.1
+jgi|MicpuN3v2|8138|wlab.238272.1	K01025
+jgi|MicpuN3v2|8139|wlab.238271.1	K25648
+jgi|MicpuN3v2|813|wlab.3583.1
+jgi|MicpuN3v2|8140|wlab.238270.1
+jgi|MicpuN3v2|8141|wlab.248236.1
+jgi|MicpuN3v2|8142|wlab.246115.1
+jgi|MicpuN3v2|8143|wlab.238267.1
+jgi|MicpuN3v2|8144|wlab.1969.1
+jgi|MicpuN3v2|8145|wlab.248237.1
+jgi|MicpuN3v2|8146|wlab.246114.1	K22503
+jgi|MicpuN3v2|8147|wlab.238264.1	K04718
+jgi|MicpuN3v2|8148|wlab.238262.1
+jgi|MicpuN3v2|8149|wlab.248610.1
+jgi|MicpuN3v2|814|wlab.3584.1	K07192
+jgi|MicpuN3v2|8150|wlab.7130.1
+jgi|MicpuN3v2|8151|wlab.2461.1	K02721
+jgi|MicpuN3v2|8152|wlab.238447.1
+jgi|MicpuN3v2|8153|wlab.248238.1
+jgi|MicpuN3v2|8154|wlab.238260.1	K06965
+jgi|MicpuN3v2|8155|wlab.238259.1	K02149
+jgi|MicpuN3v2|8156|wlab.248239.1	K15504
+jgi|MicpuN3v2|8157|wlab.238257.1	K09517
+jgi|MicpuN3v2|8158|wlab.29226.1
+jgi|MicpuN3v2|8159|wlab.7129.1	K02923
+jgi|MicpuN3v2|815|wlab.232102.1
+jgi|MicpuN3v2|8160|wlab.238254.1
+jgi|MicpuN3v2|8161|wlab.246089.1	K00940
+jgi|MicpuN3v2|8162|wlab.248240.1
+jgi|MicpuN3v2|8163|wlab.238256.1
+jgi|MicpuN3v2|8164|wlab.13958.1	K18328
+jgi|MicpuN3v2|8165|wlab.25498.1	K22748
+jgi|MicpuN3v2|8166|wlab.238252.1	K06133
+jgi|MicpuN3v2|8167|wlab.248241.1
+jgi|MicpuN3v2|8168|wlab.238249.1	K13458
+jgi|MicpuN3v2|8169|wlab.238248.1
+jgi|MicpuN3v2|816|wlab.9908.1
+jgi|MicpuN3v2|8170|wlab.246087.1
+jgi|MicpuN3v2|8171|wlab.238246.1
+jgi|MicpuN3v2|8172|wlab.15797.1
+jgi|MicpuN3v2|8173|wlab.238244.1
+jgi|MicpuN3v2|8174|wlab.238242.1	K10408
+jgi|MicpuN3v2|8175|wlab.25492.1
+jgi|MicpuN3v2|8176|wlab.238241.1	K09480
+jgi|MicpuN3v2|8177|wlab.238240.1
+jgi|MicpuN3v2|8178|wlab.238239.1
+jgi|MicpuN3v2|8179|wlab.238238.1
+jgi|MicpuN3v2|817|wlab.232096.1
+jgi|MicpuN3v2|8180|wlab.1964.1
+jgi|MicpuN3v2|8181|wlab.238237.1
+jgi|MicpuN3v2|8182|wlab.238236.1
+jgi|MicpuN3v2|8183|wlab.231828.1	K09761
+jgi|MicpuN3v2|8184|wlab.231829.1
+jgi|MicpuN3v2|8185|wlab.248242.1	K02996
+jgi|MicpuN3v2|8186|wlab.238233.1	K05917
+jgi|MicpuN3v2|8187|wlab.238442.1	K17686
+jgi|MicpuN3v2|8188|wlab.238232.1
+jgi|MicpuN3v2|8189|wlab.248656.1	K24722
+jgi|MicpuN3v2|818|wlab.232097.1
+jgi|MicpuN3v2|8190|wlab.238231.1	K06691
+jgi|MicpuN3v2|8191|wlab.238229.1	K11968
+jgi|MicpuN3v2|8192|wlab.238228.1	K02905
+jgi|MicpuN3v2|8193|wlab.238226.1	K02966
+jgi|MicpuN3v2|8194|wlab.248565.1
+jgi|MicpuN3v2|8195|wlab.248243.1	K12818
+jgi|MicpuN3v2|8196|wlab.238225.1	K02897
+jgi|MicpuN3v2|8197|wlab.238224.1
+jgi|MicpuN3v2|8198|wlab.7115.1
+jgi|MicpuN3v2|8199|wlab.238223.1
+jgi|MicpuN3v2|819|wlab.232095.1
+jgi|MicpuN3v2|81|wlab.8011.1
+jgi|MicpuN3v2|8200|wlab.238222.1	K12842
+jgi|MicpuN3v2|8201|wlab.248244.1	K05925
+jgi|MicpuN3v2|8202|wlab.238221.1	K13100
+jgi|MicpuN3v2|8203|wlab.238220.1	K08730
+jgi|MicpuN3v2|8204|wlab.238219.1	K00640
+jgi|MicpuN3v2|8205|wlab.238214.1	K03979
+jgi|MicpuN3v2|8206|wlab.248245.1	K25547
+jgi|MicpuN3v2|8207|wlab.238216.1
+jgi|MicpuN3v2|8208|wlab.238217.1
+jgi|MicpuN3v2|8209|wlab.238218.1
+jgi|MicpuN3v2|820|wlab.232094.1	K00323
+jgi|MicpuN3v2|8210|wlab.238213.1
+jgi|MicpuN3v2|8211|wlab.7110.1
+jgi|MicpuN3v2|8212|wlab.238211.1
+jgi|MicpuN3v2|8213|wlab.238212.1
+jgi|MicpuN3v2|8214|wlab.238210.1
+jgi|MicpuN3v2|8215|wlab.238209.1
+jgi|MicpuN3v2|8216|wlab.238443.1
+jgi|MicpuN3v2|8217|wlab.238208.1
+jgi|MicpuN3v2|8218|wlab.238207.1
+jgi|MicpuN3v2|8219|wlab.238206.1
+jgi|MicpuN3v2|821|wlab.232093.1
+jgi|MicpuN3v2|8220|wlab.238205.1	K12854
+jgi|MicpuN3v2|8221|wlab.248246.1
+jgi|MicpuN3v2|8222|wlab.21356.1
+jgi|MicpuN3v2|8223|wlab.231826.1	K25070
+jgi|MicpuN3v2|8224|wlab.8821.1
+jgi|MicpuN3v2|8225|wlab.238201.1
+jgi|MicpuN3v2|8226|wlab.238200.1
+jgi|MicpuN3v2|8227|wlab.238199.1	K17816
+jgi|MicpuN3v2|8228|wlab.238198.1
+jgi|MicpuN3v2|8229|wlab.25463.1
+jgi|MicpuN3v2|822|wlab.248599.1	K02349
+jgi|MicpuN3v2|8230|wlab.238197.1
+jgi|MicpuN3v2|8231|wlab.238196.1
+jgi|MicpuN3v2|8232|wlab.238195.1
+jgi|MicpuN3v2|8233|wlab.25460.1
+jgi|MicpuN3v2|8234|wlab.1961.1
+jgi|MicpuN3v2|8235|wlab.238193.1
+jgi|MicpuN3v2|8236|wlab.238194.1
+jgi|MicpuN3v2|8237|wlab.238192.1
+jgi|MicpuN3v2|8238|wlab.238191.1
+jgi|MicpuN3v2|8239|wlab.238190.1	K15340
+jgi|MicpuN3v2|823|wlab.232092.1
+jgi|MicpuN3v2|8240|wlab.248706.1	K11254
+jgi|MicpuN3v2|8241|wlab.8814.1
+jgi|MicpuN3v2|8242|wlab.7100.1
+jgi|MicpuN3v2|8243|wlab.238188.1
+jgi|MicpuN3v2|8244|wlab.1032.1	K11253
+jgi|MicpuN3v2|8245|wlab.238187.1
+jgi|MicpuN3v2|8246|wlab.238186.1	K10666
+jgi|MicpuN3v2|8247|wlab.238185.1
+jgi|MicpuN3v2|8248|wlab.238184.1	K00705
+jgi|MicpuN3v2|8249|wlab.238183.1
+jgi|MicpuN3v2|824|wlab.22281.1
+jgi|MicpuN3v2|8250|wlab.248247.1
+jgi|MicpuN3v2|8251|wlab.238182.1
+jgi|MicpuN3v2|8252|wlab.238181.1	K20353
+jgi|MicpuN3v2|8253|wlab.238180.1	K12837
+jgi|MicpuN3v2|8254|wlab.238178.1	K25059
+jgi|MicpuN3v2|8255|wlab.238179.1
+jgi|MicpuN3v2|8256|wlab.248618.1
+jgi|MicpuN3v2|8257|wlab.238177.1	K15277
+jgi|MicpuN3v2|8258|wlab.238176.1
+jgi|MicpuN3v2|8259|wlab.238175.1
+jgi|MicpuN3v2|825|wlab.3590.1
+jgi|MicpuN3v2|8260|wlab.238174.1	K10570
+jgi|MicpuN3v2|8261|wlab.238173.1
+jgi|MicpuN3v2|8262|wlab.238172.1	K01893
+jgi|MicpuN3v2|8263|wlab.238170.1
+jgi|MicpuN3v2|8264|wlab.248249.1	K11855
+jgi|MicpuN3v2|8265|wlab.231823.1
+jgi|MicpuN3v2|8266|wlab.231824.1	K04565
+jgi|MicpuN3v2|8267|wlab.7091.1
+jgi|MicpuN3v2|8268|wlab.25443.1	K02434
+jgi|MicpuN3v2|8269|wlab.7090.1
+jgi|MicpuN3v2|826|wlab.22282.1	K01006
+jgi|MicpuN3v2|8270|wlab.238168.1	K10842
+jgi|MicpuN3v2|8271|wlab.238167.1
+jgi|MicpuN3v2|8272|wlab.248250.1	K13026
+jgi|MicpuN3v2|8273|wlab.238166.1
+jgi|MicpuN3v2|8274|wlab.238165.1
+jgi|MicpuN3v2|8275|wlab.238164.1
+jgi|MicpuN3v2|8276|wlab.1957.1
+jgi|MicpuN3v2|8277|wlab.238163.1
+jgi|MicpuN3v2|8278|wlab.7085.1
+jgi|MicpuN3v2|8279|wlab.248251.1	K10669
+jgi|MicpuN3v2|827|wlab.233291.1
+jgi|MicpuN3v2|8280|wlab.7084.1
+jgi|MicpuN3v2|8281|wlab.8809.1
+jgi|MicpuN3v2|8282|wlab.238162.1	K04485
+jgi|MicpuN3v2|8283|wlab.238159.1
+jgi|MicpuN3v2|8284|wlab.238160.1
+jgi|MicpuN3v2|8285|wlab.248252.1	K07112
+jgi|MicpuN3v2|8286|wlab.238157.1	K11153
+jgi|MicpuN3v2|8287|wlab.238158.1
+jgi|MicpuN3v2|8288|wlab.246084.1
+jgi|MicpuN3v2|8289|wlab.248253.1
+jgi|MicpuN3v2|828|wlab.233290.1	K06530
+jgi|MicpuN3v2|8290|wlab.248254.1
+jgi|MicpuN3v2|8291|wlab.148.1
+jgi|MicpuN3v2|8292|wlab.238153.1
+jgi|MicpuN3v2|8293|wlab.238150.1	K19677
+jgi|MicpuN3v2|8294|wlab.238151.1
+jgi|MicpuN3v2|8295|wlab.238152.1
+jgi|MicpuN3v2|8296|wlab.231820.1
+jgi|MicpuN3v2|8297|wlab.231821.1
+jgi|MicpuN3v2|8298|wlab.238149.1	K05656
+jgi|MicpuN3v2|8299|wlab.238146.1
+jgi|MicpuN3v2|829|wlab.233289.1	K14684
+jgi|MicpuN3v2|82|wlab.232473.1
+jgi|MicpuN3v2|8300|wlab.238147.1
+jgi|MicpuN3v2|8301|wlab.246080.1
+jgi|MicpuN3v2|8302|wlab.238145.1	K01772
+jgi|MicpuN3v2|8303|wlab.238144.1	K04876
+jgi|MicpuN3v2|8304|wlab.7077.1
+jgi|MicpuN3v2|8305|wlab.246078.1
+jgi|MicpuN3v2|8306|wlab.248255.1
+jgi|MicpuN3v2|8307|wlab.238142.1	K01278
+jgi|MicpuN3v2|8308|wlab.238141.1
+jgi|MicpuN3v2|8309|wlab.238140.1	K14806
+jgi|MicpuN3v2|830|wlab.233288.1
+jgi|MicpuN3v2|8310|wlab.7074.1
+jgi|MicpuN3v2|8311|wlab.238139.1
+jgi|MicpuN3v2|8312|wlab.238138.1
+jgi|MicpuN3v2|8313|wlab.15785.1
+jgi|MicpuN3v2|8314|wlab.248256.1
+jgi|MicpuN3v2|8315|wlab.238136.1
+jgi|MicpuN3v2|8316|wlab.238137.1
+jgi|MicpuN3v2|8317|wlab.7073.1
+jgi|MicpuN3v2|8318|wlab.238135.1
+jgi|MicpuN3v2|8319|wlab.7072.1
+jgi|MicpuN3v2|831|wlab.247225.1	K20298
+jgi|MicpuN3v2|8320|wlab.7071.1	K02324
+jgi|MicpuN3v2|8321|wlab.238134.1	K15115
+jgi|MicpuN3v2|8322|wlab.246071.1
+jgi|MicpuN3v2|8323|wlab.25417.1	K02606
+jgi|MicpuN3v2|8324|wlab.238133.1	K21027
+jgi|MicpuN3v2|8325|wlab.238129.1
+jgi|MicpuN3v2|8326|wlab.238130.1	K00326
+jgi|MicpuN3v2|8327|wlab.238131.1	K02926
+jgi|MicpuN3v2|8328|wlab.238132.1	K18646
+jgi|MicpuN3v2|8329|wlab.248257.1
+jgi|MicpuN3v2|832|wlab.2586.1
+jgi|MicpuN3v2|8330|wlab.238127.1	K15109
+jgi|MicpuN3v2|8331|wlab.231803.1	K12611
+jgi|MicpuN3v2|8332|wlab.248258.1	K10872
+jgi|MicpuN3v2|8333|wlab.238124.1
+jgi|MicpuN3v2|8334|wlab.238125.1
+jgi|MicpuN3v2|8335|wlab.238123.1	K15276
+jgi|MicpuN3v2|8336|wlab.248259.1
+jgi|MicpuN3v2|8337|wlab.238122.1
+jgi|MicpuN3v2|8338|wlab.238121.1
+jgi|MicpuN3v2|8339|wlab.246068.1
+jgi|MicpuN3v2|833|wlab.233287.1
+jgi|MicpuN3v2|8340|wlab.238119.1	K18806
+jgi|MicpuN3v2|8341|wlab.7065.1	K12272
+jgi|MicpuN3v2|8342|wlab.7064.1	K17570
+jgi|MicpuN3v2|8343|wlab.246067.1	K02895
+jgi|MicpuN3v2|8344|wlab.238117.1
+jgi|MicpuN3v2|8345|wlab.238116.1
+jgi|MicpuN3v2|8346|wlab.248260.1
+jgi|MicpuN3v2|8347|wlab.238115.1
+jgi|MicpuN3v2|8348|wlab.248707.1
+jgi|MicpuN3v2|8349|wlab.248708.1	K11253
+jgi|MicpuN3v2|834|wlab.233286.1
+jgi|MicpuN3v2|8350|wlab.2455.1	K15175
+jgi|MicpuN3v2|8351|wlab.238112.1	K10727
+jgi|MicpuN3v2|8352|wlab.238113.1	K03152
+jgi|MicpuN3v2|8353|wlab.1948.1
+jgi|MicpuN3v2|8354|wlab.7991.1	K03349
+jgi|MicpuN3v2|8355|wlab.248426.1
+jgi|MicpuN3v2|8356|wlab.238110.1
+jgi|MicpuN3v2|8357|wlab.238108.1
+jgi|MicpuN3v2|8358|wlab.7058.1
+jgi|MicpuN3v2|8359|wlab.248598.1
+jgi|MicpuN3v2|835|wlab.233285.1	K13171
+jgi|MicpuN3v2|8360|wlab.7057.1	K00485
+jgi|MicpuN3v2|8361|wlab.238106.1
+jgi|MicpuN3v2|8362|wlab.246065.1	K22764
+jgi|MicpuN3v2|8363|wlab.238105.1
+jgi|MicpuN3v2|8364|wlab.238104.1	K17592
+jgi|MicpuN3v2|8365|wlab.238103.1
+jgi|MicpuN3v2|8366|wlab.25393.1	K22218
+jgi|MicpuN3v2|8367|wlab.238102.1	K11996
+jgi|MicpuN3v2|8368|wlab.238100.1	K10770
+jgi|MicpuN3v2|8369|wlab.238101.1
+jgi|MicpuN3v2|836|wlab.233283.1	K12592
+jgi|MicpuN3v2|8370|wlab.238099.1
+jgi|MicpuN3v2|8371|wlab.238097.1	K13348
+jgi|MicpuN3v2|8372|wlab.238096.1
+jgi|MicpuN3v2|8373|wlab.7054.1
+jgi|MicpuN3v2|8374|wlab.248261.1
+jgi|MicpuN3v2|8375|wlab.238095.1
+jgi|MicpuN3v2|8376|wlab.238093.1	K08244
+jgi|MicpuN3v2|8377|wlab.238449.1
+jgi|MicpuN3v2|8378|wlab.29148.1
+jgi|MicpuN3v2|8379|wlab.238091.1
+jgi|MicpuN3v2|837|wlab.233284.1	K00457
+jgi|MicpuN3v2|8380|wlab.238090.1	K15456
+jgi|MicpuN3v2|8381|wlab.238089.1
+jgi|MicpuN3v2|8382|wlab.231798.1	K17087
+jgi|MicpuN3v2|8383|wlab.238088.1	K18587
+jgi|MicpuN3v2|8384|wlab.238087.1
+jgi|MicpuN3v2|8385|wlab.7050.1	K15628
+jgi|MicpuN3v2|8386|wlab.238086.1
+jgi|MicpuN3v2|8387|wlab.238085.1	K00797
+jgi|MicpuN3v2|8388|wlab.238084.1
+jgi|MicpuN3v2|8389|wlab.238083.1
+jgi|MicpuN3v2|838|wlab.233282.1
+jgi|MicpuN3v2|8390|wlab.238082.1
+jgi|MicpuN3v2|8391|wlab.248262.1
+jgi|MicpuN3v2|8392|wlab.238080.1	K17804
+jgi|MicpuN3v2|8393|wlab.248263.1
+jgi|MicpuN3v2|8394|wlab.238078.1
+jgi|MicpuN3v2|8395|wlab.238077.1
+jgi|MicpuN3v2|8396|wlab.238076.1
+jgi|MicpuN3v2|8397|wlab.248264.1	K02685
+jgi|MicpuN3v2|8398|wlab.238075.1
+jgi|MicpuN3v2|8399|wlab.238074.1
+jgi|MicpuN3v2|839|wlab.233281.1	K16194
+jgi|MicpuN3v2|83|wlab.232474.1
+jgi|MicpuN3v2|8400|wlab.238073.1	K02540
+jgi|MicpuN3v2|8401|wlab.238072.1
+jgi|MicpuN3v2|8402|wlab.238071.1	K00688
+jgi|MicpuN3v2|8403|wlab.14083.1
+jgi|MicpuN3v2|8404|wlab.238069.1
+jgi|MicpuN3v2|8405|wlab.238068.1	K20301
+jgi|MicpuN3v2|8406|wlab.246064.1	K04567
+jgi|MicpuN3v2|8407|wlab.238067.1
+jgi|MicpuN3v2|8408|wlab.238064.1
+jgi|MicpuN3v2|8409|wlab.238065.1
+jgi|MicpuN3v2|840|wlab.247226.1
+jgi|MicpuN3v2|8410|wlab.238066.1
+jgi|MicpuN3v2|8411|wlab.238063.1
+jgi|MicpuN3v2|8412|wlab.238062.1
+jgi|MicpuN3v2|8413|wlab.246063.1	K09510
+jgi|MicpuN3v2|8414|wlab.248265.1	K23739
+jgi|MicpuN3v2|8415|wlab.248572.1
+jgi|MicpuN3v2|8416|wlab.238061.1
+jgi|MicpuN3v2|8417|wlab.238058.1
+jgi|MicpuN3v2|8418|wlab.7037.1
+jgi|MicpuN3v2|8419|wlab.238057.1
+jgi|MicpuN3v2|841|wlab.230947.1
+jgi|MicpuN3v2|8420|wlab.238056.1
+jgi|MicpuN3v2|8421|wlab.238055.1
+jgi|MicpuN3v2|8422|wlab.248266.1
+jgi|MicpuN3v2|8423|wlab.1026.1
+jgi|MicpuN3v2|8424|wlab.238333.1
+jgi|MicpuN3v2|8425|wlab.238334.1
+jgi|MicpuN3v2|8426|wlab.238444.1	K07277
+jgi|MicpuN3v2|8427|wlab.248267.1	K02492
+jgi|MicpuN3v2|8428|wlab.238336.1	K25380
+jgi|MicpuN3v2|8429|wlab.238337.1
+jgi|MicpuN3v2|842|wlab.230948.1
+jgi|MicpuN3v2|8430|wlab.238338.1
+jgi|MicpuN3v2|8431|wlab.238339.1
+jgi|MicpuN3v2|8432|wlab.238340.1
+jgi|MicpuN3v2|8433|wlab.238341.1
+jgi|MicpuN3v2|8434|wlab.238342.1	K04508
+jgi|MicpuN3v2|8435|wlab.238343.1	K14297
+jgi|MicpuN3v2|8436|wlab.238445.1	K11323
+jgi|MicpuN3v2|8437|wlab.238344.1	K22868
+jgi|MicpuN3v2|8438|wlab.238345.1
+jgi|MicpuN3v2|8439|wlab.238346.1	K22072
+jgi|MicpuN3v2|843|wlab.247227.1
+jgi|MicpuN3v2|8440|wlab.238347.1
+jgi|MicpuN3v2|8441|wlab.248268.1	K00759
+jgi|MicpuN3v2|8442|wlab.248269.1
+jgi|MicpuN3v2|8443|wlab.2452.1
+jgi|MicpuN3v2|8444|wlab.238349.1
+jgi|MicpuN3v2|8445|wlab.238350.1
+jgi|MicpuN3v2|8446|wlab.238351.1
+jgi|MicpuN3v2|8447|wlab.238352.1
+jgi|MicpuN3v2|8448|wlab.238353.1
+jgi|MicpuN3v2|8449|wlab.238354.1
+jgi|MicpuN3v2|844|wlab.22685.1
+jgi|MicpuN3v2|8450|wlab.29121.1	K22696
+jgi|MicpuN3v2|8451|wlab.238355.1
+jgi|MicpuN3v2|8452|wlab.238356.1
+jgi|MicpuN3v2|8453|wlab.238357.1
+jgi|MicpuN3v2|8454|wlab.246122.1	K08775
+jgi|MicpuN3v2|8455|wlab.238359.1
+jgi|MicpuN3v2|8456|wlab.238360.1	K15440
+jgi|MicpuN3v2|8457|wlab.238361.1
+jgi|MicpuN3v2|8458|wlab.238362.1
+jgi|MicpuN3v2|8459|wlab.248270.1
+jgi|MicpuN3v2|845|wlab.233277.1
+jgi|MicpuN3v2|8460|wlab.7010.1
+jgi|MicpuN3v2|8461|wlab.248271.1	K24272
+jgi|MicpuN3v2|8462|wlab.238364.1
+jgi|MicpuN3v2|8463|wlab.7008.1
+jgi|MicpuN3v2|8464|wlab.238365.1
+jgi|MicpuN3v2|8465|wlab.7006.1
+jgi|MicpuN3v2|8466|wlab.9171.1
+jgi|MicpuN3v2|8467|wlab.248272.1
+jgi|MicpuN3v2|8468|wlab.25346.1
+jgi|MicpuN3v2|8469|wlab.248273.1	K02563
+jgi|MicpuN3v2|846|wlab.233276.1
+jgi|MicpuN3v2|8470|wlab.248274.1	K12397
+jgi|MicpuN3v2|8471|wlab.238367.1	K15040
+jgi|MicpuN3v2|8472|wlab.238369.1	K10408
+jgi|MicpuN3v2|8473|wlab.246123.1	K13728
+jgi|MicpuN3v2|8474|wlab.238370.1	K17893
+jgi|MicpuN3v2|8475|wlab.238371.1	K24229
+jgi|MicpuN3v2|8476|wlab.238372.1
+jgi|MicpuN3v2|8477|wlab.238373.1
+jgi|MicpuN3v2|8478|wlab.238374.1	K14641
+jgi|MicpuN3v2|8479|wlab.7001.1
+jgi|MicpuN3v2|847|wlab.4003.1
+jgi|MicpuN3v2|8480|wlab.238375.1
+jgi|MicpuN3v2|8481|wlab.238376.1
+jgi|MicpuN3v2|8482|wlab.238377.1	K02321
+jgi|MicpuN3v2|8483|wlab.246125.1
+jgi|MicpuN3v2|8484|wlab.238378.1
+jgi|MicpuN3v2|8485|wlab.25337.1
+jgi|MicpuN3v2|8486|wlab.25336.1
+jgi|MicpuN3v2|8487|wlab.238379.1
+jgi|MicpuN3v2|8488|wlab.238380.1	K01770
+jgi|MicpuN3v2|8489|wlab.6996.1	K03671
+jgi|MicpuN3v2|848|wlab.233274.1
+jgi|MicpuN3v2|8490|wlab.238381.1	K01663
+jgi|MicpuN3v2|8491|wlab.238450.1	K10773
+jgi|MicpuN3v2|8492|wlab.21286.1
+jgi|MicpuN3v2|8493|wlab.238382.1	K11855
+jgi|MicpuN3v2|8494|wlab.248275.1	K05956
+jgi|MicpuN3v2|8495|wlab.25331.1	K15454
+jgi|MicpuN3v2|8496|wlab.6994.1
+jgi|MicpuN3v2|8497|wlab.238385.1	K00434
+jgi|MicpuN3v2|8498|wlab.6993.1
+jgi|MicpuN3v2|8499|wlab.248276.1	K17893
+jgi|MicpuN3v2|849|wlab.233275.1	K06636
+jgi|MicpuN3v2|84|wlab.232475.1
+jgi|MicpuN3v2|8500|wlab.2664.1	K11153
+jgi|MicpuN3v2|8501|wlab.246132.1	K14288
+jgi|MicpuN3v2|8502|wlab.238387.1
+jgi|MicpuN3v2|8503|wlab.246137.1	K20359
+jgi|MicpuN3v2|8504|wlab.238388.1	K19385
+jgi|MicpuN3v2|8505|wlab.238389.1	K14844
+jgi|MicpuN3v2|8506|wlab.6988.1
+jgi|MicpuN3v2|8507|wlab.6987.1
+jgi|MicpuN3v2|8508|wlab.8788.1
+jgi|MicpuN3v2|8509|wlab.238391.1
+jgi|MicpuN3v2|850|wlab.2745.1	K00559
+jgi|MicpuN3v2|8510|wlab.248277.1	K15688
+jgi|MicpuN3v2|8511|wlab.238390.1
+jgi|MicpuN3v2|8512|wlab.6983.1
+jgi|MicpuN3v2|8513|wlab.238392.1
+jgi|MicpuN3v2|8514|wlab.238393.1
+jgi|MicpuN3v2|8515|wlab.248278.1
+jgi|MicpuN3v2|8516|wlab.25325.1	K01653
+jgi|MicpuN3v2|8517|wlab.6980.1
+jgi|MicpuN3v2|8518|wlab.6979.1
+jgi|MicpuN3v2|8519|wlab.248279.1
+jgi|MicpuN3v2|851|wlab.247228.1	K15442
+jgi|MicpuN3v2|8520|wlab.248280.1
+jgi|MicpuN3v2|8521|wlab.238397.1
+jgi|MicpuN3v2|8522|wlab.238398.1
+jgi|MicpuN3v2|8523|wlab.238399.1	K03539
+jgi|MicpuN3v2|8524|wlab.238400.1	K03118
+jgi|MicpuN3v2|8525|wlab.238401.1
+jgi|MicpuN3v2|8526|wlab.238403.1	K04946
+jgi|MicpuN3v2|8527|wlab.246140.1	K01414
+jgi|MicpuN3v2|8528|wlab.238402.1
+jgi|MicpuN3v2|8529|wlab.238406.1
+jgi|MicpuN3v2|852|wlab.247229.1	K01687
+jgi|MicpuN3v2|8530|wlab.238407.1
+jgi|MicpuN3v2|8531|wlab.238405.1	K09458
+jgi|MicpuN3v2|8532|wlab.238408.1	K06173
+jgi|MicpuN3v2|8533|wlab.238409.1
+jgi|MicpuN3v2|8534|wlab.238410.1
+jgi|MicpuN3v2|8535|wlab.238411.1
+jgi|MicpuN3v2|8536|wlab.238412.1	K04794
+jgi|MicpuN3v2|8537|wlab.238413.1
+jgi|MicpuN3v2|8538|wlab.8785.1
+jgi|MicpuN3v2|8539|wlab.248281.1	K00688
+jgi|MicpuN3v2|853|wlab.233269.1	K18208
+jgi|MicpuN3v2|8540|wlab.238417.1
+jgi|MicpuN3v2|8541|wlab.238416.1	K03007
+jgi|MicpuN3v2|8542|wlab.238418.1
+jgi|MicpuN3v2|8543|wlab.248282.1
+jgi|MicpuN3v2|8544|wlab.6967.1
+jgi|MicpuN3v2|8545|wlab.248283.1	K08066
+jgi|MicpuN3v2|8546|wlab.238421.1
+jgi|MicpuN3v2|8547|wlab.238420.1
+jgi|MicpuN3v2|8548|wlab.6964.1
+jgi|MicpuN3v2|8549|wlab.25313.1
+jgi|MicpuN3v2|854|wlab.233270.1
+jgi|MicpuN3v2|8550|wlab.238422.1
+jgi|MicpuN3v2|8551|wlab.6963.1
+jgi|MicpuN3v2|8552|wlab.238423.1	K15340
+jgi|MicpuN3v2|8553|wlab.238424.1	K13095
+jgi|MicpuN3v2|8554|wlab.15791.1
+jgi|MicpuN3v2|8555|wlab.248285.1
+jgi|MicpuN3v2|8556|wlab.238426.1
+jgi|MicpuN3v2|8557|wlab.248286.1
+jgi|MicpuN3v2|8558|wlab.238427.1	K16276
+jgi|MicpuN3v2|8559|wlab.238428.1
+jgi|MicpuN3v2|855|wlab.233268.1	K01265
+jgi|MicpuN3v2|8560|wlab.6956.1
+jgi|MicpuN3v2|8561|wlab.238429.1
+jgi|MicpuN3v2|8562|wlab.238430.1
+jgi|MicpuN3v2|8563|wlab.238431.1
+jgi|MicpuN3v2|8564|wlab.6954.1
+jgi|MicpuN3v2|8565|wlab.238432.1	K05677
+jgi|MicpuN3v2|8566|wlab.238433.1
+jgi|MicpuN3v2|8567|wlab.246143.1	K15192
+jgi|MicpuN3v2|8568|wlab.238435.1	K05016
+jgi|MicpuN3v2|8569|wlab.8781.1
+jgi|MicpuN3v2|856|wlab.1287.1
+jgi|MicpuN3v2|8570|wlab.238436.1
+jgi|MicpuN3v2|8571|wlab.238437.1
+jgi|MicpuN3v2|8572|wlab.1937.1	K02155
+jgi|MicpuN3v2|8573|wlab.8779.1
+jgi|MicpuN3v2|8574|wlab.6950.1
+jgi|MicpuN3v2|8575|wlab.1935.1
+jgi|MicpuN3v2|8576|wlab.231863.1	K23998
+jgi|MicpuN3v2|8577|wlab.238440.1
+jgi|MicpuN3v2|8578|wlab.248287.1
+jgi|MicpuN3v2|8579|wlab.6947.1
+jgi|MicpuN3v2|857|wlab.233266.1
+jgi|MicpuN3v2|8580|wlab.238441.1
+jgi|MicpuN3v2|8581|wlab.25301.1
+jgi|MicpuN3v2|8582|wlab.248288.1
+jgi|MicpuN3v2|8583|wlab.238452.1	K02350
+jgi|MicpuN3v2|8584|wlab.7169.1
+jgi|MicpuN3v2|8585|wlab.238453.1	K10523
+jgi|MicpuN3v2|8586|wlab.8835.1
+jgi|MicpuN3v2|8587|wlab.7171.1	K25450
+jgi|MicpuN3v2|8588|wlab.231868.1
+jgi|MicpuN3v2|8589|wlab.238455.1
+jgi|MicpuN3v2|858|wlab.247230.1	K15711
+jgi|MicpuN3v2|8590|wlab.238456.1
+jgi|MicpuN3v2|8591|wlab.238457.1
+jgi|MicpuN3v2|8592|wlab.238458.1	K00052
+jgi|MicpuN3v2|8593|wlab.248289.1
+jgi|MicpuN3v2|8594|wlab.1068.1
+jgi|MicpuN3v2|8595|wlab.15819.1	K17616
+jgi|MicpuN3v2|8596|wlab.238459.1
+jgi|MicpuN3v2|8597|wlab.238460.1
+jgi|MicpuN3v2|8598|wlab.25553.1
+jgi|MicpuN3v2|8599|wlab.238461.1	K00818
+jgi|MicpuN3v2|859|wlab.233265.1
+jgi|MicpuN3v2|85|wlab.3328.1	K13989
+jgi|MicpuN3v2|8600|wlab.238462.1	K03575
+jgi|MicpuN3v2|8601|wlab.7179.1
+jgi|MicpuN3v2|8602|wlab.238464.1
+jgi|MicpuN3v2|8603|wlab.2671.1	K10573
+jgi|MicpuN3v2|8604|wlab.238463.1	K12826
+jgi|MicpuN3v2|8605|wlab.238830.1
+jgi|MicpuN3v2|8606|wlab.248290.1	K10277
+jgi|MicpuN3v2|8607|wlab.238466.1
+jgi|MicpuN3v2|8608|wlab.238831.1
+jgi|MicpuN3v2|8609|wlab.248291.1
+jgi|MicpuN3v2|860|wlab.233264.1
+jgi|MicpuN3v2|8610|wlab.248292.1
+jgi|MicpuN3v2|8611|wlab.238468.1	K05657
+jgi|MicpuN3v2|8612|wlab.238469.1
+jgi|MicpuN3v2|8613|wlab.8837.1
+jgi|MicpuN3v2|8614|wlab.248293.1
+jgi|MicpuN3v2|8615|wlab.248294.1
+jgi|MicpuN3v2|8616|wlab.238471.1
+jgi|MicpuN3v2|8617|wlab.238472.1
+jgi|MicpuN3v2|8618|wlab.29274.1
+jgi|MicpuN3v2|8619|wlab.238474.1
+jgi|MicpuN3v2|861|wlab.3997.1	K00464
+jgi|MicpuN3v2|8620|wlab.246156.1	K12855
+jgi|MicpuN3v2|8621|wlab.231872.1
+jgi|MicpuN3v2|8622|wlab.238476.1
+jgi|MicpuN3v2|8623|wlab.238477.1	K15445
+jgi|MicpuN3v2|8624|wlab.7192.1
+jgi|MicpuN3v2|8625|wlab.7193.1
+jgi|MicpuN3v2|8626|wlab.248295.1	K01792
+jgi|MicpuN3v2|8627|wlab.25562.1
+jgi|MicpuN3v2|8628|wlab.8838.1
+jgi|MicpuN3v2|8629|wlab.7194.1
+jgi|MicpuN3v2|862|wlab.233263.1
+jgi|MicpuN3v2|8630|wlab.231875.1
+jgi|MicpuN3v2|8631|wlab.238480.1	K18482
+jgi|MicpuN3v2|8632|wlab.238481.1
+jgi|MicpuN3v2|8633|wlab.248296.1
+jgi|MicpuN3v2|8634|wlab.238483.1
+jgi|MicpuN3v2|8635|wlab.238484.1
+jgi|MicpuN3v2|8636|wlab.238485.1
+jgi|MicpuN3v2|8637|wlab.7198.1
+jgi|MicpuN3v2|8638|wlab.238486.1	K03004
+jgi|MicpuN3v2|8639|wlab.238487.1
+jgi|MicpuN3v2|863|wlab.8131.1	K13133
+jgi|MicpuN3v2|8640|wlab.238488.1
+jgi|MicpuN3v2|8641|wlab.238489.1
+jgi|MicpuN3v2|8642|wlab.238490.1	K03327
+jgi|MicpuN3v2|8643|wlab.1979.1
+jgi|MicpuN3v2|8644|wlab.248297.1	K03234
+jgi|MicpuN3v2|8645|wlab.10089.1	K07297
+jgi|MicpuN3v2|8646|wlab.238492.1	K18121
+jgi|MicpuN3v2|8647|wlab.25572.1
+jgi|MicpuN3v2|8648|wlab.238493.1
+jgi|MicpuN3v2|8649|wlab.238494.1
+jgi|MicpuN3v2|864|wlab.233261.1	K03019
+jgi|MicpuN3v2|8650|wlab.3226.1
+jgi|MicpuN3v2|8651|wlab.238496.1
+jgi|MicpuN3v2|8652|wlab.238497.1	K10862
+jgi|MicpuN3v2|8653|wlab.238498.1
+jgi|MicpuN3v2|8654|wlab.238499.1	K10838
+jgi|MicpuN3v2|8655|wlab.238500.1	K00930
+jgi|MicpuN3v2|8656|wlab.238501.1
+jgi|MicpuN3v2|8657|wlab.238502.1	K11578
+jgi|MicpuN3v2|8658|wlab.248298.1
+jgi|MicpuN3v2|8659|wlab.248299.1	K00600
+jgi|MicpuN3v2|865|wlab.22674.1
+jgi|MicpuN3v2|8660|wlab.238504.1	K07953
+jgi|MicpuN3v2|8661|wlab.238505.1
+jgi|MicpuN3v2|8662|wlab.7207.1
+jgi|MicpuN3v2|8663|wlab.248300.1
+jgi|MicpuN3v2|8664|wlab.238507.1
+jgi|MicpuN3v2|8665|wlab.238508.1
+jgi|MicpuN3v2|8666|wlab.7211.1
+jgi|MicpuN3v2|8667|wlab.231914.1	K23094
+jgi|MicpuN3v2|8668|wlab.238509.1	K13354
+jgi|MicpuN3v2|8669|wlab.238510.1
+jgi|MicpuN3v2|866|wlab.233303.1
+jgi|MicpuN3v2|8670|wlab.238511.1
+jgi|MicpuN3v2|8671|wlab.238512.1
+jgi|MicpuN3v2|8672|wlab.238513.1
+jgi|MicpuN3v2|8673|wlab.238514.1
+jgi|MicpuN3v2|8674|wlab.238515.1
+jgi|MicpuN3v2|8675|wlab.7213.1
+jgi|MicpuN3v2|8676|wlab.238516.1
+jgi|MicpuN3v2|8677|wlab.238518.1
+jgi|MicpuN3v2|8678|wlab.238517.1	K17732
+jgi|MicpuN3v2|8679|wlab.7214.1
+jgi|MicpuN3v2|867|wlab.233259.1	K13293
+jgi|MicpuN3v2|8680|wlab.25587.1	K13783
+jgi|MicpuN3v2|8681|wlab.238519.1
+jgi|MicpuN3v2|8682|wlab.238520.1	K02887
+jgi|MicpuN3v2|8683|wlab.246164.1	K02995
+jgi|MicpuN3v2|8684|wlab.238522.1
+jgi|MicpuN3v2|8685|wlab.238523.1	K01214
+jgi|MicpuN3v2|8686|wlab.246166.1
+jgi|MicpuN3v2|8687|wlab.246845.1
+jgi|MicpuN3v2|8688|wlab.238524.1	K06125
+jgi|MicpuN3v2|8689|wlab.238525.1	K03966
+jgi|MicpuN3v2|868|wlab.244487.1
+jgi|MicpuN3v2|8690|wlab.238526.1
+jgi|MicpuN3v2|8691|wlab.238527.1	K12840
+jgi|MicpuN3v2|8692|wlab.238528.1	K14300
+jgi|MicpuN3v2|8693|wlab.248301.1
+jgi|MicpuN3v2|8694|wlab.238529.1
+jgi|MicpuN3v2|8695|wlab.246167.1
+jgi|MicpuN3v2|8696|wlab.238531.1	K15304
+jgi|MicpuN3v2|8697|wlab.25594.1	K00800
+jgi|MicpuN3v2|8698|wlab.248302.1	K17777
+jgi|MicpuN3v2|8699|wlab.248303.1
+jgi|MicpuN3v2|869|wlab.233258.1	K06699
+jgi|MicpuN3v2|86|wlab.232472.1
+jgi|MicpuN3v2|8700|wlab.248304.1	K09284
+jgi|MicpuN3v2|8701|wlab.248305.1
+jgi|MicpuN3v2|8702|wlab.238534.1
+jgi|MicpuN3v2|8703|wlab.246169.1	K12486
+jgi|MicpuN3v2|8704|wlab.238536.1
+jgi|MicpuN3v2|8705|wlab.238537.1
+jgi|MicpuN3v2|8706|wlab.246846.1
+jgi|MicpuN3v2|8707|wlab.246176.1
+jgi|MicpuN3v2|8708|wlab.248306.1	K15033
+jgi|MicpuN3v2|8709|wlab.238540.1
+jgi|MicpuN3v2|870|wlab.233256.1
+jgi|MicpuN3v2|8710|wlab.238541.1
+jgi|MicpuN3v2|8711|wlab.16703.1
+jgi|MicpuN3v2|8712|wlab.248307.1
+jgi|MicpuN3v2|8713|wlab.25606.1
+jgi|MicpuN3v2|8714|wlab.238544.1
+jgi|MicpuN3v2|8715|wlab.2261.1	K02717
+jgi|MicpuN3v2|8716|wlab.238547.1	K18588
+jgi|MicpuN3v2|8717|wlab.238548.1	K24926
+jgi|MicpuN3v2|8718|wlab.238546.1
+jgi|MicpuN3v2|8719|wlab.238549.1	K05605
+jgi|MicpuN3v2|871|wlab.247231.1	K02372
+jgi|MicpuN3v2|8720|wlab.248308.1
+jgi|MicpuN3v2|8721|wlab.238550.1	K16748
+jgi|MicpuN3v2|8722|wlab.238551.1
+jgi|MicpuN3v2|8723|wlab.238552.1
+jgi|MicpuN3v2|8724|wlab.238553.1	K18162
+jgi|MicpuN3v2|8725|wlab.238554.1	K08493
+jgi|MicpuN3v2|8726|wlab.238555.1
+jgi|MicpuN3v2|8727|wlab.248309.1	K11366
+jgi|MicpuN3v2|8728|wlab.238556.1	K00931
+jgi|MicpuN3v2|8729|wlab.238557.1
+jgi|MicpuN3v2|872|wlab.22669.1	K00222
+jgi|MicpuN3v2|8730|wlab.238558.1
+jgi|MicpuN3v2|8731|wlab.238559.1
+jgi|MicpuN3v2|8732|wlab.7234.1
+jgi|MicpuN3v2|8733|wlab.238561.1	K15075
+jgi|MicpuN3v2|8734|wlab.238562.1
+jgi|MicpuN3v2|8735|wlab.238564.1
+jgi|MicpuN3v2|8736|wlab.246183.1
+jgi|MicpuN3v2|8737|wlab.25615.1	K12193
+jgi|MicpuN3v2|8738|wlab.238563.1
+jgi|MicpuN3v2|8739|wlab.238565.1
+jgi|MicpuN3v2|873|wlab.22668.1	K03165
+jgi|MicpuN3v2|8740|wlab.238566.1
+jgi|MicpuN3v2|8741|wlab.246184.1
+jgi|MicpuN3v2|8742|wlab.7242.1
+jgi|MicpuN3v2|8743|wlab.238568.1
+jgi|MicpuN3v2|8744|wlab.246847.1
+jgi|MicpuN3v2|8745|wlab.238569.1
+jgi|MicpuN3v2|8746|wlab.238570.1	K01785
+jgi|MicpuN3v2|8747|wlab.238571.1	K08517
+jgi|MicpuN3v2|8748|wlab.238572.1	K22940
+jgi|MicpuN3v2|8749|wlab.248310.1
+jgi|MicpuN3v2|874|wlab.233254.1	K18469
+jgi|MicpuN3v2|8750|wlab.238574.1
+jgi|MicpuN3v2|8751|wlab.238575.1
+jgi|MicpuN3v2|8752|wlab.238577.1	K00799
+jgi|MicpuN3v2|8753|wlab.238578.1
+jgi|MicpuN3v2|8754|wlab.238576.1
+jgi|MicpuN3v2|8755|wlab.238579.1	K08744
+jgi|MicpuN3v2|8756|wlab.238580.1
+jgi|MicpuN3v2|8757|wlab.238581.1	K01080
+jgi|MicpuN3v2|8758|wlab.238582.1
+jgi|MicpuN3v2|8759|wlab.238583.1
+jgi|MicpuN3v2|875|wlab.8127.1
+jgi|MicpuN3v2|8760|wlab.238584.1	K13026
+jgi|MicpuN3v2|8761|wlab.238585.1
+jgi|MicpuN3v2|8762|wlab.238586.1	K13172
+jgi|MicpuN3v2|8763|wlab.100.1	K23333
+jgi|MicpuN3v2|8764|wlab.238587.1
+jgi|MicpuN3v2|8765|wlab.8855.1
+jgi|MicpuN3v2|8766|wlab.238588.1
+jgi|MicpuN3v2|8767|wlab.238589.1
+jgi|MicpuN3v2|8768|wlab.248709.1
+jgi|MicpuN3v2|8769|wlab.238590.1
+jgi|MicpuN3v2|876|wlab.233251.1	K00276
+jgi|MicpuN3v2|8770|wlab.231884.1
+jgi|MicpuN3v2|8771|wlab.231885.1	K08956
+jgi|MicpuN3v2|8772|wlab.25625.1
+jgi|MicpuN3v2|8773|wlab.238592.1
+jgi|MicpuN3v2|8774|wlab.238593.1
+jgi|MicpuN3v2|8775|wlab.238828.1
+jgi|MicpuN3v2|8776|wlab.248311.1
+jgi|MicpuN3v2|8777|wlab.238594.1
+jgi|MicpuN3v2|8778|wlab.238595.1
+jgi|MicpuN3v2|8779|wlab.248312.1	K01006
+jgi|MicpuN3v2|877|wlab.233252.1	K15264
+jgi|MicpuN3v2|8780|wlab.238596.1
+jgi|MicpuN3v2|8781|wlab.238598.1
+jgi|MicpuN3v2|8782|wlab.25630.1
+jgi|MicpuN3v2|8783|wlab.7260.1
+jgi|MicpuN3v2|8784|wlab.238599.1	K23729
+jgi|MicpuN3v2|8785|wlab.238600.1
+jgi|MicpuN3v2|8786|wlab.238602.1
+jgi|MicpuN3v2|8787|wlab.246186.1	K12871
+jgi|MicpuN3v2|8788|wlab.248313.1	K18201
+jgi|MicpuN3v2|8789|wlab.248314.1
+jgi|MicpuN3v2|878|wlab.233253.1
+jgi|MicpuN3v2|8790|wlab.7267.1
+jgi|MicpuN3v2|8791|wlab.7268.1
+jgi|MicpuN3v2|8792|wlab.238603.1
+jgi|MicpuN3v2|8793|wlab.238605.1
+jgi|MicpuN3v2|8794|wlab.238604.1	K00145
+jgi|MicpuN3v2|8795|wlab.248315.1
+jgi|MicpuN3v2|8796|wlab.238607.1
+jgi|MicpuN3v2|8797|wlab.248316.1	K24928
+jgi|MicpuN3v2|8798|wlab.238608.1	K12177
+jgi|MicpuN3v2|8799|wlab.7273.1	K01652
+jgi|MicpuN3v2|879|wlab.233250.1
+jgi|MicpuN3v2|87|wlab.232471.1
+jgi|MicpuN3v2|8800|wlab.7274.1
+jgi|MicpuN3v2|8801|wlab.248317.1
+jgi|MicpuN3v2|8802|wlab.21447.1
+jgi|MicpuN3v2|8803|wlab.238610.1	K13346
+jgi|MicpuN3v2|8804|wlab.238611.1	K14320
+jgi|MicpuN3v2|8805|wlab.238612.1
+jgi|MicpuN3v2|8806|wlab.238613.1	K14849
+jgi|MicpuN3v2|8807|wlab.238614.1	K14556
+jgi|MicpuN3v2|8808|wlab.238615.1
+jgi|MicpuN3v2|8809|wlab.238616.1
+jgi|MicpuN3v2|880|wlab.233249.1	K16298
+jgi|MicpuN3v2|8810|wlab.7279.1
+jgi|MicpuN3v2|8811|wlab.248318.1
+jgi|MicpuN3v2|8812|wlab.238617.1
+jgi|MicpuN3v2|8813|wlab.238618.1	K11803
+jgi|MicpuN3v2|8814|wlab.248319.1
+jgi|MicpuN3v2|8815|wlab.238620.1	K14809
+jgi|MicpuN3v2|8816|wlab.25642.1	K01456
+jgi|MicpuN3v2|8817|wlab.238619.1
+jgi|MicpuN3v2|8818|wlab.8860.1
+jgi|MicpuN3v2|8819|wlab.238621.1	K15335
+jgi|MicpuN3v2|881|wlab.233304.1
+jgi|MicpuN3v2|8820|wlab.238622.1
+jgi|MicpuN3v2|8821|wlab.238623.1	K18752
+jgi|MicpuN3v2|8822|wlab.248320.1
+jgi|MicpuN3v2|8823|wlab.248321.1	K24739
+jgi|MicpuN3v2|8824|wlab.25646.1
+jgi|MicpuN3v2|8825|wlab.248323.1
+jgi|MicpuN3v2|8826|wlab.238624.1
+jgi|MicpuN3v2|8827|wlab.238625.1
+jgi|MicpuN3v2|8828|wlab.238626.1
+jgi|MicpuN3v2|8829|wlab.25649.1
+jgi|MicpuN3v2|882|wlab.247232.1	K03686
+jgi|MicpuN3v2|8830|wlab.248324.1
+jgi|MicpuN3v2|8831|wlab.248325.1	K10732
+jgi|MicpuN3v2|8832|wlab.1999.1
+jgi|MicpuN3v2|8833|wlab.238628.1	K25614
+jgi|MicpuN3v2|8834|wlab.246191.1
+jgi|MicpuN3v2|8835|wlab.238631.1
+jgi|MicpuN3v2|8836|wlab.238632.1
+jgi|MicpuN3v2|8837|wlab.238633.1
+jgi|MicpuN3v2|8838|wlab.238634.1	K16618
+jgi|MicpuN3v2|8839|wlab.246192.1	K00670
+jgi|MicpuN3v2|883|wlab.233248.1
+jgi|MicpuN3v2|8840|wlab.2002.1	K02964
+jgi|MicpuN3v2|8841|wlab.248326.1
+jgi|MicpuN3v2|8842|wlab.238637.1	K00891
+jgi|MicpuN3v2|8843|wlab.238638.1
+jgi|MicpuN3v2|8844|wlab.238639.1
+jgi|MicpuN3v2|8845|wlab.7292.1
+jgi|MicpuN3v2|8846|wlab.248327.1
+jgi|MicpuN3v2|8847|wlab.7293.1
+jgi|MicpuN3v2|8848|wlab.238640.1	K01823
+jgi|MicpuN3v2|8849|wlab.238641.1
+jgi|MicpuN3v2|884|wlab.247233.1
+jgi|MicpuN3v2|8850|wlab.18676.1
+jgi|MicpuN3v2|8851|wlab.238643.1	K08515
+jgi|MicpuN3v2|8852|wlab.238644.1	K07575
+jgi|MicpuN3v2|8853|wlab.238645.1	K18598
+jgi|MicpuN3v2|8854|wlab.238646.1
+jgi|MicpuN3v2|8855|wlab.238647.1	K01363
+jgi|MicpuN3v2|8856|wlab.238648.1
+jgi|MicpuN3v2|8857|wlab.7297.1
+jgi|MicpuN3v2|8858|wlab.7298.1
+jgi|MicpuN3v2|8859|wlab.238651.1
+jgi|MicpuN3v2|885|wlab.233247.1
+jgi|MicpuN3v2|8860|wlab.248328.1
+jgi|MicpuN3v2|8861|wlab.246194.1	K12812
+jgi|MicpuN3v2|8862|wlab.231892.1
+jgi|MicpuN3v2|8863|wlab.2005.1
+jgi|MicpuN3v2|8864|wlab.238654.1	K11375
+jgi|MicpuN3v2|8865|wlab.238655.1
+jgi|MicpuN3v2|8866|wlab.238656.1
+jgi|MicpuN3v2|8867|wlab.7304.1
+jgi|MicpuN3v2|8868|wlab.25663.1	K10587
+jgi|MicpuN3v2|8869|wlab.7305.1	K15178
+jgi|MicpuN3v2|886|wlab.233246.1
+jgi|MicpuN3v2|8870|wlab.8872.1
+jgi|MicpuN3v2|8871|wlab.2469.1	K06963
+jgi|MicpuN3v2|8872|wlab.238658.1	K22843
+jgi|MicpuN3v2|8873|wlab.238659.1	K02303
+jgi|MicpuN3v2|8874|wlab.248329.1
+jgi|MicpuN3v2|8875|wlab.238661.1	K12622
+jgi|MicpuN3v2|8876|wlab.238662.1	K05907
+jgi|MicpuN3v2|8877|wlab.238663.1
+jgi|MicpuN3v2|8878|wlab.238833.1
+jgi|MicpuN3v2|8879|wlab.7307.1
+jgi|MicpuN3v2|887|wlab.233245.1
+jgi|MicpuN3v2|8880|wlab.238664.1	K02291
+jgi|MicpuN3v2|8881|wlab.25671.1
+jgi|MicpuN3v2|8882|wlab.248330.1
+jgi|MicpuN3v2|8883|wlab.238665.1	K03139
+jgi|MicpuN3v2|8884|wlab.238667.1
+jgi|MicpuN3v2|8885|wlab.248331.1
+jgi|MicpuN3v2|8886|wlab.7311.1
+jgi|MicpuN3v2|8887|wlab.246195.1	K00284
+jgi|MicpuN3v2|8888|wlab.238669.1	K00850
+jgi|MicpuN3v2|8889|wlab.238670.1	K13293
+jgi|MicpuN3v2|888|wlab.233244.1
+jgi|MicpuN3v2|8890|wlab.246197.1
+jgi|MicpuN3v2|8891|wlab.238672.1	K01087
+jgi|MicpuN3v2|8892|wlab.246200.1	K08064
+jgi|MicpuN3v2|8893|wlab.238674.1
+jgi|MicpuN3v2|8894|wlab.238675.1	K05294
+jgi|MicpuN3v2|8895|wlab.238676.1	K02909
+jgi|MicpuN3v2|8896|wlab.246201.1	K04567
+jgi|MicpuN3v2|8897|wlab.238677.1	K16296
+jgi|MicpuN3v2|8898|wlab.7316.1
+jgi|MicpuN3v2|8899|wlab.238678.1	K05655
+jgi|MicpuN3v2|889|wlab.22660.1
+jgi|MicpuN3v2|88|wlab.232470.1
+jgi|MicpuN3v2|8900|wlab.238679.1	K02537
+jgi|MicpuN3v2|8901|wlab.246202.1
+jgi|MicpuN3v2|8902|wlab.238682.1
+jgi|MicpuN3v2|8903|wlab.246203.1	K17785
+jgi|MicpuN3v2|8904|wlab.25679.1
+jgi|MicpuN3v2|8905|wlab.238683.1
+jgi|MicpuN3v2|8906|wlab.238684.1	K10257
+jgi|MicpuN3v2|8907|wlab.7319.1
+jgi|MicpuN3v2|8908|wlab.238685.1
+jgi|MicpuN3v2|8909|wlab.238686.1
+jgi|MicpuN3v2|890|wlab.22659.1	K08333
+jgi|MicpuN3v2|8910|wlab.7320.1	K21806
+jgi|MicpuN3v2|8911|wlab.238687.1
+jgi|MicpuN3v2|8912|wlab.231895.1
+jgi|MicpuN3v2|8913|wlab.238688.1
+jgi|MicpuN3v2|8914|wlab.238689.1
+jgi|MicpuN3v2|8915|wlab.238690.1
+jgi|MicpuN3v2|8916|wlab.246204.1	K04078
+jgi|MicpuN3v2|8917|wlab.246205.1	K08916
+jgi|MicpuN3v2|8918|wlab.238692.1
+jgi|MicpuN3v2|8919|wlab.238693.1
+jgi|MicpuN3v2|891|wlab.247234.1
+jgi|MicpuN3v2|8920|wlab.7323.1	K04097
+jgi|MicpuN3v2|8921|wlab.7324.1	K09272
+jgi|MicpuN3v2|8922|wlab.248424.1	K22366
+jgi|MicpuN3v2|8923|wlab.238697.1
+jgi|MicpuN3v2|8924|wlab.238698.1
+jgi|MicpuN3v2|8925|wlab.238699.1
+jgi|MicpuN3v2|8926|wlab.238700.1	K00798
+jgi|MicpuN3v2|8927|wlab.238701.1
+jgi|MicpuN3v2|8928|wlab.246213.1	K02867
+jgi|MicpuN3v2|8929|wlab.238702.1
+jgi|MicpuN3v2|892|wlab.233243.1
+jgi|MicpuN3v2|8930|wlab.246208.1	K02212
+jgi|MicpuN3v2|8931|wlab.246214.1	K03696
+jgi|MicpuN3v2|8932|wlab.238704.1	K14440
+jgi|MicpuN3v2|8933|wlab.238705.1
+jgi|MicpuN3v2|8934|wlab.238703.1	K24730
+jgi|MicpuN3v2|8935|wlab.238707.1	K11271
+jgi|MicpuN3v2|8936|wlab.7330.1
+jgi|MicpuN3v2|8937|wlab.2014.1	K11086
+jgi|MicpuN3v2|8938|wlab.238709.1
+jgi|MicpuN3v2|8939|wlab.238710.1
+jgi|MicpuN3v2|893|wlab.233242.1	K03238
+jgi|MicpuN3v2|8940|wlab.101.1
+jgi|MicpuN3v2|8941|wlab.238712.1	K03039
+jgi|MicpuN3v2|8942|wlab.238713.1	K12819
+jgi|MicpuN3v2|8943|wlab.248332.1	K01510
+jgi|MicpuN3v2|8944|wlab.238714.1
+jgi|MicpuN3v2|8945|wlab.238715.1
+jgi|MicpuN3v2|8946|wlab.238716.1
+jgi|MicpuN3v2|8947|wlab.7334.1
+jgi|MicpuN3v2|8948|wlab.238717.1
+jgi|MicpuN3v2|8949|wlab.7336.1
+jgi|MicpuN3v2|894|wlab.233241.1
+jgi|MicpuN3v2|8950|wlab.7337.1	K23012
+jgi|MicpuN3v2|8951|wlab.238718.1
+jgi|MicpuN3v2|8952|wlab.238719.1	K12883
+jgi|MicpuN3v2|8953|wlab.248333.1
+jgi|MicpuN3v2|8954|wlab.248334.1
+jgi|MicpuN3v2|8955|wlab.238722.1	K03978
+jgi|MicpuN3v2|8956|wlab.238723.1
+jgi|MicpuN3v2|8957|wlab.238724.1	K03327
+jgi|MicpuN3v2|8958|wlab.238725.1
+jgi|MicpuN3v2|8959|wlab.7341.1
+jgi|MicpuN3v2|895|wlab.233240.1
+jgi|MicpuN3v2|8960|wlab.238726.1	K03841
+jgi|MicpuN3v2|8961|wlab.248336.1
+jgi|MicpuN3v2|8962|wlab.238727.1
+jgi|MicpuN3v2|8963|wlab.238728.1
+jgi|MicpuN3v2|8964|wlab.238729.1	K03841
+jgi|MicpuN3v2|8965|wlab.238730.1
+jgi|MicpuN3v2|8966|wlab.25705.1
+jgi|MicpuN3v2|8967|wlab.238731.1
+jgi|MicpuN3v2|8968|wlab.238732.1	K03847
+jgi|MicpuN3v2|8969|wlab.25706.1
+jgi|MicpuN3v2|896|wlab.247235.1	K03258
+jgi|MicpuN3v2|8970|wlab.248337.1
+jgi|MicpuN3v2|8971|wlab.29396.1
+jgi|MicpuN3v2|8972|wlab.238734.1	K00592
+jgi|MicpuN3v2|8973|wlab.238735.1
+jgi|MicpuN3v2|8974|wlab.238736.1	K16489
+jgi|MicpuN3v2|8975|wlab.238737.1	K22450
+jgi|MicpuN3v2|8976|wlab.238738.1	K14050
+jgi|MicpuN3v2|8977|wlab.2677.1	K02716
+jgi|MicpuN3v2|8978|wlab.238739.1	K14561
+jgi|MicpuN3v2|8979|wlab.238740.1
+jgi|MicpuN3v2|897|wlab.233238.1	K15731
+jgi|MicpuN3v2|8980|wlab.7350.1
+jgi|MicpuN3v2|8981|wlab.8884.1
+jgi|MicpuN3v2|8982|wlab.25709.1	K10408
+jgi|MicpuN3v2|8983|wlab.7351.1
+jgi|MicpuN3v2|8984|wlab.238742.1
+jgi|MicpuN3v2|8985|wlab.238743.1	K11338
+jgi|MicpuN3v2|8986|wlab.248338.1
+jgi|MicpuN3v2|8987|wlab.246231.1	K02941
+jgi|MicpuN3v2|8988|wlab.238745.1
+jgi|MicpuN3v2|8989|wlab.238746.1
+jgi|MicpuN3v2|898|wlab.22654.1
+jgi|MicpuN3v2|8990|wlab.2016.1
+jgi|MicpuN3v2|8991|wlab.238748.1
+jgi|MicpuN3v2|8992|wlab.2017.1
+jgi|MicpuN3v2|8993|wlab.238750.1	K06268
+jgi|MicpuN3v2|8994|wlab.238751.1
+jgi|MicpuN3v2|8995|wlab.238752.1	K14539
+jgi|MicpuN3v2|8996|wlab.238753.1	K11097
+jgi|MicpuN3v2|8997|wlab.238754.1	K16801
+jgi|MicpuN3v2|8998|wlab.238755.1
+jgi|MicpuN3v2|8999|wlab.16722.1
+jgi|MicpuN3v2|899|wlab.3989.1
+jgi|MicpuN3v2|89|wlab.232555.1
+jgi|MicpuN3v2|8|wlab.232538.1
+jgi|MicpuN3v2|9000|wlab.3239.1
+jgi|MicpuN3v2|9001|wlab.238758.1
+jgi|MicpuN3v2|9002|wlab.238759.1	K20299
+jgi|MicpuN3v2|9003|wlab.25721.1	K15362
+jgi|MicpuN3v2|9004|wlab.238761.1
+jgi|MicpuN3v2|9005|wlab.2020.1
+jgi|MicpuN3v2|9006|wlab.238763.1
+jgi|MicpuN3v2|9007|wlab.238764.1
+jgi|MicpuN3v2|9008|wlab.238765.1	K01892
+jgi|MicpuN3v2|9009|wlab.248339.1	K01519
+jgi|MicpuN3v2|900|wlab.248571.1
+jgi|MicpuN3v2|9010|wlab.248340.1
+jgi|MicpuN3v2|9011|wlab.2022.1	K17081
+jgi|MicpuN3v2|9012|wlab.238768.1	K25607
+jgi|MicpuN3v2|9013|wlab.238769.1	K06995
+jgi|MicpuN3v2|9014|wlab.238767.1	K07376
+jgi|MicpuN3v2|9015|wlab.248341.1
+jgi|MicpuN3v2|9016|wlab.248342.1	K01923
+jgi|MicpuN3v2|9017|wlab.238771.1
+jgi|MicpuN3v2|9018|wlab.238772.1
+jgi|MicpuN3v2|9019|wlab.238773.1	K22939
+jgi|MicpuN3v2|901|wlab.233237.1
+jgi|MicpuN3v2|9020|wlab.246233.1	K01711
+jgi|MicpuN3v2|9021|wlab.238775.1
+jgi|MicpuN3v2|9022|wlab.246234.1
+jgi|MicpuN3v2|9023|wlab.248343.1
+jgi|MicpuN3v2|9024|wlab.238829.1	K07951
+jgi|MicpuN3v2|9025|wlab.248634.1
+jgi|MicpuN3v2|9026|wlab.238776.1
+jgi|MicpuN3v2|9027|wlab.2680.1	K04554
+jgi|MicpuN3v2|9028|wlab.238777.1
+jgi|MicpuN3v2|9029|wlab.238778.1
+jgi|MicpuN3v2|902|wlab.247236.1
+jgi|MicpuN3v2|9030|wlab.238779.1	K14560
+jgi|MicpuN3v2|9031|wlab.238780.1	K09527
+jgi|MicpuN3v2|9032|wlab.238781.1
+jgi|MicpuN3v2|9033|wlab.248346.1	K10408
+jgi|MicpuN3v2|9034|wlab.25735.1
+jgi|MicpuN3v2|9035|wlab.238783.1
+jgi|MicpuN3v2|9036|wlab.238784.1	K06689
+jgi|MicpuN3v2|9037|wlab.238785.1
+jgi|MicpuN3v2|9038|wlab.238786.1	K12839
+jgi|MicpuN3v2|9039|wlab.238787.1	K03595
+jgi|MicpuN3v2|903|wlab.233236.1
+jgi|MicpuN3v2|9040|wlab.238788.1
+jgi|MicpuN3v2|9041|wlab.231910.1
+jgi|MicpuN3v2|9042|wlab.248347.1
+jgi|MicpuN3v2|9043|wlab.248348.1	K22763
+jgi|MicpuN3v2|9044|wlab.248349.1
+jgi|MicpuN3v2|9045|wlab.248350.1
+jgi|MicpuN3v2|9046|wlab.238791.1
+jgi|MicpuN3v2|9047|wlab.238792.1
+jgi|MicpuN3v2|9048|wlab.238793.1	K12881
+jgi|MicpuN3v2|9049|wlab.238794.1
+jgi|MicpuN3v2|904|wlab.3987.1
+jgi|MicpuN3v2|9050|wlab.238795.1
+jgi|MicpuN3v2|9051|wlab.7379.1
+jgi|MicpuN3v2|9052|wlab.231913.1	K11268
+jgi|MicpuN3v2|9053|wlab.238797.1
+jgi|MicpuN3v2|9054|wlab.238798.1
+jgi|MicpuN3v2|9055|wlab.238799.1	K06173
+jgi|MicpuN3v2|9056|wlab.238800.1	K02913
+jgi|MicpuN3v2|9057|wlab.238801.1	K12189
+jgi|MicpuN3v2|9058|wlab.238803.1
+jgi|MicpuN3v2|9059|wlab.238804.1
+jgi|MicpuN3v2|905|wlab.233235.1	K03841
+jgi|MicpuN3v2|9060|wlab.238805.1
+jgi|MicpuN3v2|9061|wlab.8890.1
+jgi|MicpuN3v2|9062|wlab.238806.1
+jgi|MicpuN3v2|9063|wlab.238807.1	K10685
+jgi|MicpuN3v2|9064|wlab.7385.1
+jgi|MicpuN3v2|9065|wlab.25749.1	K06942
+jgi|MicpuN3v2|9066|wlab.238808.1
+jgi|MicpuN3v2|9067|wlab.7387.1
+jgi|MicpuN3v2|9068|wlab.238809.1
+jgi|MicpuN3v2|9069|wlab.238810.1	K07178
+jgi|MicpuN3v2|906|wlab.233234.1	K14965
+jgi|MicpuN3v2|9070|wlab.238817.1
+jgi|MicpuN3v2|9071|wlab.238812.1	K12813
+jgi|MicpuN3v2|9072|wlab.238814.1	K17981
+jgi|MicpuN3v2|9073|wlab.238815.1
+jgi|MicpuN3v2|9074|wlab.238813.1
+jgi|MicpuN3v2|9075|wlab.248351.1
+jgi|MicpuN3v2|9076|wlab.238818.1	K15436
+jgi|MicpuN3v2|9077|wlab.238816.1
+jgi|MicpuN3v2|9078|wlab.238811.1	K12662
+jgi|MicpuN3v2|9079|wlab.238820.1
+jgi|MicpuN3v2|907|wlab.233233.1	K10844
+jgi|MicpuN3v2|9080|wlab.8892.1
+jgi|MicpuN3v2|9081|wlab.25758.1	K10576
+jgi|MicpuN3v2|9082|wlab.238821.1
+jgi|MicpuN3v2|9083|wlab.248352.1
+jgi|MicpuN3v2|9084|wlab.7393.1
+jgi|MicpuN3v2|9085|wlab.248353.1	K22761
+jgi|MicpuN3v2|9086|wlab.238823.1
+jgi|MicpuN3v2|9087|wlab.2476.1	K00234
+jgi|MicpuN3v2|9088|wlab.238824.1	K14832
+jgi|MicpuN3v2|9089|wlab.238825.1	K13179
+jgi|MicpuN3v2|908|wlab.233232.1
+jgi|MicpuN3v2|9090|wlab.238826.1
+jgi|MicpuN3v2|9091|wlab.248354.1	K10742
+jgi|MicpuN3v2|9092|wlab.25765.1
+jgi|MicpuN3v2|9093|wlab.238836.1	K00962
+jgi|MicpuN3v2|9094|wlab.238837.1
+jgi|MicpuN3v2|9095|wlab.29444.1	K07542
+jgi|MicpuN3v2|9096|wlab.238838.1	K15148
+jgi|MicpuN3v2|9097|wlab.238839.1
+jgi|MicpuN3v2|9098|wlab.7398.1
+jgi|MicpuN3v2|9099|wlab.2681.1	K07374
+jgi|MicpuN3v2|909|wlab.2583.1	K02891
+jgi|MicpuN3v2|90|wlab.246964.1
+jgi|MicpuN3v2|9100|wlab.239159.1
+jgi|MicpuN3v2|9101|wlab.248355.1
+jgi|MicpuN3v2|9102|wlab.238840.1
+jgi|MicpuN3v2|9103|wlab.238841.1	K23948
+jgi|MicpuN3v2|9104|wlab.238842.1
+jgi|MicpuN3v2|9105|wlab.238843.1	K09554
+jgi|MicpuN3v2|9106|wlab.238844.1
+jgi|MicpuN3v2|9107|wlab.248356.1	K02968
+jgi|MicpuN3v2|9108|wlab.238845.1	K05309
+jgi|MicpuN3v2|9109|wlab.238846.1
+jgi|MicpuN3v2|910|wlab.1278.1
+jgi|MicpuN3v2|9110|wlab.25771.1	K01176
+jgi|MicpuN3v2|9111|wlab.238847.1
+jgi|MicpuN3v2|9112|wlab.248358.1
+jgi|MicpuN3v2|9113|wlab.231917.1
+jgi|MicpuN3v2|9114|wlab.238849.1	K22686
+jgi|MicpuN3v2|9115|wlab.7407.1
+jgi|MicpuN3v2|9116|wlab.238851.1
+jgi|MicpuN3v2|9117|wlab.238852.1	K03950
+jgi|MicpuN3v2|9118|wlab.238853.1	K20362
+jgi|MicpuN3v2|9119|wlab.238854.1	K14834
+jgi|MicpuN3v2|911|wlab.233230.1	K09667
+jgi|MicpuN3v2|9120|wlab.238855.1	K18849
+jgi|MicpuN3v2|9121|wlab.248359.1
+jgi|MicpuN3v2|9122|wlab.238856.1
+jgi|MicpuN3v2|9123|wlab.238857.1	K14816
+jgi|MicpuN3v2|9124|wlab.248360.1
+jgi|MicpuN3v2|9125|wlab.248361.1
+jgi|MicpuN3v2|9126|wlab.7411.1
+jgi|MicpuN3v2|9127|wlab.238858.1
+jgi|MicpuN3v2|9128|wlab.239153.1	K12878
+jgi|MicpuN3v2|9129|wlab.238859.1
+jgi|MicpuN3v2|912|wlab.233292.1
+jgi|MicpuN3v2|9130|wlab.238860.1
+jgi|MicpuN3v2|9131|wlab.238861.1
+jgi|MicpuN3v2|9132|wlab.25778.1	K17743
+jgi|MicpuN3v2|9133|wlab.238862.1
+jgi|MicpuN3v2|9134|wlab.238863.1
+jgi|MicpuN3v2|9135|wlab.238864.1
+jgi|MicpuN3v2|9136|wlab.238865.1
+jgi|MicpuN3v2|9137|wlab.238866.1
+jgi|MicpuN3v2|9138|wlab.25781.1	K12446
+jgi|MicpuN3v2|9139|wlab.2028.1
+jgi|MicpuN3v2|913|wlab.233229.1	K10088
+jgi|MicpuN3v2|9140|wlab.248619.1	K13348
+jgi|MicpuN3v2|9141|wlab.7417.1
+jgi|MicpuN3v2|9142|wlab.25783.1
+jgi|MicpuN3v2|9143|wlab.7418.1
+jgi|MicpuN3v2|9144|wlab.238868.1	K23544
+jgi|MicpuN3v2|9145|wlab.238869.1
+jgi|MicpuN3v2|9146|wlab.7419.1
+jgi|MicpuN3v2|9147|wlab.248363.1
+jgi|MicpuN3v2|9148|wlab.238872.1
+jgi|MicpuN3v2|9149|wlab.238873.1
+jgi|MicpuN3v2|914|wlab.233228.1	K01755
+jgi|MicpuN3v2|9150|wlab.248364.1
+jgi|MicpuN3v2|9151|wlab.248420.1
+jgi|MicpuN3v2|9152|wlab.248366.1
+jgi|MicpuN3v2|9153|wlab.238877.1
+jgi|MicpuN3v2|9154|wlab.248367.1
+jgi|MicpuN3v2|9155|wlab.2031.1	K09562
+jgi|MicpuN3v2|9156|wlab.238879.1
+jgi|MicpuN3v2|9157|wlab.238880.1
+jgi|MicpuN3v2|9158|wlab.248368.1
+jgi|MicpuN3v2|9159|wlab.238881.1	K20296
+jgi|MicpuN3v2|915|wlab.233227.1	K01595
+jgi|MicpuN3v2|9160|wlab.2032.1
+jgi|MicpuN3v2|9161|wlab.231922.1	K01057
+jgi|MicpuN3v2|9162|wlab.14495.1	K18586
+jgi|MicpuN3v2|9163|wlab.231923.1	K08330
+jgi|MicpuN3v2|9164|wlab.238884.1	K01854
+jgi|MicpuN3v2|9165|wlab.7427.1
+jgi|MicpuN3v2|9166|wlab.8901.1
+jgi|MicpuN3v2|9167|wlab.238885.1
+jgi|MicpuN3v2|9168|wlab.239154.1
+jgi|MicpuN3v2|9169|wlab.7430.1
+jgi|MicpuN3v2|916|wlab.22645.1
+jgi|MicpuN3v2|9170|wlab.248369.1
+jgi|MicpuN3v2|9171|wlab.239155.1
+jgi|MicpuN3v2|9172|wlab.238887.1	K02469
+jgi|MicpuN3v2|9173|wlab.238888.1
+jgi|MicpuN3v2|9174|wlab.238889.1
+jgi|MicpuN3v2|9175|wlab.238890.1
+jgi|MicpuN3v2|9176|wlab.238891.1	K17822
+jgi|MicpuN3v2|9177|wlab.248370.1	K19365
+jgi|MicpuN3v2|9178|wlab.248371.1
+jgi|MicpuN3v2|9179|wlab.7434.1
+jgi|MicpuN3v2|917|wlab.233222.1	K15272
+jgi|MicpuN3v2|9180|wlab.238894.1
+jgi|MicpuN3v2|9181|wlab.238895.1
+jgi|MicpuN3v2|9182|wlab.238896.1	K24175
+jgi|MicpuN3v2|9183|wlab.238897.1	K13101
+jgi|MicpuN3v2|9184|wlab.238898.1
+jgi|MicpuN3v2|9185|wlab.238899.1
+jgi|MicpuN3v2|9186|wlab.248372.1	K08829
+jgi|MicpuN3v2|9187|wlab.238902.1	K05543
+jgi|MicpuN3v2|9188|wlab.238903.1
+jgi|MicpuN3v2|9189|wlab.238904.1	K00914
+jgi|MicpuN3v2|918|wlab.247237.1
+jgi|MicpuN3v2|9190|wlab.248373.1
+jgi|MicpuN3v2|9191|wlab.238906.1
+jgi|MicpuN3v2|9192|wlab.238907.1
+jgi|MicpuN3v2|9193|wlab.248374.1	K14847
+jgi|MicpuN3v2|9194|wlab.248375.1	K03444
+jgi|MicpuN3v2|9195|wlab.248421.1
+jgi|MicpuN3v2|9196|wlab.238910.1
+jgi|MicpuN3v2|9197|wlab.238911.1	K15901
+jgi|MicpuN3v2|9198|wlab.2038.1
+jgi|MicpuN3v2|9199|wlab.239156.1
+jgi|MicpuN3v2|919|wlab.233223.1	K09140
+jgi|MicpuN3v2|91|wlab.232469.1
+jgi|MicpuN3v2|9200|wlab.238913.1	K00207
+jgi|MicpuN3v2|9201|wlab.238914.1
+jgi|MicpuN3v2|9202|wlab.238915.1
+jgi|MicpuN3v2|9203|wlab.238916.1
+jgi|MicpuN3v2|9204|wlab.238917.1
+jgi|MicpuN3v2|9205|wlab.7441.1
+jgi|MicpuN3v2|9206|wlab.238918.1	K06927
+jgi|MicpuN3v2|9207|wlab.238919.1	K14548
+jgi|MicpuN3v2|9208|wlab.246252.1	K17080
+jgi|MicpuN3v2|9209|wlab.238922.1	K02331
+jgi|MicpuN3v2|920|wlab.3981.1
+jgi|MicpuN3v2|9210|wlab.248376.1	K04043
+jgi|MicpuN3v2|9211|wlab.238921.1
+jgi|MicpuN3v2|9212|wlab.238924.1	K00434
+jgi|MicpuN3v2|9213|wlab.238925.1
+jgi|MicpuN3v2|9214|wlab.238926.1	K10577
+jgi|MicpuN3v2|9215|wlab.238927.1
+jgi|MicpuN3v2|9216|wlab.248422.1	K05361
+jgi|MicpuN3v2|9217|wlab.238931.1	K08658
+jgi|MicpuN3v2|9218|wlab.238929.1	K03574
+jgi|MicpuN3v2|9219|wlab.238928.1
+jgi|MicpuN3v2|921|wlab.233221.1	K13025
+jgi|MicpuN3v2|9220|wlab.238932.1
+jgi|MicpuN3v2|9221|wlab.231934.1	K01373
+jgi|MicpuN3v2|9222|wlab.231935.1	K15429
+jgi|MicpuN3v2|9223|wlab.7448.1	K00857
+jgi|MicpuN3v2|9224|wlab.238934.1	K11863
+jgi|MicpuN3v2|9225|wlab.238936.1
+jgi|MicpuN3v2|9226|wlab.238935.1
+jgi|MicpuN3v2|9227|wlab.246256.1
+jgi|MicpuN3v2|9228|wlab.238937.1	K01551
+jgi|MicpuN3v2|9229|wlab.25816.1	K02150
+jgi|MicpuN3v2|922|wlab.247238.1
+jgi|MicpuN3v2|9230|wlab.238939.1	K11344
+jgi|MicpuN3v2|9231|wlab.238940.1
+jgi|MicpuN3v2|9232|wlab.238941.1	K18995
+jgi|MicpuN3v2|9233|wlab.238942.1
+jgi|MicpuN3v2|9234|wlab.239157.1	K11092
+jgi|MicpuN3v2|9235|wlab.25820.1
+jgi|MicpuN3v2|9236|wlab.238944.1
+jgi|MicpuN3v2|9237|wlab.238945.1
+jgi|MicpuN3v2|9238|wlab.238946.1
+jgi|MicpuN3v2|9239|wlab.238947.1	K05289
+jgi|MicpuN3v2|923|wlab.3980.1
+jgi|MicpuN3v2|9240|wlab.238948.1
+jgi|MicpuN3v2|9241|wlab.238949.1	K08851
+jgi|MicpuN3v2|9242|wlab.248377.1
+jgi|MicpuN3v2|9243|wlab.248378.1
+jgi|MicpuN3v2|9244|wlab.2046.1
+jgi|MicpuN3v2|9245|wlab.238950.1
+jgi|MicpuN3v2|9246|wlab.238951.1	K08832
+jgi|MicpuN3v2|9247|wlab.238952.1
+jgi|MicpuN3v2|9248|wlab.238953.1	K00726
+jgi|MicpuN3v2|9249|wlab.238954.1
+jgi|MicpuN3v2|924|wlab.1277.1
+jgi|MicpuN3v2|9250|wlab.238955.1	K01930
+jgi|MicpuN3v2|9251|wlab.238956.1
+jgi|MicpuN3v2|9252|wlab.248379.1
+jgi|MicpuN3v2|9253|wlab.238957.1
+jgi|MicpuN3v2|9254|wlab.238958.1
+jgi|MicpuN3v2|9255|wlab.238959.1	K17261
+jgi|MicpuN3v2|9256|wlab.238960.1	K00931
+jgi|MicpuN3v2|9257|wlab.7461.1
+jgi|MicpuN3v2|9258|wlab.238961.1
+jgi|MicpuN3v2|9259|wlab.248380.1	K25473
+jgi|MicpuN3v2|925|wlab.1276.1
+jgi|MicpuN3v2|9260|wlab.25835.1	K09420
+jgi|MicpuN3v2|9261|wlab.238965.1	K10869
+jgi|MicpuN3v2|9262|wlab.238966.1
+jgi|MicpuN3v2|9263|wlab.248381.1
+jgi|MicpuN3v2|9264|wlab.7464.1
+jgi|MicpuN3v2|9265|wlab.7465.1
+jgi|MicpuN3v2|9266|wlab.246258.1
+jgi|MicpuN3v2|9267|wlab.238968.1
+jgi|MicpuN3v2|9268|wlab.238969.1	K22132
+jgi|MicpuN3v2|9269|wlab.238970.1	K10696
+jgi|MicpuN3v2|926|wlab.233219.1
+jgi|MicpuN3v2|9270|wlab.238971.1	K12524
+jgi|MicpuN3v2|9271|wlab.238972.1
+jgi|MicpuN3v2|9272|wlab.238973.1	K00555
+jgi|MicpuN3v2|9273|wlab.2048.1
+jgi|MicpuN3v2|9274|wlab.248382.1
+jgi|MicpuN3v2|9275|wlab.238975.1
+jgi|MicpuN3v2|9276|wlab.238974.1
+jgi|MicpuN3v2|9277|wlab.25838.1
+jgi|MicpuN3v2|9278|wlab.248383.1
+jgi|MicpuN3v2|9279|wlab.25839.1	K01855
+jgi|MicpuN3v2|927|wlab.3978.1
+jgi|MicpuN3v2|9280|wlab.231946.1
+jgi|MicpuN3v2|9281|wlab.25840.1
+jgi|MicpuN3v2|9282|wlab.7474.1
+jgi|MicpuN3v2|9283|wlab.238978.1
+jgi|MicpuN3v2|9284|wlab.238979.1	K01514
+jgi|MicpuN3v2|9285|wlab.238977.1
+jgi|MicpuN3v2|9286|wlab.248384.1	K21813
+jgi|MicpuN3v2|9287|wlab.231947.1
+jgi|MicpuN3v2|9288|wlab.238982.1
+jgi|MicpuN3v2|9289|wlab.238983.1
+jgi|MicpuN3v2|928|wlab.233218.1
+jgi|MicpuN3v2|9290|wlab.248385.1
+jgi|MicpuN3v2|9291|wlab.103.1
+jgi|MicpuN3v2|9292|wlab.238986.1	K25554
+jgi|MicpuN3v2|9293|wlab.238987.1	K02134
+jgi|MicpuN3v2|9294|wlab.238988.1	K16056
+jgi|MicpuN3v2|9295|wlab.25843.1	K19613
+jgi|MicpuN3v2|9296|wlab.238989.1
+jgi|MicpuN3v2|9297|wlab.248386.1	K10392
+jgi|MicpuN3v2|9298|wlab.25846.1
+jgi|MicpuN3v2|9299|wlab.248387.1
+jgi|MicpuN3v2|929|wlab.8122.1
+jgi|MicpuN3v2|92|wlab.232468.1
+jgi|MicpuN3v2|9300|wlab.248388.1
+jgi|MicpuN3v2|9301|wlab.238992.1
+jgi|MicpuN3v2|9302|wlab.238993.1
+jgi|MicpuN3v2|9303|wlab.238994.1	K07767
+jgi|MicpuN3v2|9304|wlab.238996.1
+jgi|MicpuN3v2|9305|wlab.25848.1
+jgi|MicpuN3v2|9306|wlab.238995.1	K12837
+jgi|MicpuN3v2|9307|wlab.238997.1	K03012
+jgi|MicpuN3v2|9308|wlab.18689.1	K22985
+jgi|MicpuN3v2|9309|wlab.238998.1	K03031
+jgi|MicpuN3v2|930|wlab.233217.1	K08054
+jgi|MicpuN3v2|9310|wlab.248389.1
+jgi|MicpuN3v2|9311|wlab.7494.1
+jgi|MicpuN3v2|9312|wlab.239000.1	K24081
+jgi|MicpuN3v2|9313|wlab.7496.1
+jgi|MicpuN3v2|9314|wlab.248635.1	K10801
+jgi|MicpuN3v2|9315|wlab.239002.1
+jgi|MicpuN3v2|9316|wlab.248423.1	K11187
+jgi|MicpuN3v2|9317|wlab.7499.1
+jgi|MicpuN3v2|9318|wlab.239003.1	K07390
+jgi|MicpuN3v2|9319|wlab.239004.1	K03844
+jgi|MicpuN3v2|931|wlab.233216.1
+jgi|MicpuN3v2|9320|wlab.7502.1	K00733
+jgi|MicpuN3v2|9321|wlab.239005.1
+jgi|MicpuN3v2|9322|wlab.7504.1
+jgi|MicpuN3v2|9323|wlab.239007.1
+jgi|MicpuN3v2|9324|wlab.25852.1
+jgi|MicpuN3v2|9325|wlab.248390.1
+jgi|MicpuN3v2|9326|wlab.248391.1
+jgi|MicpuN3v2|9327|wlab.239158.1
+jgi|MicpuN3v2|9328|wlab.239010.1
+jgi|MicpuN3v2|9329|wlab.25855.1
+jgi|MicpuN3v2|932|wlab.233215.1
+jgi|MicpuN3v2|9330|wlab.239011.1	K15710
+jgi|MicpuN3v2|9331|wlab.239012.1	K09837
+jgi|MicpuN3v2|9332|wlab.8916.1
+jgi|MicpuN3v2|9333|wlab.239013.1
+jgi|MicpuN3v2|9334|wlab.239014.1	K10249
+jgi|MicpuN3v2|9335|wlab.239015.1
+jgi|MicpuN3v2|9336|wlab.248392.1	K01358
+jgi|MicpuN3v2|9337|wlab.239017.1
+jgi|MicpuN3v2|9338|wlab.239018.1	K23456
+jgi|MicpuN3v2|9339|wlab.248393.1
+jgi|MicpuN3v2|933|wlab.3974.1	K00847
+jgi|MicpuN3v2|9340|wlab.248394.1
+jgi|MicpuN3v2|9341|wlab.248395.1	K15631
+jgi|MicpuN3v2|9342|wlab.239021.1
+jgi|MicpuN3v2|9343|wlab.239022.1	K04082
+jgi|MicpuN3v2|9344|wlab.7513.1
+jgi|MicpuN3v2|9345|wlab.239023.1	K01760
+jgi|MicpuN3v2|9346|wlab.248396.1	K01251
+jgi|MicpuN3v2|9347|wlab.239024.1
+jgi|MicpuN3v2|9348|wlab.239025.1	K15437
+jgi|MicpuN3v2|9349|wlab.239026.1	K01918
+jgi|MicpuN3v2|934|wlab.1275.1	K03773
+jgi|MicpuN3v2|9350|wlab.239028.1
+jgi|MicpuN3v2|9351|wlab.239027.1	K14006
+jgi|MicpuN3v2|9352|wlab.2056.1	K22745
+jgi|MicpuN3v2|9353|wlab.248397.1	K01633
+jgi|MicpuN3v2|9354|wlab.1087.1	K16599
+jgi|MicpuN3v2|9355|wlab.239030.1
+jgi|MicpuN3v2|9356|wlab.7518.1
+jgi|MicpuN3v2|9357|wlab.239031.1	K19678
+jgi|MicpuN3v2|9358|wlab.239032.1	K15121
+jgi|MicpuN3v2|9359|wlab.239033.1
+jgi|MicpuN3v2|935|wlab.22636.1	K13412
+jgi|MicpuN3v2|9360|wlab.239034.1	K01148
+jgi|MicpuN3v2|9361|wlab.239035.1
+jgi|MicpuN3v2|9362|wlab.239036.1
+jgi|MicpuN3v2|9363|wlab.239037.1	K02335
+jgi|MicpuN3v2|9364|wlab.239038.1	K14326
+jgi|MicpuN3v2|9365|wlab.248398.1
+jgi|MicpuN3v2|9366|wlab.248399.1
+jgi|MicpuN3v2|9367|wlab.246282.1	K03798
+jgi|MicpuN3v2|9368|wlab.239041.1
+jgi|MicpuN3v2|9369|wlab.239042.1
+jgi|MicpuN3v2|936|wlab.3973.1
+jgi|MicpuN3v2|9370|wlab.239043.1
+jgi|MicpuN3v2|9371|wlab.239044.1
+jgi|MicpuN3v2|9372|wlab.239045.1
+jgi|MicpuN3v2|9373|wlab.239047.1	K17579
+jgi|MicpuN3v2|9374|wlab.239046.1
+jgi|MicpuN3v2|9375|wlab.248400.1	K12598
+jgi|MicpuN3v2|9376|wlab.239049.1	K17499
+jgi|MicpuN3v2|9377|wlab.8920.1
+jgi|MicpuN3v2|9378|wlab.2060.1
+jgi|MicpuN3v2|9379|wlab.248401.1
+jgi|MicpuN3v2|937|wlab.230941.1
+jgi|MicpuN3v2|9380|wlab.239050.1
+jgi|MicpuN3v2|9381|wlab.239051.1	K03283
+jgi|MicpuN3v2|9382|wlab.239052.1	K14012
+jgi|MicpuN3v2|9383|wlab.239053.1	K16578
+jgi|MicpuN3v2|9384|wlab.239054.1
+jgi|MicpuN3v2|9385|wlab.239055.1
+jgi|MicpuN3v2|9386|wlab.239056.1	K11098
+jgi|MicpuN3v2|9387|wlab.231954.1
+jgi|MicpuN3v2|9388|wlab.231955.1
+jgi|MicpuN3v2|9389|wlab.239058.1	K12857
+jgi|MicpuN3v2|938|wlab.3971.1
+jgi|MicpuN3v2|9390|wlab.239059.1	K13717
+jgi|MicpuN3v2|9391|wlab.239060.1	K04487
+jgi|MicpuN3v2|9392|wlab.239061.1
+jgi|MicpuN3v2|9393|wlab.248402.1
+jgi|MicpuN3v2|9394|wlab.8922.1	K06911
+jgi|MicpuN3v2|9395|wlab.231956.1
+jgi|MicpuN3v2|9396|wlab.248403.1	K16914
+jgi|MicpuN3v2|9397|wlab.248404.1	K02883
+jgi|MicpuN3v2|9398|wlab.7536.1	K16569
+jgi|MicpuN3v2|9399|wlab.239065.1
+jgi|MicpuN3v2|939|wlab.230939.1
+jgi|MicpuN3v2|93|wlab.232466.1	K13026
+jgi|MicpuN3v2|9400|wlab.239067.1	K01692
+jgi|MicpuN3v2|9401|wlab.239068.1	K02132
+jgi|MicpuN3v2|9402|wlab.8923.1
+jgi|MicpuN3v2|9403|wlab.239070.1	K11308
+jgi|MicpuN3v2|9404|wlab.239071.1	K25475
+jgi|MicpuN3v2|9405|wlab.239072.1
+jgi|MicpuN3v2|9406|wlab.25888.1
+jgi|MicpuN3v2|9407|wlab.239073.1
+jgi|MicpuN3v2|9408|wlab.248405.1	K14684
+jgi|MicpuN3v2|9409|wlab.239074.1	K09313
+jgi|MicpuN3v2|940|wlab.233212.1	K10691
+jgi|MicpuN3v2|9410|wlab.7543.1
+jgi|MicpuN3v2|9411|wlab.7544.1
+jgi|MicpuN3v2|9412|wlab.239075.1	K05016
+jgi|MicpuN3v2|9413|wlab.248406.1	K19682
+jgi|MicpuN3v2|9414|wlab.239078.1
+jgi|MicpuN3v2|9415|wlab.239079.1
+jgi|MicpuN3v2|9416|wlab.239080.1
+jgi|MicpuN3v2|9417|wlab.239081.1
+jgi|MicpuN3v2|9418|wlab.239082.1
+jgi|MicpuN3v2|9419|wlab.248407.1
+jgi|MicpuN3v2|941|wlab.1274.1
+jgi|MicpuN3v2|9420|wlab.239084.1
+jgi|MicpuN3v2|9421|wlab.239085.1
+jgi|MicpuN3v2|9422|wlab.25894.1	K10755
+jgi|MicpuN3v2|9423|wlab.239086.1	K10837
+jgi|MicpuN3v2|9424|wlab.239087.1	K12448
+jgi|MicpuN3v2|9425|wlab.25896.1
+jgi|MicpuN3v2|9426|wlab.231963.1	K01889
+jgi|MicpuN3v2|9427|wlab.248408.1	K03969
+jgi|MicpuN3v2|9428|wlab.239089.1	K24970
+jgi|MicpuN3v2|9429|wlab.239090.1	K20790
+jgi|MicpuN3v2|942|wlab.244479.1	K03064
+jgi|MicpuN3v2|9430|wlab.239091.1	K01739
+jgi|MicpuN3v2|9431|wlab.246287.1	K03526
+jgi|MicpuN3v2|9432|wlab.246288.1	K19035
+jgi|MicpuN3v2|9433|wlab.239092.1	K02519
+jgi|MicpuN3v2|9434|wlab.239093.1	K03952
+jgi|MicpuN3v2|9435|wlab.239094.1
+jgi|MicpuN3v2|9436|wlab.246289.1
+jgi|MicpuN3v2|9437|wlab.248409.1
+jgi|MicpuN3v2|9438|wlab.248410.1	K22074
+jgi|MicpuN3v2|9439|wlab.239097.1	K24725
+jgi|MicpuN3v2|943|wlab.233211.1
+jgi|MicpuN3v2|9440|wlab.239098.1	K08678
+jgi|MicpuN3v2|9441|wlab.239099.1	K10990
+jgi|MicpuN3v2|9442|wlab.239100.1
+jgi|MicpuN3v2|9443|wlab.239162.1
+jgi|MicpuN3v2|9444|wlab.248411.1
+jgi|MicpuN3v2|9445|wlab.239163.1
+jgi|MicpuN3v2|9446|wlab.239102.1	K20028
+jgi|MicpuN3v2|9447|wlab.239103.1
+jgi|MicpuN3v2|9448|wlab.25911.1
+jgi|MicpuN3v2|9449|wlab.248567.1
+jgi|MicpuN3v2|944|wlab.233210.1	K16531
+jgi|MicpuN3v2|9450|wlab.239105.1	K07933
+jgi|MicpuN3v2|9451|wlab.239106.1
+jgi|MicpuN3v2|9452|wlab.239107.1
+jgi|MicpuN3v2|9453|wlab.239108.1
+jgi|MicpuN3v2|9454|wlab.1090.1	K07442
+jgi|MicpuN3v2|9455|wlab.239109.1
+jgi|MicpuN3v2|9456|wlab.239110.1	K12811
+jgi|MicpuN3v2|9457|wlab.231970.1	K14016
+jgi|MicpuN3v2|9458|wlab.239111.1
+jgi|MicpuN3v2|9459|wlab.239112.1
+jgi|MicpuN3v2|945|wlab.3969.1
+jgi|MicpuN3v2|9460|wlab.248412.1	K10408
+jgi|MicpuN3v2|9461|wlab.239114.1
+jgi|MicpuN3v2|9462|wlab.239115.1
+jgi|MicpuN3v2|9463|wlab.239116.1	K14651
+jgi|MicpuN3v2|9464|wlab.239117.1	K11808
+jgi|MicpuN3v2|9465|wlab.239118.1	K08790
+jgi|MicpuN3v2|9466|wlab.248413.1
+jgi|MicpuN3v2|9467|wlab.239120.1
+jgi|MicpuN3v2|9468|wlab.239121.1	K12873
+jgi|MicpuN3v2|9469|wlab.7567.1	K17613
+jgi|MicpuN3v2|946|wlab.3968.1
+jgi|MicpuN3v2|9470|wlab.239122.1	K03424
+jgi|MicpuN3v2|9471|wlab.239124.1
+jgi|MicpuN3v2|9472|wlab.239125.1	K11339
+jgi|MicpuN3v2|9473|wlab.239126.1	K11308
+jgi|MicpuN3v2|9474|wlab.239127.1
+jgi|MicpuN3v2|9475|wlab.7571.1
+jgi|MicpuN3v2|9476|wlab.7572.1
+jgi|MicpuN3v2|9477|wlab.9884.1
+jgi|MicpuN3v2|9478|wlab.3251.1
+jgi|MicpuN3v2|9479|wlab.239129.1
+jgi|MicpuN3v2|947|wlab.3967.1	K23093
+jgi|MicpuN3v2|9480|wlab.248414.1	K03841
+jgi|MicpuN3v2|9481|wlab.239131.1
+jgi|MicpuN3v2|9482|wlab.239132.1	K17279
+jgi|MicpuN3v2|9483|wlab.239133.1
+jgi|MicpuN3v2|9484|wlab.239134.1
+jgi|MicpuN3v2|9485|wlab.239135.1
+jgi|MicpuN3v2|9486|wlab.239136.1	K12608
+jgi|MicpuN3v2|9487|wlab.239137.1	K01803
+jgi|MicpuN3v2|9488|wlab.246295.1	K03386
+jgi|MicpuN3v2|9489|wlab.239138.1	K20181
+jgi|MicpuN3v2|948|wlab.233209.1
+jgi|MicpuN3v2|9490|wlab.2074.1
+jgi|MicpuN3v2|9491|wlab.239139.1
+jgi|MicpuN3v2|9492|wlab.248415.1
+jgi|MicpuN3v2|9493|wlab.248416.1
+jgi|MicpuN3v2|9494|wlab.239141.1
+jgi|MicpuN3v2|9495|wlab.7578.1
+jgi|MicpuN3v2|9496|wlab.239142.1
+jgi|MicpuN3v2|9497|wlab.239143.1	K15283
+jgi|MicpuN3v2|9498|wlab.239144.1
+jgi|MicpuN3v2|9499|wlab.239145.1
+jgi|MicpuN3v2|949|wlab.233207.1	K08081
+jgi|MicpuN3v2|94|wlab.232467.1	K04638
+jgi|MicpuN3v2|9500|wlab.239146.1
+jgi|MicpuN3v2|9501|wlab.239147.1
+jgi|MicpuN3v2|9502|wlab.239148.1	K01517
+jgi|MicpuN3v2|9503|wlab.248417.1
+jgi|MicpuN3v2|9504|wlab.248418.1
+jgi|MicpuN3v2|9505|wlab.7583.1
+jgi|MicpuN3v2|9506|wlab.248419.1
+jgi|MicpuN3v2|9507|wlab.25940.1
+jgi|MicpuN3v2|9508|wlab.21624.1
+jgi|MicpuN3v2|9509|wlab.239164.1	K19754
+jgi|MicpuN3v2|950|wlab.233206.1
+jgi|MicpuN3v2|9510|wlab.239165.1	K20292
+jgi|MicpuN3v2|9511|wlab.239166.1
+jgi|MicpuN3v2|9512|wlab.239415.1
+jgi|MicpuN3v2|9513|wlab.239167.1
+jgi|MicpuN3v2|9514|wlab.239168.1
+jgi|MicpuN3v2|9515|wlab.21627.1
+jgi|MicpuN3v2|9516|wlab.248710.1
+jgi|MicpuN3v2|9517|wlab.248711.1
+jgi|MicpuN3v2|9518|wlab.248432.1	K10734
+jgi|MicpuN3v2|9519|wlab.239171.1
+jgi|MicpuN3v2|951|wlab.233203.1
+jgi|MicpuN3v2|9520|wlab.239173.1
+jgi|MicpuN3v2|9521|wlab.1154.1	K20223
+jgi|MicpuN3v2|9522|wlab.239174.1	K00703
+jgi|MicpuN3v2|9523|wlab.239175.1
+jgi|MicpuN3v2|9524|wlab.7587.1
+jgi|MicpuN3v2|9525|wlab.7588.1
+jgi|MicpuN3v2|9526|wlab.248433.1	K11778
+jgi|MicpuN3v2|9527|wlab.239177.1
+jgi|MicpuN3v2|9528|wlab.239178.1	K08994
+jgi|MicpuN3v2|9529|wlab.239179.1	K14213
+jgi|MicpuN3v2|952|wlab.1272.1
+jgi|MicpuN3v2|9530|wlab.239180.1
+jgi|MicpuN3v2|9531|wlab.239181.1
+jgi|MicpuN3v2|9532|wlab.239182.1
+jgi|MicpuN3v2|9533|wlab.7592.1	K24810
+jgi|MicpuN3v2|9534|wlab.239184.1	K20715
+jgi|MicpuN3v2|9535|wlab.239185.1
+jgi|MicpuN3v2|9536|wlab.239187.1
+jgi|MicpuN3v2|9537|wlab.239186.1
+jgi|MicpuN3v2|9538|wlab.239188.1
+jgi|MicpuN3v2|9539|wlab.231975.1
+jgi|MicpuN3v2|953|wlab.233204.1
+jgi|MicpuN3v2|9540|wlab.2075.1
+jgi|MicpuN3v2|9541|wlab.239190.1
+jgi|MicpuN3v2|9542|wlab.2685.1	K08915
+jgi|MicpuN3v2|9543|wlab.239191.1	K19672
+jgi|MicpuN3v2|9544|wlab.239416.1
+jgi|MicpuN3v2|9545|wlab.239192.1
+jgi|MicpuN3v2|9546|wlab.7597.1
+jgi|MicpuN3v2|9547|wlab.248434.1
+jgi|MicpuN3v2|9548|wlab.248435.1
+jgi|MicpuN3v2|9549|wlab.239194.1
+jgi|MicpuN3v2|954|wlab.2743.1	K21198
+jgi|MicpuN3v2|9550|wlab.239195.1
+jgi|MicpuN3v2|9551|wlab.239196.1
+jgi|MicpuN3v2|9552|wlab.239197.1
+jgi|MicpuN3v2|9553|wlab.7602.1
+jgi|MicpuN3v2|9554|wlab.8937.1
+jgi|MicpuN3v2|9555|wlab.239198.1
+jgi|MicpuN3v2|9556|wlab.239199.1
+jgi|MicpuN3v2|9557|wlab.239200.1
+jgi|MicpuN3v2|9558|wlab.239201.1	K06173
+jgi|MicpuN3v2|9559|wlab.248436.1
+jgi|MicpuN3v2|955|wlab.233202.1	K12733
+jgi|MicpuN3v2|9560|wlab.7604.1
+jgi|MicpuN3v2|9561|wlab.239202.1
+jgi|MicpuN3v2|9562|wlab.7606.1
+jgi|MicpuN3v2|9563|wlab.239203.1	K12827
+jgi|MicpuN3v2|9564|wlab.25962.1
+jgi|MicpuN3v2|9565|wlab.248437.1	K10417
+jgi|MicpuN3v2|9566|wlab.239204.1
+jgi|MicpuN3v2|9567|wlab.7609.1	K08653
+jgi|MicpuN3v2|9568|wlab.248636.1	K21737
+jgi|MicpuN3v2|9569|wlab.25964.1
+jgi|MicpuN3v2|956|wlab.233201.1
+jgi|MicpuN3v2|9570|wlab.2266.1
+jgi|MicpuN3v2|9571|wlab.239206.1	K22696
+jgi|MicpuN3v2|9572|wlab.239207.1
+jgi|MicpuN3v2|9573|wlab.246306.1
+jgi|MicpuN3v2|9574|wlab.7613.1
+jgi|MicpuN3v2|9575|wlab.7614.1
+jgi|MicpuN3v2|9576|wlab.239208.1
+jgi|MicpuN3v2|9577|wlab.239209.1
+jgi|MicpuN3v2|9578|wlab.239210.1
+jgi|MicpuN3v2|9579|wlab.239211.1
+jgi|MicpuN3v2|957|wlab.247240.1
+jgi|MicpuN3v2|9580|wlab.7616.1
+jgi|MicpuN3v2|9581|wlab.239212.1
+jgi|MicpuN3v2|9582|wlab.239213.1	K19384
+jgi|MicpuN3v2|9583|wlab.239215.1	K23563
+jgi|MicpuN3v2|9584|wlab.248439.1	K11352
+jgi|MicpuN3v2|9585|wlab.29632.1
+jgi|MicpuN3v2|9586|wlab.248440.1
+jgi|MicpuN3v2|9587|wlab.239217.1	K10768
+jgi|MicpuN3v2|9588|wlab.239218.1
+jgi|MicpuN3v2|9589|wlab.25973.1
+jgi|MicpuN3v2|958|wlab.244478.1
+jgi|MicpuN3v2|9590|wlab.239219.1
+jgi|MicpuN3v2|9591|wlab.239220.1	K14209
+jgi|MicpuN3v2|9592|wlab.8943.1
+jgi|MicpuN3v2|9593|wlab.239221.1
+jgi|MicpuN3v2|9594|wlab.239222.1
+jgi|MicpuN3v2|9595|wlab.239223.1	K13348
+jgi|MicpuN3v2|9596|wlab.239224.1
+jgi|MicpuN3v2|9597|wlab.239225.1
+jgi|MicpuN3v2|9598|wlab.239226.1
+jgi|MicpuN3v2|9599|wlab.239227.1
+jgi|MicpuN3v2|959|wlab.244477.1	K02924
+jgi|MicpuN3v2|95|wlab.232465.1
+jgi|MicpuN3v2|9600|wlab.239228.1
+jgi|MicpuN3v2|9601|wlab.2486.1
+jgi|MicpuN3v2|9602|wlab.7626.1
+jgi|MicpuN3v2|9603|wlab.239230.1	K01940
+jgi|MicpuN3v2|9604|wlab.239229.1
+jgi|MicpuN3v2|9605|wlab.7628.1
+jgi|MicpuN3v2|9606|wlab.239231.1	K20027
+jgi|MicpuN3v2|9607|wlab.239232.1
+jgi|MicpuN3v2|9608|wlab.7630.1
+jgi|MicpuN3v2|9609|wlab.248441.1
+jgi|MicpuN3v2|960|wlab.244476.1	K20363
+jgi|MicpuN3v2|9610|wlab.248712.1	K15544
+jgi|MicpuN3v2|9611|wlab.248713.1	K02734
+jgi|MicpuN3v2|9612|wlab.248442.1	K15544
+jgi|MicpuN3v2|9613|wlab.2087.1	K02734
+jgi|MicpuN3v2|9614|wlab.239234.1
+jgi|MicpuN3v2|9615|wlab.239235.1
+jgi|MicpuN3v2|9616|wlab.239236.1	K11826
+jgi|MicpuN3v2|9617|wlab.239237.1
+jgi|MicpuN3v2|9618|wlab.239241.1
+jgi|MicpuN3v2|9619|wlab.239243.1
+jgi|MicpuN3v2|961|wlab.233200.1
+jgi|MicpuN3v2|9620|wlab.239239.1
+jgi|MicpuN3v2|9621|wlab.239238.1	K00919
+jgi|MicpuN3v2|9622|wlab.239240.1
+jgi|MicpuN3v2|9623|wlab.248443.1
+jgi|MicpuN3v2|9624|wlab.239242.1
+jgi|MicpuN3v2|9625|wlab.246307.1	K21763
+jgi|MicpuN3v2|9626|wlab.2091.1
+jgi|MicpuN3v2|9627|wlab.248588.1
+jgi|MicpuN3v2|9628|wlab.8946.1
+jgi|MicpuN3v2|9629|wlab.248547.1
+jgi|MicpuN3v2|962|wlab.3958.1
+jgi|MicpuN3v2|9630|wlab.248445.1
+jgi|MicpuN3v2|9631|wlab.239248.1
+jgi|MicpuN3v2|9632|wlab.7642.1
+jgi|MicpuN3v2|9633|wlab.9830.1	K15455
+jgi|MicpuN3v2|9634|wlab.239249.1
+jgi|MicpuN3v2|9635|wlab.7644.1
+jgi|MicpuN3v2|9636|wlab.7645.1
+jgi|MicpuN3v2|9637|wlab.239251.1	K14859
+jgi|MicpuN3v2|9638|wlab.239252.1	K14684
+jgi|MicpuN3v2|9639|wlab.239253.1	K02266
+jgi|MicpuN3v2|963|wlab.233199.1
+jgi|MicpuN3v2|9640|wlab.239254.1
+jgi|MicpuN3v2|9641|wlab.239255.1
+jgi|MicpuN3v2|9642|wlab.7648.1
+jgi|MicpuN3v2|9643|wlab.25995.1	K22913
+jgi|MicpuN3v2|9644|wlab.239256.1	K11984
+jgi|MicpuN3v2|9645|wlab.248446.1
+jgi|MicpuN3v2|9646|wlab.7650.1
+jgi|MicpuN3v2|9647|wlab.25997.1
+jgi|MicpuN3v2|9648|wlab.248447.1
+jgi|MicpuN3v2|9649|wlab.239257.1
+jgi|MicpuN3v2|964|wlab.233198.1	K00831
+jgi|MicpuN3v2|9650|wlab.239258.1	K02959
+jgi|MicpuN3v2|9651|wlab.239259.1	K15429
+jgi|MicpuN3v2|9652|wlab.239260.1
+jgi|MicpuN3v2|9653|wlab.239261.1	K09903
+jgi|MicpuN3v2|9654|wlab.246308.1	K02942
+jgi|MicpuN3v2|9655|wlab.239262.1	K04078
+jgi|MicpuN3v2|9656|wlab.248449.1	K00703
+jgi|MicpuN3v2|9657|wlab.248450.1	K17808
+jgi|MicpuN3v2|9658|wlab.239263.1	K03794
+jgi|MicpuN3v2|9659|wlab.239264.1	K02971
+jgi|MicpuN3v2|965|wlab.247241.1	K20303
+jgi|MicpuN3v2|9660|wlab.239265.1
+jgi|MicpuN3v2|9661|wlab.239266.1
+jgi|MicpuN3v2|9662|wlab.26005.1	K08901
+jgi|MicpuN3v2|9663|wlab.7655.1
+jgi|MicpuN3v2|9664|wlab.248451.1
+jgi|MicpuN3v2|9665|wlab.2862.1	K02889
+jgi|MicpuN3v2|9666|wlab.248452.1
+jgi|MicpuN3v2|9667|wlab.248453.1
+jgi|MicpuN3v2|9668|wlab.239268.1
+jgi|MicpuN3v2|9669|wlab.239269.1
+jgi|MicpuN3v2|966|wlab.233197.1	K02998
+jgi|MicpuN3v2|9670|wlab.2099.1
+jgi|MicpuN3v2|9671|wlab.248606.1
+jgi|MicpuN3v2|9672|wlab.7660.1	K02977
+jgi|MicpuN3v2|9673|wlab.239272.1	K19801
+jgi|MicpuN3v2|9674|wlab.239273.1
+jgi|MicpuN3v2|9675|wlab.239274.1	K00586
+jgi|MicpuN3v2|9676|wlab.7662.1
+jgi|MicpuN3v2|9677|wlab.248454.1
+jgi|MicpuN3v2|9678|wlab.248589.1
+jgi|MicpuN3v2|9679|wlab.239275.1
+jgi|MicpuN3v2|967|wlab.233195.1	K06911
+jgi|MicpuN3v2|9680|wlab.248457.1
+jgi|MicpuN3v2|9681|wlab.239276.1
+jgi|MicpuN3v2|9682|wlab.8952.1
+jgi|MicpuN3v2|9683|wlab.26014.1
+jgi|MicpuN3v2|9684|wlab.26015.1
+jgi|MicpuN3v2|9685|wlab.239278.1
+jgi|MicpuN3v2|9686|wlab.248459.1
+jgi|MicpuN3v2|9687|wlab.248458.1	K12600
+jgi|MicpuN3v2|9688|wlab.239280.1
+jgi|MicpuN3v2|9689|wlab.2101.1
+jgi|MicpuN3v2|968|wlab.233196.1
+jgi|MicpuN3v2|9690|wlab.26018.1
+jgi|MicpuN3v2|9691|wlab.26019.1
+jgi|MicpuN3v2|9692|wlab.239282.1
+jgi|MicpuN3v2|9693|wlab.239283.1	K10777
+jgi|MicpuN3v2|9694|wlab.239417.1
+jgi|MicpuN3v2|9695|wlab.239284.1
+jgi|MicpuN3v2|9696|wlab.239285.1
+jgi|MicpuN3v2|9697|wlab.239286.1
+jgi|MicpuN3v2|9698|wlab.248460.1	K01183
+jgi|MicpuN3v2|9699|wlab.239288.1
+jgi|MicpuN3v2|969|wlab.233194.1
+jgi|MicpuN3v2|96|wlab.1218.1
+jgi|MicpuN3v2|9700|wlab.248461.1
+jgi|MicpuN3v2|9701|wlab.248462.1
+jgi|MicpuN3v2|9702|wlab.239290.1
+jgi|MicpuN3v2|9703|wlab.246324.1	K01652
+jgi|MicpuN3v2|9704|wlab.239291.1
+jgi|MicpuN3v2|9705|wlab.239292.1	K20184
+jgi|MicpuN3v2|9706|wlab.239293.1
+jgi|MicpuN3v2|9707|wlab.7668.1
+jgi|MicpuN3v2|9708|wlab.239294.1	K03660
+jgi|MicpuN3v2|9709|wlab.231999.1	K08869
+jgi|MicpuN3v2|970|wlab.244475.1
+jgi|MicpuN3v2|9710|wlab.248463.1
+jgi|MicpuN3v2|9711|wlab.239296.1	K04681
+jgi|MicpuN3v2|9712|wlab.239297.1
+jgi|MicpuN3v2|9713|wlab.248464.1
+jgi|MicpuN3v2|9714|wlab.239298.1
+jgi|MicpuN3v2|9715|wlab.8957.1
+jgi|MicpuN3v2|9716|wlab.7674.1
+jgi|MicpuN3v2|9717|wlab.239300.1
+jgi|MicpuN3v2|9718|wlab.239301.1	K24426
+jgi|MicpuN3v2|9719|wlab.239302.1
+jgi|MicpuN3v2|971|wlab.1269.1
+jgi|MicpuN3v2|9720|wlab.239303.1	K22071
+jgi|MicpuN3v2|9721|wlab.239304.1
+jgi|MicpuN3v2|9722|wlab.239305.1
+jgi|MicpuN3v2|9723|wlab.7676.1
+jgi|MicpuN3v2|9724|wlab.26035.1
+jgi|MicpuN3v2|9725|wlab.239306.1	K14026
+jgi|MicpuN3v2|9726|wlab.239307.1
+jgi|MicpuN3v2|9727|wlab.246325.1
+jgi|MicpuN3v2|9728|wlab.239418.1
+jgi|MicpuN3v2|9729|wlab.239309.1
+jgi|MicpuN3v2|972|wlab.233192.1	K08592
+jgi|MicpuN3v2|9730|wlab.7679.1
+jgi|MicpuN3v2|9731|wlab.239310.1
+jgi|MicpuN3v2|9732|wlab.239311.1
+jgi|MicpuN3v2|9733|wlab.7682.1
+jgi|MicpuN3v2|9734|wlab.26038.1
+jgi|MicpuN3v2|9735|wlab.246326.1	K02930
+jgi|MicpuN3v2|9736|wlab.239313.1	K01836
+jgi|MicpuN3v2|9737|wlab.26040.1
+jgi|MicpuN3v2|9738|wlab.26041.1
+jgi|MicpuN3v2|9739|wlab.239314.1	K01951
+jgi|MicpuN3v2|973|wlab.233191.1
+jgi|MicpuN3v2|9740|wlab.239315.1	K03842
+jgi|MicpuN3v2|9741|wlab.7684.1
+jgi|MicpuN3v2|9742|wlab.239419.1
+jgi|MicpuN3v2|9743|wlab.239316.1
+jgi|MicpuN3v2|9744|wlab.239317.1	K00799
+jgi|MicpuN3v2|9745|wlab.239318.1	K12580
+jgi|MicpuN3v2|9746|wlab.21691.1	K09584
+jgi|MicpuN3v2|9747|wlab.239319.1
+jgi|MicpuN3v2|9748|wlab.239320.1
+jgi|MicpuN3v2|9749|wlab.239321.1	K11136
+jgi|MicpuN3v2|974|wlab.233293.1
+jgi|MicpuN3v2|9750|wlab.239322.1	K11322
+jgi|MicpuN3v2|9751|wlab.239323.1	K12836
+jgi|MicpuN3v2|9752|wlab.239324.1	K14771
+jgi|MicpuN3v2|9753|wlab.26049.1
+jgi|MicpuN3v2|9754|wlab.248465.1
+jgi|MicpuN3v2|9755|wlab.239325.1	K02201
+jgi|MicpuN3v2|9756|wlab.239326.1
+jgi|MicpuN3v2|9757|wlab.7693.1
+jgi|MicpuN3v2|9758|wlab.239327.1
+jgi|MicpuN3v2|9759|wlab.239328.1
+jgi|MicpuN3v2|975|wlab.233190.1	K11426
+jgi|MicpuN3v2|9760|wlab.248466.1
+jgi|MicpuN3v2|9761|wlab.7697.1
+jgi|MicpuN3v2|9762|wlab.232003.1	K08819
+jgi|MicpuN3v2|9763|wlab.246327.1
+jgi|MicpuN3v2|9764|wlab.248467.1	K11251
+jgi|MicpuN3v2|9765|wlab.232004.1
+jgi|MicpuN3v2|9766|wlab.248468.1	K01303
+jgi|MicpuN3v2|9767|wlab.239334.1	K00365
+jgi|MicpuN3v2|9768|wlab.239335.1
+jgi|MicpuN3v2|9769|wlab.239336.1
+jgi|MicpuN3v2|976|wlab.244474.1
+jgi|MicpuN3v2|9770|wlab.29692.1
+jgi|MicpuN3v2|9771|wlab.239337.1
+jgi|MicpuN3v2|9772|wlab.7700.1
+jgi|MicpuN3v2|9773|wlab.239338.1
+jgi|MicpuN3v2|9774|wlab.239339.1	K20607
+jgi|MicpuN3v2|9775|wlab.248469.1
+jgi|MicpuN3v2|9776|wlab.239341.1
+jgi|MicpuN3v2|9777|wlab.239342.1	K01214
+jgi|MicpuN3v2|9778|wlab.7702.1
+jgi|MicpuN3v2|9779|wlab.232008.1	K14676
+jgi|MicpuN3v2|977|wlab.233188.1	K11717
+jgi|MicpuN3v2|9780|wlab.7703.1	K01724
+jgi|MicpuN3v2|9781|wlab.246328.1
+jgi|MicpuN3v2|9782|wlab.239344.1
+jgi|MicpuN3v2|9783|wlab.239345.1
+jgi|MicpuN3v2|9784|wlab.239346.1
+jgi|MicpuN3v2|9785|wlab.248470.1
+jgi|MicpuN3v2|9786|wlab.246339.1
+jgi|MicpuN3v2|9787|wlab.248471.1
+jgi|MicpuN3v2|9788|wlab.248472.1	K12823
+jgi|MicpuN3v2|9789|wlab.239349.1
+jgi|MicpuN3v2|978|wlab.3954.1
+jgi|MicpuN3v2|9790|wlab.248473.1
+jgi|MicpuN3v2|9791|wlab.248474.1	K07018
+jgi|MicpuN3v2|9792|wlab.26063.1	K00522
+jgi|MicpuN3v2|9793|wlab.239351.1	K08737
+jgi|MicpuN3v2|9794|wlab.239352.1
+jgi|MicpuN3v2|9795|wlab.239353.1
+jgi|MicpuN3v2|9796|wlab.248475.1	K09510
+jgi|MicpuN3v2|9797|wlab.248476.1
+jgi|MicpuN3v2|9798|wlab.248477.1
+jgi|MicpuN3v2|9799|wlab.239358.1
+jgi|MicpuN3v2|979|wlab.244473.1
+jgi|MicpuN3v2|97|wlab.1219.1	K09013
+jgi|MicpuN3v2|9800|wlab.239356.1	K03934
+jgi|MicpuN3v2|9801|wlab.248478.1
+jgi|MicpuN3v2|9802|wlab.248479.1
+jgi|MicpuN3v2|9803|wlab.248425.1
+jgi|MicpuN3v2|9804|wlab.239361.1
+jgi|MicpuN3v2|9805|wlab.239363.1
+jgi|MicpuN3v2|9806|wlab.239364.1
+jgi|MicpuN3v2|9807|wlab.239365.1
+jgi|MicpuN3v2|9808|wlab.232011.1
+jgi|MicpuN3v2|9809|wlab.232012.1
+jgi|MicpuN3v2|980|wlab.233185.1	K13696
+jgi|MicpuN3v2|9810|wlab.7719.1
+jgi|MicpuN3v2|9811|wlab.246332.1
+jgi|MicpuN3v2|9812|wlab.239369.1	K07562
+jgi|MicpuN3v2|9813|wlab.239370.1
+jgi|MicpuN3v2|9814|wlab.239371.1	K11778
+jgi|MicpuN3v2|9815|wlab.239372.1
+jgi|MicpuN3v2|9816|wlab.239373.1
+jgi|MicpuN3v2|9817|wlab.239374.1	K00254
+jgi|MicpuN3v2|9818|wlab.239375.1	K14190
+jgi|MicpuN3v2|9819|wlab.239376.1
+jgi|MicpuN3v2|981|wlab.233186.1	K13696
+jgi|MicpuN3v2|9820|wlab.26072.1	K18106
+jgi|MicpuN3v2|9821|wlab.7727.1
+jgi|MicpuN3v2|9822|wlab.232013.1	K14416
+jgi|MicpuN3v2|9823|wlab.248481.1
+jgi|MicpuN3v2|9824|wlab.239377.1	K15422
+jgi|MicpuN3v2|9825|wlab.239378.1
+jgi|MicpuN3v2|9826|wlab.239379.1
+jgi|MicpuN3v2|9827|wlab.248482.1
+jgi|MicpuN3v2|9828|wlab.239381.1
+jgi|MicpuN3v2|9829|wlab.239380.1	K11594
+jgi|MicpuN3v2|982|wlab.233184.1	K00791
+jgi|MicpuN3v2|9830|wlab.239382.1
+jgi|MicpuN3v2|9831|wlab.239383.1
+jgi|MicpuN3v2|9832|wlab.239384.1
+jgi|MicpuN3v2|9833|wlab.239385.1
+jgi|MicpuN3v2|9834|wlab.248483.1
+jgi|MicpuN3v2|9835|wlab.239386.1
+jgi|MicpuN3v2|9836|wlab.8969.1
+jgi|MicpuN3v2|9837|wlab.239388.1
+jgi|MicpuN3v2|9838|wlab.239389.1
+jgi|MicpuN3v2|9839|wlab.239390.1
+jgi|MicpuN3v2|983|wlab.8113.1
+jgi|MicpuN3v2|9840|wlab.7740.1
+jgi|MicpuN3v2|9841|wlab.239391.1	K05869
+jgi|MicpuN3v2|9842|wlab.248484.1
+jgi|MicpuN3v2|9843|wlab.248485.1	K17065
+jgi|MicpuN3v2|9844|wlab.232021.1
+jgi|MicpuN3v2|9845|wlab.239393.1
+jgi|MicpuN3v2|9846|wlab.232023.1
+jgi|MicpuN3v2|9847|wlab.248486.1	K01805
+jgi|MicpuN3v2|9848|wlab.239394.1
+jgi|MicpuN3v2|9849|wlab.2490.1
+jgi|MicpuN3v2|984|wlab.244471.1	K02991
+jgi|MicpuN3v2|9850|wlab.248487.1	K10408
+jgi|MicpuN3v2|9851|wlab.8971.1
+jgi|MicpuN3v2|9852|wlab.239396.1
+jgi|MicpuN3v2|9853|wlab.239397.1
+jgi|MicpuN3v2|9854|wlab.239398.1
+jgi|MicpuN3v2|9855|wlab.239399.1
+jgi|MicpuN3v2|9856|wlab.248590.1
+jgi|MicpuN3v2|9857|wlab.239401.1
+jgi|MicpuN3v2|9858|wlab.239402.1	K08853
+jgi|MicpuN3v2|9859|wlab.239403.1
+jgi|MicpuN3v2|985|wlab.233182.1	K02607
+jgi|MicpuN3v2|9860|wlab.248489.1
+jgi|MicpuN3v2|9861|wlab.248490.1	K11493
+jgi|MicpuN3v2|9862|wlab.239405.1
+jgi|MicpuN3v2|9863|wlab.239406.1
+jgi|MicpuN3v2|9864|wlab.239407.1	K10772
+jgi|MicpuN3v2|9865|wlab.239408.1
+jgi|MicpuN3v2|9866|wlab.246334.1	K18930
+jgi|MicpuN3v2|9867|wlab.239410.1
+jgi|MicpuN3v2|9868|wlab.239411.1	K25459
+jgi|MicpuN3v2|9869|wlab.248491.1
+jgi|MicpuN3v2|986|wlab.3951.1
+jgi|MicpuN3v2|9870|wlab.248492.1	K03797
+jgi|MicpuN3v2|9871|wlab.239413.1	K20724
+jgi|MicpuN3v2|9872|wlab.239414.1	K02603
+jgi|MicpuN3v2|9873|wlab.248493.1	K09838
+jgi|MicpuN3v2|9874|wlab.239425.1
+jgi|MicpuN3v2|9875|wlab.239426.1
+jgi|MicpuN3v2|9876|wlab.239649.1	K07561
+jgi|MicpuN3v2|9877|wlab.29731.1	K09848
+jgi|MicpuN3v2|9878|wlab.2121.1
+jgi|MicpuN3v2|9879|wlab.7751.1
+jgi|MicpuN3v2|987|wlab.233181.1
+jgi|MicpuN3v2|9880|wlab.248494.1
+jgi|MicpuN3v2|9881|wlab.26099.1
+jgi|MicpuN3v2|9882|wlab.232025.1
+jgi|MicpuN3v2|9883|wlab.7753.1	K17069
+jgi|MicpuN3v2|9884|wlab.248495.1
+jgi|MicpuN3v2|9885|wlab.248496.1
+jgi|MicpuN3v2|9886|wlab.239430.1
+jgi|MicpuN3v2|9887|wlab.239431.1
+jgi|MicpuN3v2|9888|wlab.239432.1
+jgi|MicpuN3v2|9889|wlab.232027.1
+jgi|MicpuN3v2|988|wlab.2296.1
+jgi|MicpuN3v2|9890|wlab.239654.1
+jgi|MicpuN3v2|9891|wlab.239434.1
+jgi|MicpuN3v2|9892|wlab.239435.1	K00858
+jgi|MicpuN3v2|9893|wlab.239436.1
+jgi|MicpuN3v2|9894|wlab.239437.1	K14683
+jgi|MicpuN3v2|9895|wlab.239439.1
+jgi|MicpuN3v2|9896|wlab.239438.1	K13103
+jgi|MicpuN3v2|9897|wlab.26108.1
+jgi|MicpuN3v2|9898|wlab.239441.1	K14788
+jgi|MicpuN3v2|9899|wlab.239442.1
+jgi|MicpuN3v2|989|wlab.3949.1
+jgi|MicpuN3v2|98|wlab.21866.1
+jgi|MicpuN3v2|9900|wlab.239443.1
+jgi|MicpuN3v2|9901|wlab.239444.1
+jgi|MicpuN3v2|9902|wlab.239445.1	K24543
+jgi|MicpuN3v2|9903|wlab.239446.1	K07760
+jgi|MicpuN3v2|9904|wlab.239447.1	K13104
+jgi|MicpuN3v2|9905|wlab.239448.1	K04345
+jgi|MicpuN3v2|9906|wlab.2120.1
+jgi|MicpuN3v2|9907|wlab.2273.1	K00235
+jgi|MicpuN3v2|9908|wlab.248497.1	K03235
+jgi|MicpuN3v2|9909|wlab.239451.1	K20069
+jgi|MicpuN3v2|990|wlab.1267.1
+jgi|MicpuN3v2|9910|wlab.239452.1
+jgi|MicpuN3v2|9911|wlab.7760.1
+jgi|MicpuN3v2|9912|wlab.7761.1
+jgi|MicpuN3v2|9913|wlab.232028.1	K01309
+jgi|MicpuN3v2|9914|wlab.248498.1
+jgi|MicpuN3v2|9915|wlab.8979.1
+jgi|MicpuN3v2|9916|wlab.239455.1
+jgi|MicpuN3v2|9917|wlab.239456.1
+jgi|MicpuN3v2|9918|wlab.239457.1	K03301
+jgi|MicpuN3v2|9919|wlab.29747.1	K01881
+jgi|MicpuN3v2|991|wlab.3948.1
+jgi|MicpuN3v2|9920|wlab.239459.1	K25532
+jgi|MicpuN3v2|9921|wlab.239460.1
+jgi|MicpuN3v2|9922|wlab.239461.1	K07342
+jgi|MicpuN3v2|9923|wlab.239462.1	K08057
+jgi|MicpuN3v2|9924|wlab.239463.1
+jgi|MicpuN3v2|9925|wlab.246348.1	K00789
+jgi|MicpuN3v2|9926|wlab.7768.1
+jgi|MicpuN3v2|9927|wlab.26122.1
+jgi|MicpuN3v2|9928|wlab.239464.1
+jgi|MicpuN3v2|9929|wlab.7770.1
+jgi|MicpuN3v2|992|wlab.244470.1
+jgi|MicpuN3v2|9930|wlab.8981.1	K09516
+jgi|MicpuN3v2|9931|wlab.26123.1
+jgi|MicpuN3v2|9932|wlab.239465.1
+jgi|MicpuN3v2|9933|wlab.239467.1
+jgi|MicpuN3v2|9934|wlab.239466.1	K07739
+jgi|MicpuN3v2|9935|wlab.239468.1
+jgi|MicpuN3v2|9936|wlab.26125.1	K03671
+jgi|MicpuN3v2|9937|wlab.7774.1	K12821
+jgi|MicpuN3v2|9938|wlab.239470.1	K02737
+jgi|MicpuN3v2|9939|wlab.248499.1
+jgi|MicpuN3v2|993|wlab.233178.1	K06027
+jgi|MicpuN3v2|9940|wlab.239471.1	K03216
+jgi|MicpuN3v2|9941|wlab.239472.1
+jgi|MicpuN3v2|9942|wlab.239473.1	K10390
+jgi|MicpuN3v2|9943|wlab.239474.1
+jgi|MicpuN3v2|9944|wlab.239475.1
+jgi|MicpuN3v2|9945|wlab.7779.1
+jgi|MicpuN3v2|9946|wlab.239476.1	K03256
+jgi|MicpuN3v2|9947|wlab.239477.1
+jgi|MicpuN3v2|9948|wlab.239478.1	K02988
+jgi|MicpuN3v2|9949|wlab.239479.1
+jgi|MicpuN3v2|994|wlab.247242.1
+jgi|MicpuN3v2|9950|wlab.239480.1
+jgi|MicpuN3v2|9951|wlab.248500.1	K23567
+jgi|MicpuN3v2|9952|wlab.248501.1	K15361
+jgi|MicpuN3v2|9953|wlab.239482.1	K12837
+jgi|MicpuN3v2|9954|wlab.248502.1
+jgi|MicpuN3v2|9955|wlab.239484.1	K18681
+jgi|MicpuN3v2|9956|wlab.239485.1
+jgi|MicpuN3v2|9957|wlab.239486.1
+jgi|MicpuN3v2|9958|wlab.8986.1
+jgi|MicpuN3v2|9959|wlab.239487.1
+jgi|MicpuN3v2|995|wlab.1265.1	K13347
+jgi|MicpuN3v2|9960|wlab.26133.1
+jgi|MicpuN3v2|9961|wlab.248504.1
+jgi|MicpuN3v2|9962|wlab.248505.1	K05761
+jgi|MicpuN3v2|9963|wlab.7788.1
+jgi|MicpuN3v2|9964|wlab.248506.1	K16538
+jgi|MicpuN3v2|9965|wlab.239490.1
+jgi|MicpuN3v2|9966|wlab.239491.1
+jgi|MicpuN3v2|9967|wlab.239492.1	K00940
+jgi|MicpuN3v2|9968|wlab.239494.1	K17086
+jgi|MicpuN3v2|9969|wlab.239493.1
+jgi|MicpuN3v2|996|wlab.233177.1
+jgi|MicpuN3v2|9970|wlab.239495.1	K08106
+jgi|MicpuN3v2|9971|wlab.239496.1	K00609
+jgi|MicpuN3v2|9972|wlab.232039.1	K08869
+jgi|MicpuN3v2|9973|wlab.239497.1	K07560
+jgi|MicpuN3v2|9974|wlab.239498.1
+jgi|MicpuN3v2|9975|wlab.246349.1	K02921
+jgi|MicpuN3v2|9976|wlab.7791.1
+jgi|MicpuN3v2|9977|wlab.239500.1	K03124
+jgi|MicpuN3v2|9978|wlab.7793.1
+jgi|MicpuN3v2|9979|wlab.7794.1
+jgi|MicpuN3v2|997|wlab.22614.1
+jgi|MicpuN3v2|9980|wlab.239501.1
+jgi|MicpuN3v2|9981|wlab.239502.1	K03294
+jgi|MicpuN3v2|9982|wlab.246350.1	K01895
+jgi|MicpuN3v2|9983|wlab.239503.1
+jgi|MicpuN3v2|9984|wlab.232041.1	K11878
+jgi|MicpuN3v2|9985|wlab.232042.1
+jgi|MicpuN3v2|9986|wlab.239506.1
+jgi|MicpuN3v2|9987|wlab.239507.1
+jgi|MicpuN3v2|9988|wlab.14804.1	K03848
+jgi|MicpuN3v2|9989|wlab.7801.1
+jgi|MicpuN3v2|998|wlab.233175.1	K10901
+jgi|MicpuN3v2|9990|wlab.26144.1	K03848
+jgi|MicpuN3v2|9991|wlab.7802.1
+jgi|MicpuN3v2|9992|wlab.239508.1
+jgi|MicpuN3v2|9993|wlab.239509.1
+jgi|MicpuN3v2|9994|wlab.239510.1
+jgi|MicpuN3v2|9995|wlab.7803.1
+jgi|MicpuN3v2|9996|wlab.239511.1	K15292
+jgi|MicpuN3v2|9997|wlab.239512.1
+jgi|MicpuN3v2|9998|wlab.239513.1
+jgi|MicpuN3v2|9999|wlab.7805.1
+jgi|MicpuN3v2|999|wlab.233173.1	K17268
+jgi|MicpuN3v2|99|wlab.232463.1
+jgi|MicpuN3v2|9|wlab.232536.1
